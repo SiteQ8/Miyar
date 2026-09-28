@@ -8,7 +8,9 @@ const html = readFileSync(join(root, 'docs/index.html'), 'utf8');
 const ui = read('data/ui.json');
 
 test('index.html references assets that exist and only local resources', () => {
-  for (const m of html.matchAll(/(?:href|src)="([^"#]+)"/g)) {
+  const tags = [...html.matchAll(/<script[^>]*src="([^"]+)"/g), ...html.matchAll(/<link[^>]*rel="(?:stylesheet|icon)"[^>]*href="([^"]+)"/g)];
+  assert.ok(tags.length >= 4, 'expected local scripts and stylesheets');
+  for (const m of tags) {
     const p = m[1];
     if (p.startsWith('http')) assert.fail(`external resource ${p}`);
     assert.ok(existsSync(join(root, 'docs', p)), `missing ${p}`);

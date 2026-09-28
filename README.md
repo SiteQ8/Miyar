@@ -1,6 +1,6 @@
-# Security architecture checklists
+# Miyar | معيار
 
-Bilingual (Arabic and English) checklists that let a security architect assess one application or one vendor engagement against a regulator's controls and come out with a defensible coverage figure on the cover page.
+Security architecture checklists, live at [miyar.3li.info](https://miyar.3li.info). Bilingual (Arabic and English) checklists that let a security architect assess one application or one vendor engagement against a regulator's controls and come out with a defensible coverage figure on the cover page.
 
 Three checklists per jurisdiction, each with profile overlays instead of copies:
 
@@ -56,9 +56,9 @@ MIT. See `LICENSE` and `NOTICE.md`.
 
 <div dir="rtl" lang="ar">
 
-# قوائم التحقق للمعمارية الأمنية
+# معيار | Miyar
 
-قوائم تحقق ثنائية اللغة تمكّن مهندس الأمن من تقييم تطبيق واحد أو تعاقد واحد مع مورد وفق ضوابط الجهة التنظيمية والخروج بنسبة تغطية يمكن الدفاع عنها في صفحة الغلاف.
+قوائم تحقق للمعمارية الأمنية على [miyar.3li.info](https://miyar.3li.info) وهي قوائم ثنائية اللغة تمكّن مهندس الأمن من تقييم تطبيق واحد أو تعاقد واحد مع مورد وفق ضوابط الجهة التنظيمية والخروج بنسبة تغطية يمكن الدفاع عنها في صفحة الغلاف.
 
 ثلاث قوائم لكل جهة تنظيمية ولكل منها أنماط تُفعّل بدلاً من النسخ المتعددة وهي التطبيق داخل المنشأة والتطبيق السحابي والمورد أو الطرف الخارجي.
 
