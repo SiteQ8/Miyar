@@ -1,0 +1,13 @@
+{
+ "schema": "checklists/1",
+ "name_en": "",
+ "name_ar": "",
+ "repo": "",
+ "slug": "",
+ "domain": "",
+ "owner": "SiteQ8",
+ "author": "Ali AlEnezi",
+ "version": "0.1.0",
+ "tagline_en": "Security architecture checklists for applications, cloud services and vendors, jurisdiction by jurisdiction, with a cover page that scores regulatory coverage",
+ "tagline_ar": "قوائم تحقق للمعمارية الأمنية للتطبيقات والخدمات السحابية والموردين جهة تنظيمية بعد أخرى مع صفحة غلاف تقيس التغطية التنظيمية"
+}

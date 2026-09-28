@@ -1,0 +1,2087 @@
+{
+ "about": "Assignment of every CORF control to the three checklists, the level it is evidenced at, and the profile overlays that switch it on. Area rules apply to all controls in the area unless a control override says otherwise. profiles empty means base (always applicable). level_v and profiles_v apply to the vendor checklist only.",
+ "lists": [
+  "onprem",
+  "cloud",
+  "vendor"
+ ],
+ "levels": [
+  "app",
+  "hosting",
+  "entity"
+ ],
+ "areas": {
+  "crb:4.1.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.1.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.1.3": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.1.4": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.1.5": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.1.6": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.2.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.2.4": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.4.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.4.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.4.3": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.4.4": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.5.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.5.3": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:4.2.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:4.2.3": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:4.2.5": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:4.3.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:4.5.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "entity",
+   "profiles": [],
+   "level_v": "app"
+  },
+  "crb:5.1.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.1.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.1.3": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.2.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:5.2.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.2.3": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.2.4": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.2.5": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "hosting",
+   "profiles": []
+  },
+  "crb:5.3.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "hosting",
+   "profiles": []
+  },
+  "crb:5.3.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "hosting",
+   "profiles": []
+  },
+  "crb:5.3.3": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.4.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "entity",
+   "profiles": [],
+   "level_v": "app"
+  },
+  "crb:5.4.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "entity",
+   "profiles": [],
+   "level_v": "app"
+  },
+  "crb:5.5.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:5.5.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "email"
+   ]
+  },
+  "crb:5.6.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.6.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "remote"
+   ],
+   "profiles_v": []
+  },
+  "crb:5.6.3": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.7.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.8.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.8.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.8.3": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "api"
+   ],
+   "profiles_v": [
+    "api"
+   ]
+  },
+  "crb:5.9.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.10.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.11.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.11.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "pii"
+   ],
+   "profiles_v": [
+    "pii"
+   ]
+  },
+  "crb:5.12.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.12.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "hosting",
+   "profiles": [],
+   "level_v": "app"
+  },
+  "crb:5.12.3": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "entity",
+   "profiles": [],
+   "level_v": "app"
+  },
+  "crb:5.12.4": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "entity",
+   "profiles": [],
+   "level_v": "app"
+  },
+  "crb:5.13.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.13.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:5.14.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "hosting",
+   "profiles": []
+  },
+  "crb:5.14.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "iot"
+   ],
+   "profiles_v": [
+    "iot"
+   ]
+  },
+  "crb:5.15.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "entity",
+   "profiles": [],
+   "level_v": "app"
+  },
+  "crb:5.15.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:5.16.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "digital"
+   ]
+  },
+  "crb:6.1.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "cots"
+   ],
+   "profiles_v": []
+  },
+  "crb:6.2.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:7.1.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "ai",
+    "dlt",
+    "fiveg",
+    "iot",
+    "newtech"
+   ],
+   "profiles_v": [
+    "ai",
+    "dlt",
+    "fiveg",
+    "iot",
+    "newtech"
+   ]
+  },
+  "crb:7.1.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "ai"
+   ],
+   "profiles_v": [
+    "ai"
+   ]
+  },
+  "crb:7.1.3": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "dlt"
+   ],
+   "profiles_v": [
+    "dlt"
+   ]
+  },
+  "crb:7.1.4": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:7.2.1": {
+   "lists": [
+    "c"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:7.2.2": {
+   "lists": [
+    "c"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:7.2.3": {
+   "lists": [
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [],
+   "profiles_v": [
+    "vcloud"
+   ]
+  },
+  "crb:7.2.4": {
+   "lists": [
+    "c"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:8.1.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "pay"
+   ]
+  },
+  "crb:8.1.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "onboarding"
+   ]
+  },
+  "crb:8.1.3": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "pay",
+    "digital"
+   ]
+  },
+  "crb:8.1.4": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "pay"
+   ]
+  },
+  "crb:8.2.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "pay"
+   ]
+  },
+  "crb:8.2.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "pay"
+   ],
+   "profiles_v": [
+    "vpay"
+   ]
+  },
+  "crb:8.3.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "digital"
+   ]
+  },
+  "crb:8.3.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "openbanking"
+   ],
+   "profiles_v": [
+    "openbanking"
+   ]
+  },
+  "crb:8.3.3": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "wallet"
+   ]
+  },
+  "crb:8.4.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "pay"
+   ],
+   "profiles_v": [
+    "vpay"
+   ]
+  },
+  "crb:8.5.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "hosting",
+   "profiles": [
+    "ssm"
+   ]
+  },
+  "crb:8.5.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "ssm"
+   ]
+  },
+  "crb:8.6.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "contactless"
+   ]
+  },
+  "crb:9.1.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "crb:9.1.2": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [],
+   "level_v": "app"
+  },
+  "crb:9.1.3": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ],
+   "profiles_v": [
+    "vcritical"
+   ]
+  },
+  "crb:9.1.4": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ],
+   "profiles_v": [
+    "vcritical"
+   ]
+  },
+  "crb:9.2.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:9.2.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:9.2.3": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:3.1.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:3.1.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:3.1.3": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:3.1.4": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:3.2.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:3.3.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:4.1.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:4.2.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:4.3.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:4.3.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:5.1.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:5.2.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:5.3.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:6.5.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:8.1.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:8.1.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:8.2.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:8.2.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:10.1.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:10.1.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:10.1.3": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:10.1.4": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:10.1.5": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:10.1.6": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "orb:5.1.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ]
+  },
+  "orb:5.1.3": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ]
+  },
+  "orb:5.1.4": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ]
+  },
+  "orb:5.2.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ]
+  },
+  "orb:6.1.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "orb:6.2.1": {
+   "lists": [
+    "o",
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "orb:6.3.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ]
+  },
+  "orb:6.4.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ]
+  },
+  "orb:6.4.2": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ]
+  },
+  "orb:6.5.1": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ]
+  },
+  "orb:6.5.3": {
+   "lists": [
+    "o",
+    "c"
+   ],
+   "level": "app",
+   "profiles": [
+    "critical"
+   ]
+  },
+  "tprm:3.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:3.1.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:3.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:3.2.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:3.2.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:3.3.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:3.3.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:3.3.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:3.3.4": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:3.4.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:3.4.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:4.1.4": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:4.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:4.1.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:4.1.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:4.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:4.2.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:4.2.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:4.3.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:4.3.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:5.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:5.2.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:5.3.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:5.5.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:5.6.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:5.6.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:5.6.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:5.7.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:6.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:6.1.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:6.1.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:6.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:6.2.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:7.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:8.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:8.1.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:8.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:8.2.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:8.3.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:8.3.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:8.3.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:9.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:11.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:12.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:12.1.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:12.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:12.2.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:12.3.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": []
+  },
+  "tprm:5.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:6.2.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "entity",
+   "profiles": []
+  },
+  "tprm:5.4.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vonsite"
+   ]
+  },
+  "tprm:6.3.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vcritical"
+   ]
+  },
+  "tprm:6.3.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vcritical"
+   ]
+  },
+  "tprm:6.3.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vcritical"
+   ]
+  },
+  "tprm:7.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vcritical"
+   ]
+  },
+  "tprm:7.2.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vcritical"
+   ]
+  },
+  "tprm:7.2.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vcritical"
+   ]
+  },
+  "tprm:7.3.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vcritical"
+   ]
+  },
+  "tprm:7.3.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vcritical"
+   ]
+  },
+  "tprm:7.4.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vcritical"
+   ]
+  },
+  "tprm:7.5.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vcritical"
+   ]
+  },
+  "tprm:9.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.2.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.3.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.3.3": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.3.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:10.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vsub"
+   ]
+  },
+  "tprm:10.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vsub"
+   ]
+  },
+  "tprm:13.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "crossborder"
+   ]
+  },
+  "tprm:13.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "crossborder"
+   ]
+  },
+  "tprm:13.3.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "crossborder"
+   ]
+  },
+  "tprm:13.4.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "crossborder"
+   ]
+  },
+  "tprm:13.4.2": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "crossborder"
+   ]
+  },
+  "tprm:14.1.1": {
+   "lists": [
+    "c",
+    "v"
+   ],
+   "level": "app",
+   "profiles": [],
+   "profiles_v": [
+    "vcloud"
+   ]
+  },
+  "tprm:15.1.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vaffiliate"
+   ]
+  },
+  "tprm:15.2.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vaffiliate"
+   ]
+  },
+  "tprm:15.3.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vaffiliate"
+   ]
+  },
+  "tprm:15.4.1": {
+   "lists": [
+    "v"
+   ],
+   "level": "app",
+   "profiles": [
+    "vaffiliate"
+   ]
+  }
+ },
+ "controls": {
+  "crb:4.3.1.3": {
+   "level": "entity"
+  },
+  "crb:4.3.1.4": {
+   "level": "entity"
+  },
+  "crb:5.2.4.2": {
+   "level": "entity"
+  },
+  "crb:5.3.1.1": {
+   "level": "entity"
+  },
+  "crb:5.3.1.2": {
+   "level": "entity"
+  },
+  "crb:5.3.1.5": {
+   "level": "app"
+  },
+  "crb:5.5.2.2": {
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:5.5.2.4": {
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:5.6.1.1": {
+   "level": "entity"
+  },
+  "crb:5.6.1.2": {
+   "level": "entity"
+  },
+  "crb:5.6.1.15": {
+   "level": "entity"
+  },
+  "crb:5.6.1.17": {
+   "level": "hosting"
+  },
+  "crb:5.6.2.1": {
+   "level": "entity"
+  },
+  "crb:5.6.3.1": {
+   "level": "entity"
+  },
+  "crb:5.7.1.1": {
+   "level": "entity"
+  },
+  "crb:5.8.1.1": {
+   "level": "entity"
+  },
+  "crb:5.8.1.10": {
+   "profiles": [
+    "critical"
+   ]
+  },
+  "crb:5.8.2.1": {
+   "profiles": [
+    "cots"
+   ]
+  },
+  "crb:5.9.1.1": {
+   "level": "entity"
+  },
+  "crb:5.10.1.1": {
+   "level": "entity"
+  },
+  "crb:5.11.1.1": {
+   "level": "entity"
+  },
+  "crb:5.11.2.1": {
+   "level": "entity"
+  },
+  "crb:5.12.1.1": {
+   "level": "entity"
+  },
+  "crb:5.12.1.5": {
+   "level": "hosting"
+  },
+  "crb:5.12.1.6": {
+   "level": "entity"
+  },
+  "crb:5.12.2.1": {
+   "level": "entity"
+  },
+  "crb:5.13.1.1": {
+   "level": "entity"
+  },
+  "crb:5.13.1.6": {
+   "profiles": [
+    "digital",
+    "api"
+   ]
+  },
+  "crb:5.13.1.8": {
+   "level": "entity"
+  },
+  "crb:5.13.2.1": {
+   "level": "entity"
+  },
+  "crb:5.13.2.5": {
+   "profiles": [
+    "critical"
+   ]
+  },
+  "crb:5.13.2.6": {
+   "profiles": [
+    "critical"
+   ]
+  },
+  "crb:5.13.2.7": {
+   "profiles": [
+    "critical"
+   ]
+  },
+  "crb:5.13.2.8": {
+   "profiles": [
+    "critical"
+   ]
+  },
+  "crb:5.13.2.9": {
+   "profiles": [
+    "critical"
+   ]
+  },
+  "crb:5.13.2.10": {
+   "profiles": [
+    "critical"
+   ]
+  },
+  "crb:5.13.2.11": {
+   "profiles": [
+    "critical"
+   ]
+  },
+  "crb:5.14.1.1": {
+   "level": "entity"
+  },
+  "crb:5.14.1.5": {
+   "level": "entity"
+  },
+  "crb:5.14.1.12": {
+   "level": "entity"
+  },
+  "crb:5.16.1.1": {
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:5.16.1.2": {
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:5.16.1.7": {
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:6.1.1.1": {
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:6.1.1.6": {
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:6.2.1.4": {
+   "level": "entity"
+  },
+  "crb:7.1.1.1": {
+   "level": "entity",
+   "profiles": []
+  },
+  "crb:7.1.4.3": {
+   "level": "entity"
+  },
+  "crb:7.1.4.5": {
+   "profiles": [
+    "fiveg"
+   ]
+  },
+  "crb:7.1.4.6": {
+   "profiles": [
+    "fiveg"
+   ]
+  },
+  "crb:7.2.1.1": {
+   "level": "entity"
+  },
+  "crb:7.2.1.2": {
+   "level": "entity"
+  },
+  "crb:8.1.1.1": {
+   "level": "entity"
+  },
+  "crb:8.1.1.2": {
+   "level": "entity"
+  },
+  "crb:8.2.1.1": {
+   "level": "entity"
+  },
+  "crb:8.2.2.1": {
+   "level": "entity"
+  },
+  "crb:8.2.2.7": {
+   "level": "entity"
+  },
+  "crb:9.1.1.1": {
+   "level": "entity"
+  },
+  "crb:9.1.1.2": {
+   "level": "entity"
+  },
+  "crb:9.1.1.4": {
+   "level": "hosting"
+  },
+  "crb:9.1.1.5": {
+   "level": "entity"
+  },
+  "crb:9.1.1.6": {
+   "level": "entity"
+  },
+  "crb:9.1.2.1": {
+   "level": "entity"
+  },
+  "crb:9.1.4.4": {
+   "level": "entity"
+  },
+  "crb:9.1.4.5": {
+   "level": "entity"
+  },
+  "crb:9.1.4.6": {
+   "level": "entity"
+  },
+  "crb:9.1.4.7": {
+   "level": "entity"
+  },
+  "crb:9.1.4.8": {
+   "level": "entity"
+  },
+  "crb:9.1.4.9": {
+   "level": "entity"
+  },
+  "orb:5.1.4.2": {
+   "level": "entity"
+  },
+  "orb:5.1.4.3": {
+   "level": "entity"
+  },
+  "orb:5.2.1.4": {
+   "level": "hosting"
+  },
+  "orb:5.2.1.5": {
+   "level": "entity"
+  },
+  "orb:6.2.1.1": {
+   "level": "entity"
+  },
+  "orb:6.4.1.1": {
+   "level": "entity"
+  },
+  "orb:6.4.1.5": {
+   "level": "entity"
+  },
+  "orb:6.4.1.6": {
+   "level": "entity"
+  },
+  "orb:6.4.2.3": {
+   "level": "hosting"
+  },
+  "orb:6.4.2.4": {
+   "level": "entity"
+  },
+  "tprm:5.2.1.2": {
+   "level": "app"
+  },
+  "tprm:8.1.2.6": {
+   "profiles": [
+    "vcloud"
+   ]
+  },
+  "tprm:8.1.2.7": {
+   "profiles": [
+    "vcloud"
+   ]
+  },
+  "tprm:8.1.2.8": {
+   "level": "entity"
+  },
+  "tprm:8.2.1.4": {
+   "level": "entity"
+  },
+  "tprm:8.2.1.5": {
+   "level": "entity"
+  },
+  "tprm:9.1.1.2": {
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.1.1.3": {
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.1.1.4": {
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.1.1.5": {
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.1.1.7": {
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.1.1.9": {
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.1.1.11": {
+   "profiles": [
+    "pii"
+   ]
+  },
+  "tprm:9.3.1.1": {
+   "profiles": []
+  }
+ }
+}
