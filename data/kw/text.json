@@ -1,0 +1,1375 @@
+{
+ "reused_from": "SiteQ8/Sadu data/src/corf-text-*.json (MIT), same author. Titles follow the CBK document; summaries are this project family's own wording, not the official text.",
+ "domains": {
+  "crb:4": {
+   "title_ar": "الحوكمة والمخاطر والالتزام"
+  },
+  "crb:5": {
+   "title_ar": "التقنية والعمليات"
+  },
+  "crb:6": {
+   "title_ar": "إدارة مخاطر الأطراف الخارجية وسلسلة الإمداد"
+  },
+  "crb:7": {
+   "title_ar": "التقنيات الناشئة"
+  },
+  "crb:8": {
+   "title_ar": "أمن المدفوعات"
+  },
+  "crb:9": {
+   "title_ar": "المرونة التشغيلية"
+  },
+  "orb:3": {
+   "title_ar": "الحوكمة والإشراف"
+  },
+  "orb:4": {
+   "title_ar": "إدارة المخاطر والتهديدات"
+  },
+  "orb:5": {
+   "title_ar": "إدارة استمرارية الأعمال"
+  },
+  "orb:6": {
+   "title_ar": "المرونة التقنية"
+  },
+  "orb:7": {
+   "title_ar": "مرونة الأطراف الخارجية"
+  },
+  "orb:8": {
+   "title_ar": "إدارة الحوادث والأزمات"
+  },
+  "orb:9": {
+   "title_ar": "المرونة السيبرانية"
+  },
+  "orb:10": {
+   "title_ar": "الاختبار والتدريب والتحسين المستمر"
+  },
+  "tprm:3": {
+   "title_ar": "هيكل الحوكمة والإشراف"
+  },
+  "tprm:4": {
+   "title_ar": "إطار إدارة المخاطر"
+  },
+  "tprm:5": {
+   "title_ar": "اعتبارات الاتفاقيات التعاقدية"
+  },
+  "tprm:6": {
+   "title_ar": "تقييم المخاطر ومراقبتها"
+  },
+  "tprm:7": {
+   "title_ar": "إدارة استمرارية الأعمال والتعافي من الكوارث"
+  },
+  "tprm:8": {
+   "title_ar": "إدارة الحوادث"
+  },
+  "tprm:9": {
+   "title_ar": "حماية البيانات والسرية"
+  },
+  "tprm:10": {
+   "title_ar": "التعاقد من الباطن"
+  },
+  "tprm:11": {
+   "title_ar": "استراتيجية الخروج"
+  },
+  "tprm:12": {
+   "title_ar": "تخزين البيانات"
+  },
+  "tprm:13": {
+   "title_ar": "المعاملات العابرة للحدود"
+  },
+  "tprm:14": {
+   "title_ar": "استخدام الخدمات السحابية"
+  },
+  "tprm:15": {
+   "title_ar": "الشركات التابعة والشقيقة"
+  }
+ },
+ "subdomains": {
+  "crb:4.1": {
+   "title_ar": "حوكمة الأمن السيبراني والإشراف عليه"
+  },
+  "crb:4.2": {
+   "title_ar": "إدارة مخاطر الأمن السيبراني"
+  },
+  "crb:4.3": {
+   "title_ar": "الالتزام"
+  },
+  "crb:4.4": {
+   "title_ar": "التدقيق المستقل"
+  },
+  "crb:4.5": {
+   "title_ar": "إدارة القوى العاملة"
+  },
+  "crb:5.1": {
+   "title_ar": "تصميم المعمارية الأمنية"
+  },
+  "crb:5.2": {
+   "title_ar": "إدارة الأصول"
+  },
+  "crb:5.3": {
+   "title_ar": "أمن البنية التحتية والشبكات"
+  },
+  "crb:5.4": {
+   "title_ar": "أمن الأجهزة الطرفية"
+  },
+  "crb:5.5": {
+   "title_ar": "أمن البريد الإلكتروني"
+  },
+  "crb:5.6": {
+   "title_ar": "إدارة الهويات والصلاحيات"
+  },
+  "crb:5.7": {
+   "title_ar": "التشفير"
+  },
+  "crb:5.8": {
+   "title_ar": "أمن التطبيقات ودورة التطوير الآمنة"
+  },
+  "crb:5.9": {
+   "title_ar": "إدارة التغيير والإصدار"
+  },
+  "crb:5.10": {
+   "title_ar": "إدارة السعة"
+  },
+  "crb:5.11": {
+   "title_ar": "حماية البيانات والخصوصية"
+  },
+  "crb:5.12": {
+   "title_ar": "التسجيل والمراقبة وإدارة الحوادث الأمنية"
+  },
+  "crb:5.13": {
+   "title_ar": "الاختبارات السيبرانية وإدارة التهديدات"
+  },
+  "crb:5.14": {
+   "title_ar": "الأمن المادي والبيئي"
+  },
+  "crb:5.15": {
+   "title_ar": "استخبارات التهديدات السيبرانية"
+  },
+  "crb:5.16": {
+   "title_ar": "حماية المخاطر الرقمية"
+  },
+  "crb:6.1": {
+   "title_ar": "إدارة مخاطر الأطراف الخارجية"
+  },
+  "crb:6.2": {
+   "title_ar": "إدارة سلسلة الإمداد"
+  },
+  "crb:7.1": {
+   "title_ar": "أمن التقنيات المتقدمة"
+  },
+  "crb:7.2": {
+   "title_ar": "أمن الحوسبة السحابية"
+  },
+  "crb:8.1": {
+   "title_ar": "الضوابط الأمنية المشتركة لأنظمة الدفع الإلكتروني"
+  },
+  "crb:8.2": {
+   "title_ar": "مراقبة معاملات الدفع الإلكتروني"
+  },
+  "crb:8.3": {
+   "title_ar": "أمن الخدمات المصرفية الرقمية"
+  },
+  "crb:8.4": {
+   "title_ar": "أمن بيانات بطاقات الدفع"
+  },
+  "crb:8.5": {
+   "title_ar": "أمن أجهزة الخدمة الذاتية للعملاء"
+  },
+  "crb:8.6": {
+   "title_ar": "أمن تقنية الدفع اللاتلامسي"
+  },
+  "crb:9.1": {
+   "title_ar": "استمرارية الأعمال والتعافي من الكوارث"
+  },
+  "crb:9.2": {
+   "title_ar": "إدارة الأزمات السيبرانية"
+  },
+  "orb:3.1": {
+   "title_ar": "هيكل حوكمة المرونة التشغيلية والإشراف عليها"
+  },
+  "orb:3.2": {
+   "title_ar": "سياسة المرونة التشغيلية واستراتيجيتها"
+  },
+  "orb:3.3": {
+   "title_ar": "الالتزام"
+  },
+  "orb:4.1": {
+   "title_ar": "منهجية تقييم المخاطر"
+  },
+  "orb:4.2": {
+   "title_ar": "عملية تقييم المخاطر"
+  },
+  "orb:4.3": {
+   "title_ar": "معالجة المخاطر والتقارير"
+  },
+  "orb:5.1": {
+   "title_ar": "تحليل أثر الأعمال"
+  },
+  "orb:5.2": {
+   "title_ar": "استراتيجيات التعافي"
+  },
+  "orb:5.3": {
+   "title_ar": "خطط استمرارية الأعمال"
+  },
+  "orb:6.1": {
+   "title_ar": "إدارة الخدمات"
+  },
+  "orb:6.2": {
+   "title_ar": "إدارة النسخ الاحتياطي والاستعادة"
+  },
+  "orb:6.3": {
+   "title_ar": "قدرات المرونة التقنية"
+  },
+  "orb:6.4": {
+   "title_ar": "خطط التعافي التقني"
+  },
+  "orb:6.5": {
+   "title_ar": "خطط التعافي السيبراني"
+  },
+  "orb:8.1": {
+   "title_ar": "حوكمة إدارة الحوادث والأزمات والتخطيط لها"
+  },
+  "orb:8.2": {
+   "title_ar": "التواصل والتصعيد"
+  },
+  "orb:10.1": {
+   "title_ar": "التدريب والاختبار والتمارين"
+  },
+  "tprm:3.1": {
+   "title_ar": "سياسة إدارة مخاطر الأطراف الخارجية واستراتيجيتها"
+  },
+  "tprm:3.2": {
+   "title_ar": "الأدوار والمسؤوليات"
+  },
+  "tprm:3.3": {
+   "title_ar": "إشراف المجلس والإدارة العليا"
+  },
+  "tprm:3.4": {
+   "title_ar": "الاعتمادات والمراجعات الدورية"
+  },
+  "tprm:4.1": {
+   "title_ar": "تحديد خدمات الأطراف الخارجية الحرجة"
+  },
+  "tprm:4.2": {
+   "title_ar": "منهجية تحديد المخاطر وتقييمها"
+  },
+  "tprm:4.3": {
+   "title_ar": "ربط الاعتماديات بالعمليات الحرجة"
+  },
+  "tprm:5.1": {
+   "title_ar": "الضمانات التعاقدية"
+  },
+  "tprm:5.2": {
+   "title_ar": "الاتفاقية الملزمة قانونًا"
+  },
+  "tprm:5.3": {
+   "title_ar": "المراقبة والتقييم المنتظمان"
+  },
+  "tprm:5.4": {
+   "title_ar": "الصحة والسلامة والبيئة"
+  },
+  "tprm:5.5": {
+   "title_ar": "الملاءة المالية"
+  },
+  "tprm:5.6": {
+   "title_ar": "الالتزام الجيوسياسي والتنظيمي والقانوني"
+  },
+  "tprm:5.7": {
+   "title_ar": "حوكمة الشركات"
+  },
+  "tprm:6.1": {
+   "title_ar": "التحديد والتقييم والتخفيف"
+  },
+  "tprm:6.2": {
+   "title_ar": "تصنيف المخاطر"
+  },
+  "tprm:6.3": {
+   "title_ar": "المراقبة المستمرة للأطراف الخارجية الحرجة"
+  },
+  "tprm:7.1": {
+   "title_ar": "خطط استمرارية الأعمال"
+  },
+  "tprm:7.2": {
+   "title_ar": "النسخ الاحتياطي للبيانات وتكرارها"
+  },
+  "tprm:7.3": {
+   "title_ar": "الاختبار الدوري لقدرات التعافي"
+  },
+  "tprm:7.4": {
+   "title_ar": "إجراءات الاستعادة والاسترجاع"
+  },
+  "tprm:7.5": {
+   "title_ar": "إدارة الاستمرارية والتعافي"
+  },
+  "tprm:8.1": {
+   "title_ar": "كشف الحوادث ومراقبتها"
+  },
+  "tprm:8.2": {
+   "title_ar": "بروتوكولات تصعيد الحوادث والتواصل"
+  },
+  "tprm:8.3": {
+   "title_ar": "تحليل السبب الجذري"
+  },
+  "tprm:9.1": {
+   "title_ar": "تشفير البيانات وإخفاؤها"
+  },
+  "tprm:9.2": {
+   "title_ar": "الاحتفاظ بالبيانات والتخلص منها"
+  },
+  "tprm:9.3": {
+   "title_ar": "سياسات تصنيف البيانات والتعامل معها"
+  },
+  "tprm:10.1": {
+   "title_ar": "الإفصاح عن المقاول من الباطن وموافقة الجهة"
+  },
+  "tprm:10.2": {
+   "title_ar": "المراقبة والإشراف"
+  },
+  "tprm:11.1": {
+   "title_ar": "تخطيط استراتيجية الخروج"
+  },
+  "tprm:12.1": {
+   "title_ar": "أمن تخزين البيانات"
+  },
+  "tprm:12.2": {
+   "title_ar": "إدارة دورة حياة التخزين"
+  },
+  "tprm:12.3": {
+   "title_ar": "سلامة البيانات وتوافرها"
+  },
+  "tprm:13.1": {
+   "title_ar": "الالتزام التنظيمي والقانوني"
+  },
+  "tprm:13.2": {
+   "title_ar": "العناية الواجبة واعرف عميلك ومكافحة غسل الأموال"
+  },
+  "tprm:13.3": {
+   "title_ar": "نقل البيانات الآمن والخصوصية"
+  },
+  "tprm:13.4": {
+   "title_ar": "المراقبة والتقارير والتدقيق"
+  },
+  "tprm:14.1": {
+   "title_ar": "أمن الحوسبة السحابية"
+  },
+  "tprm:15.1": {
+   "title_ar": "العناية الواجبة والمراجعة الدورية"
+  },
+  "tprm:15.2": {
+   "title_ar": "موافقة العميل"
+  },
+  "tprm:15.3": {
+   "title_ar": "الشركات التابعة الأجنبية"
+  },
+  "tprm:15.4": {
+   "title_ar": "تخطيط الموارد"
+  }
+ },
+ "areas": {
+  "crb:4.1.1": {
+   "title_ar": "مجلس الإدارة",
+   "summary_en": "The board approves the cybersecurity strategy and authorizes the cyber resilience policy, keeps ultimate accountability even when it delegates, sets risk appetite, funds the program and receives regular updates on threats and regulatory exposure.",
+   "summary_ar": "يعتمد مجلس الإدارة استراتيجية الأمن السيبراني ويجيز سياسة المرونة السيبرانية ويحتفظ بالمسؤولية النهائية حتى عند التفويض ويحدد شهية المخاطر ويوفر الميزانية ويتلقى تحديثات منتظمة عن التهديدات والتبعات التنظيمية."
+  },
+  "crb:4.1.2": {
+   "title_ar": "لجنة توجيه الأمن السيبراني",
+   "summary_en": "A board mandated steering committee with the information security head and senior executives, chaired by someone with cybersecurity expertise, working under an approved charter with regular meetings and an advisory and oversight role rather than strategic approval.",
+   "summary_ar": "تُنشأ لجنة توجيه بتكليف من المجلس تضم رئيس أمن المعلومات والتنفيذيين ويرأسها شخص ذو خبرة سيبرانية وتعمل وفق ميثاق معتمد باجتماعات منتظمة ويقتصر دورها على الاستشارة والإشراف دون اعتماد القرارات الاستراتيجية."
+  },
+  "crb:4.1.3": {
+   "title_ar": "الإدارة التنفيذية والعليا",
+   "summary_en": "Senior management approves the cyber resilience policy, champions the program across the entity, allocates resources, monitors risk exposure and ensures cybersecurity is embedded in business decisions and reported upward.",
+   "summary_ar": "تعتمد الإدارة التنفيذية سياسة المرونة السيبرانية وتقود البرنامج على مستوى الجهة وتخصص الموارد وتتابع التعرض للمخاطر وتضمن إدماج الأمن السيبراني في قرارات الأعمال ورفع تقاريره للمجلس."
+  },
+  "crb:4.1.4": {
+   "title_ar": "وظيفة أمن المعلومات",
+   "summary_en": "An information security function independent from IT, sized to the entity's complexity, led by a qualified head with a clear mandate, adequate staff and direct reporting lines that preserve its independence.",
+   "summary_ar": "تُنشأ وظيفة لأمن المعلومات مستقلة عن تقنية المعلومات وبحجم يناسب تعقيد الجهة ويقودها رئيس مؤهل بتفويض واضح وكوادر كافية وخطوط رفع تقارير تحفظ استقلاليتها."
+  },
+  "crb:4.1.5": {
+   "title_ar": "استراتيجية الأمن السيبراني",
+   "summary_en": "A cybersecurity strategy that is approved, implemented and reviewed at least annually, aligned with business objectives and sector requirements, with measurable goals, a roadmap and resourcing.",
+   "summary_ar": "تُعتمد استراتيجية للأمن السيبراني وتُنفذ وتُراجع سنويًا على الأقل بما يتوافق مع أهداف الأعمال ومتطلبات القطاع وتتضمن أهدافًا قابلة للقياس وخارطة طريق وموارد."
+  },
+  "crb:4.1.6": {
+   "title_ar": "سياسة المرونة السيبرانية",
+   "summary_en": "A cyber resilience policy that is approved, communicated, enforced and reviewed annually or on significant change, setting management intent, scope, roles and the supporting standards and procedures.",
+   "summary_ar": "تُعتمد سياسة للمرونة السيبرانية وتُعمم وتُطبق وتُراجع سنويًا أو عند تغيير جوهري وتحدد توجه الإدارة ونطاق السياسة والأدوار والمعايير والإجراءات الداعمة لها."
+  },
+  "crb:4.2.1": {
+   "title_ar": "منهجية إدارة مخاطر الأمن السيبراني",
+   "summary_en": "A documented cyber risk management methodology owned by the information security function, aligned with enterprise risk management, reviewed periodically and covering identification, assessment, treatment and monitoring.",
+   "summary_ar": "تُوثق منهجية لإدارة المخاطر السيبرانية تتولاها وظيفة أمن المعلومات وتتوافق مع إدارة المخاطر المؤسسية وتُراجع دوريًا وتغطي تحديد المخاطر وتقييمها ومعالجتها ومتابعتها."
+  },
+  "crb:4.2.2": {
+   "title_ar": "تحديد المخاطر السيبرانية وتقييمها",
+   "summary_en": "Risk identification considers internal and external threats and vulnerabilities across assets, processes and third parties, with assessments that weigh likelihood, impact and criticality and are repeated on a defined cycle.",
+   "summary_ar": "يشمل تحديد المخاطر التهديدات ونقاط الضعف الداخلية والخارجية عبر الأصول والعمليات والأطراف الخارجية مع تقييمات تزن الاحتمالية والأثر والحرجية وتتكرر وفق دورة محددة."
+  },
+  "crb:4.2.3": {
+   "title_ar": "معالجة المخاطر السيبرانية ومتابعتها",
+   "summary_en": "Register entries translate into approved treatment plans that are accepted, avoided, mitigated or transferred, tracked to closure and reported to management with residual risk kept within appetite.",
+   "summary_ar": "تتحول بنود سجل المخاطر إلى خطط معالجة معتمدة بالقبول أو التجنب أو التخفيف أو النقل وتُتابع حتى الإغلاق وتُرفع للإدارة مع إبقاء المخاطر المتبقية ضمن الشهية المقررة."
+  },
+  "crb:4.2.4": {
+   "title_ar": "التأمين السيبراني",
+   "summary_en": "The need for cyber insurance is formally evaluated and documented, and any policy taken is aligned to the risk profile, with coverage, exclusions and claim conditions understood by management.",
+   "summary_ar": "تُقيَّم الحاجة إلى التأمين السيبراني وتُوثق رسميًا وتتوافق أي وثيقة تأمين مع ملف المخاطر مع فهم الإدارة لنطاق التغطية والاستثناءات وشروط المطالبة."
+  },
+  "crb:4.2.5": {
+   "title_ar": "الأمن السيبراني في إدارة المشاريع",
+   "summary_en": "Cybersecurity requirements are built into the project management methodology so that security risk, classification and controls are addressed from initiation through delivery of every project.",
+   "summary_ar": "تُدمج متطلبات الأمن السيبراني في منهجية إدارة المشاريع بحيث تُعالج مخاطر الأمن والتصنيف والضوابط من بداية كل مشروع حتى تسليمه."
+  },
+  "crb:4.3.1": {
+   "title_ar": "الالتزام التنظيمي والقانوني والمعياري",
+   "summary_en": "Applicable laws, regulations, contractual obligations and standards are identified, documented and tracked, with compliance demonstrated and the latest versions of adopted practices followed.",
+   "summary_ar": "تُحدد القوانين واللوائح والالتزامات التعاقدية والمعايير المنطبقة وتُوثق وتُتابع مع إثبات الالتزام بها واعتماد أحدث إصدارات الممارسات المتبعة."
+  },
+  "crb:4.4.1": {
+   "title_ar": "وظيفة التدقيق في الجهة",
+   "summary_en": "The internal audit function ensures independent audits evaluate how cyber and operational resilience controls are implemented and whether they operate effectively.",
+   "summary_ar": "تضمن وظيفة التدقيق الداخلي إجراء تدقيقات مستقلة تقيّم تطبيق ضوابط المرونة السيبرانية والتشغيلية ومدى فاعلية عملها."
+  },
+  "crb:4.4.2": {
+   "title_ar": "تخطيط التدقيق وتنفيذه",
+   "summary_en": "An audit charter based on accepted auditing standards and a board approved risk based audit plan govern the scope, frequency and execution of cyber resilience audits.",
+   "summary_ar": "يحكم ميثاق تدقيق قائم على معايير التدقيق المعتمدة وخطة تدقيق مبنية على المخاطر يعتمدها المجلس نطاق تدقيقات المرونة السيبرانية وتواترها وتنفيذها."
+  },
+  "crb:4.4.3": {
+   "title_ar": "التدقيقات المستقلة من طرف خارجي",
+   "summary_en": "Compliance with the CORF is audited by independent third party auditors who meet CBK requirements for independence, qualification and reporting.",
+   "summary_ar": "يُدقق الالتزام بإطار CORF عبر مدققين خارجيين مستقلين يستوفون متطلبات بنك الكويت المركزي من حيث الاستقلالية والتأهيل وإعداد التقارير."
+  },
+  "crb:4.4.4": {
+   "title_ar": "تقارير التدقيق المستقل",
+   "summary_en": "The board receives periodic feedback on the effectiveness of the program, and audit findings are tracked, remediated and reported with an assessment of progress.",
+   "summary_ar": "يتلقى المجلس تغذية راجعة دورية عن فاعلية البرنامج وتُتابع ملاحظات التدقيق وتُعالج وتُرفع بتقارير تقيّم التقدم."
+  },
+  "crb:4.5.1": {
+   "title_ar": "أمن الموظفين",
+   "summary_en": "Background screening in line with law and role sensitivity, signed confidentiality agreements, defined responsibilities during employment and a controlled exit that revokes access and returns assets.",
+   "summary_ar": "يُجرى فحص خلفية الموظفين وفق القانون وحساسية الدور وتُوقع اتفاقيات السرية وتُحدد المسؤوليات أثناء العمل ويُدار إنهاء العمل بإلغاء الصلاحيات واسترجاع الأصول."
+  },
+  "crb:4.5.2": {
+   "title_ar": "التدريب والتوعية",
+   "summary_en": "A security awareness program for all employees, contractors and third parties delivered on hire and at least annually, tailored by role, measured for effectiveness and covering current threats such as phishing.",
+   "summary_ar": "يُقدم برنامج توعية أمنية لجميع الموظفين والمتعاقدين والأطراف الخارجية عند التعيين وسنويًا على الأقل ويُخصص بحسب الدور وتُقاس فاعليته ويغطي التهديدات الراهنة كالتصيد."
+  },
+  "crb:4.5.3": {
+   "title_ar": "إدارة المواهب",
+   "summary_en": "A professional training and certification plan builds specialist cyber skills, supports retention and succession for key roles and keeps the workforce current with evolving technology and threats.",
+   "summary_ar": "تبني خطة للتدريب المهني والشهادات المهارات السيبرانية التخصصية وتدعم الاحتفاظ بالكفاءات والتعاقب في الأدوار الحرجة وتواكب تطور التقنية والتهديدات."
+  },
+  "crb:5.1.1": {
+   "title_ar": "التقنين والحوكمة",
+   "summary_en": "A security architecture design approved by the relevant stakeholders and reviewed at least annually or on major change, so that technology decisions follow an agreed security blueprint.",
+   "summary_ar": "يُعتمد تصميم للمعمارية الأمنية من أصحاب المصلحة المعنيين ويُراجع سنويًا على الأقل أو عند تغيير كبير حتى تتبع القرارات التقنية مخططًا أمنيًا متفقًا عليه."
+  },
+  "crb:5.1.2": {
+   "title_ar": "المبادئ الأساسية للمعمارية الأمنية",
+   "summary_en": "The architecture protects confidentiality, integrity and availability through principles such as defense in depth, least privilege, segregation and secure defaults.",
+   "summary_ar": "تحمي المعمارية السرية والسلامة والتوافر عبر مبادئ كالدفاع في العمق والحد الأدنى من الصلاحيات والفصل والإعدادات الآمنة افتراضيًا."
+  },
+  "crb:5.1.3": {
+   "title_ar": "اعتبارات الأمن بالتصميم",
+   "summary_en": "Security by design applies across on premises, cloud and hybrid environments so that new systems and integrations inherit the required controls from the start.",
+   "summary_ar": "يُطبق مبدأ الأمن بالتصميم في البيئات المحلية والسحابية والهجينة بحيث ترث الأنظمة والتكاملات الجديدة الضوابط المطلوبة منذ البداية."
+  },
+  "crb:5.2.1": {
+   "title_ar": "حوكمة إدارة الأصول",
+   "summary_en": "An asset management and classification process that is approved, implemented, monitored and reviewed, with reviews also triggered by changes in business or technology.",
+   "summary_ar": "تُعتمد عملية لإدارة الأصول وتصنيفها وتُنفذ وتُراقب وتُراجع كما تُطلق المراجعة عند تغيرات الأعمال أو التقنية."
+  },
+  "crb:5.2.2": {
+   "title_ar": "تحديد الأصول",
+   "summary_en": "A complete inventory of information and IT assets recording at least name, description, owner, custodian, location, classification and criticality, kept accurate through regular updates.",
+   "summary_ar": "يُحتفظ بجرد كامل لأصول المعلومات والتقنية يسجل على الأقل الاسم والوصف والمالك والأمين والموقع والتصنيف والحرجية ويُحدّث بانتظام لضمان دقته."
+  },
+  "crb:5.2.3": {
+   "title_ar": "تصنيف الأصول ووسمها والتعامل معها",
+   "summary_en": "Assets are classified on a risk basis by value, sensitivity and criticality, with labelling and handling rules defined for each classification level.",
+   "summary_ar": "تُصنف الأصول على أساس المخاطر بحسب قيمتها وحساسيتها وحرجيتها وتُحدد قواعد الوسم والتعامل لكل مستوى تصنيف."
+  },
+  "crb:5.2.4": {
+   "title_ar": "اقتناء الأصول والاستخدام المقبول والتخلص منها",
+   "summary_en": "Acquisition follows procurement and security requirements, an acceptable use policy governs how assets are used, and disposal securely erases data and retires equipment.",
+   "summary_ar": "يتبع الاقتناء متطلبات المشتريات والأمن وتحكم سياسة الاستخدام المقبول كيفية استعمال الأصول ويضمن التخلص المسح الآمن للبيانات وإخراج المعدات من الخدمة."
+  },
+  "crb:5.2.5": {
+   "title_ar": "كشف الأصول غير المصرح بها ومراقبتها",
+   "summary_en": "A process and tooling detect and block unauthorized devices and assets on the network so that only approved assets connect.",
+   "summary_ar": "تكشف عملية وأدوات مخصصة الأجهزة والأصول غير المصرح بها على الشبكة وتحظرها بحيث لا يتصل إلا الأصول المعتمدة."
+  },
+  "crb:5.3.1": {
+   "title_ar": "معايير الإعدادات الأمنية",
+   "summary_en": "Secure configuration standards based on recognized benchmarks are approved, applied to all technology, monitored for drift and reviewed regularly.",
+   "summary_ar": "تُعتمد معايير للإعدادات الآمنة مبنية على مرجعيات معترف بها وتُطبق على جميع التقنيات وتُراقب للكشف عن الانحراف وتُراجع بانتظام."
+  },
+  "crb:5.3.2": {
+   "title_ar": "أمن الشبكات",
+   "summary_en": "A documented and approved network architecture protected by firewalls, segmentation, intrusion prevention and secure management, reviewed at least annually.",
+   "summary_ar": "تُوثق معمارية الشبكة وتُعتمد وتُحمى بجدران الحماية والتجزئة ومنع التسلل والإدارة الآمنة وتُراجع سنويًا على الأقل."
+  },
+  "crb:5.3.3": {
+   "title_ar": "اتصالات الشبكة وواجهات التطبيقات",
+   "summary_en": "Standards govern network connections and application interfaces, and all connections, interfaces and data flows are documented, approved and reviewed.",
+   "summary_ar": "تحكم المعايير اتصالات الشبكة وواجهات التطبيقات وتُوثق جميع الاتصالات والواجهات وتدفقات البيانات وتُعتمد وتُراجع."
+  },
+  "crb:5.4.1": {
+   "title_ar": "أمن الأجهزة المحمولة",
+   "summary_en": "A portable device policy with enrollment, encryption, remote wipe, app control and network admission so that laptops and mobiles connect only after meeting security requirements.",
+   "summary_ar": "تُعتمد سياسة للأجهزة المحمولة تشمل التسجيل والتشفير والمسح عن بُعد وضبط التطبيقات والقبول على الشبكة بحيث لا تتصل الحواسيب والهواتف إلا بعد استيفاء المتطلبات الأمنية."
+  },
+  "crb:5.4.2": {
+   "title_ar": "الوسائط القابلة للإزالة",
+   "summary_en": "Removable media is blocked by default, allowed only with justification and approval, encrypted when used and managed in line with classification and disposal rules.",
+   "summary_ar": "تُحظر الوسائط القابلة للإزالة افتراضيًا ولا يُسمح بها إلا بمبرر وموافقة وتُشفر عند الاستخدام وتُدار وفق قواعد التصنيف والتخلص."
+  },
+  "crb:5.5.1": {
+   "title_ar": "استخدام البريد الإلكتروني",
+   "summary_en": "Documented email usage guidelines reviewed annually, with protections for the email platform against spam, malware and abuse.",
+   "summary_ar": "تُوثق إرشادات لاستخدام البريد الإلكتروني وتُراجع سنويًا مع حماية منصة البريد من الرسائل المزعجة والبرمجيات الخبيثة وسوء الاستخدام."
+  },
+  "crb:5.5.2": {
+   "title_ar": "أمن البريد الإلكتروني وتخفيف مخاطره",
+   "summary_en": "Digital signatures, encryption, email authentication, filtering and anti phishing tools detect and stop malicious mail and protect sensitive messages.",
+   "summary_ar": "تكشف التواقيع الرقمية والتشفير ومصادقة البريد والترشيح وأدوات مكافحة التصيد الرسائل الخبيثة وتوقفها وتحمي الرسائل الحساسة."
+  },
+  "crb:5.6.1": {
+   "title_ar": "إدارة الهويات والتحكم في الوصول",
+   "summary_en": "An access management policy covering the full identity lifecycle, least privilege, role based access, privileged account control, segregation of duties and periodic access reviews.",
+   "summary_ar": "تغطي سياسة إدارة الوصول دورة حياة الهوية كاملة والحد الأدنى من الصلاحيات والوصول بحسب الدور وضبط الحسابات ذات الامتيازات وفصل المهام والمراجعات الدورية للصلاحيات."
+  },
+  "crb:5.6.2": {
+   "title_ar": "إدارة الوصول عن بُعد",
+   "summary_en": "A remote access policy that validates business need, uses multi factor authentication and encrypted channels, restricts sessions and monitors and logs all remote activity.",
+   "summary_ar": "تتحقق سياسة الوصول عن بُعد من الحاجة العملية وتفرض المصادقة متعددة العوامل والقنوات المشفرة وتقيد الجلسات وتراقب النشاط عن بُعد وتسجله."
+  },
+  "crb:5.6.3": {
+   "title_ar": "إدارة كلمات المرور",
+   "summary_en": "A password policy defining complexity, history, lockout, expiry and secure storage, with strong protection for privileged and service accounts.",
+   "summary_ar": "تحدد سياسة كلمات المرور التعقيد والسجل والقفل والانتهاء والتخزين الآمن مع حماية مشددة للحسابات ذات الامتيازات وحسابات الخدمات."
+  },
+  "crb:5.7.1": {
+   "title_ar": "ضوابط التشفير وإدارة المفاتيح",
+   "summary_en": "A cryptographic policy reviewed annually with approved algorithms, key generation, storage, rotation, revocation and hardware protection for the cryptographic setup.",
+   "summary_ar": "تُراجع سياسة التشفير سنويًا وتحدد الخوارزميات المعتمدة وتوليد المفاتيح وتخزينها وتدويرها وإلغاءها والحماية العتادية لمنظومة التشفير."
+  },
+  "crb:5.8.1": {
+   "title_ar": "دورة حياة تطوير البرمجيات الآمنة",
+   "summary_en": "A secure development lifecycle that embeds security and privacy design, threat modelling, secure coding, testing and environment separation across all software the entity builds.",
+   "summary_ar": "تُدمج دورة التطوير الآمن تصميم الأمن والخصوصية ونمذجة التهديدات والبرمجة الآمنة والاختبار وفصل البيئات في جميع البرمجيات التي تطورها الجهة."
+  },
+  "crb:5.8.2": {
+   "title_ar": "أمن التطبيقات",
+   "summary_en": "Every application undergoes security assessment including vulnerability testing before release and periodically after, with evidence such as assessment certificates retained.",
+   "summary_ar": "يخضع كل تطبيق لتقييم أمني يشمل اختبار الثغرات قبل الإطلاق ودوريًا بعده مع الاحتفاظ بأدلة كشهادات التقييم."
+  },
+  "crb:5.8.3": {
+   "title_ar": "أمن واجهات برمجة التطبيقات",
+   "summary_en": "APIs follow secure coding practices, are inventoried, authenticated, authorized, rate limited, monitored and tested, with sensitive data protected in transit and at rest.",
+   "summary_ar": "تتبع واجهات API ممارسات البرمجة الآمنة وتُجرد وتُصادق وتُخوّل وتُقيد معدلات استدعائها وتُراقب وتُختبر مع حماية البيانات الحساسة أثناء النقل والتخزين."
+  },
+  "crb:5.9.1": {
+   "title_ar": "عملية إدارة التغيير والإصدار",
+   "summary_en": "A change and release process with security review, testing, approval, rollback and emergency change handling so that changes reach production safely.",
+   "summary_ar": "تشمل عملية التغيير والإصدار المراجعة الأمنية والاختبار والاعتماد والتراجع ومعالجة التغييرات الطارئة بحيث تصل التغييرات إلى الإنتاج بأمان."
+  },
+  "crb:5.10.1": {
+   "title_ar": "إدارة السعة والأداء",
+   "summary_en": "A capacity management process with monitoring thresholds, forecasting and planning so critical systems keep the performance and headroom the business needs.",
+   "summary_ar": "تشمل عملية إدارة السعة عتبات للمراقبة والتنبؤ والتخطيط حتى تحافظ الأنظمة الحرجة على الأداء والاحتياطي الذي تحتاجه الأعمال."
+  },
+  "crb:5.11.1": {
+   "title_ar": "حماية البيانات",
+   "summary_en": "A data protection policy and procedures for identifying and protecting important data, covering processing, storage, retention, disposal, encryption and leakage prevention.",
+   "summary_ar": "تحدد سياسة حماية البيانات وإجراءاتها كيفية تحديد البيانات المهمة وحمايتها وتغطي المعالجة والتخزين والاحتفاظ والتخلص والتشفير ومنع التسرب."
+  },
+  "crb:5.11.2": {
+   "title_ar": "خصوصية البيانات",
+   "summary_en": "A data privacy policy aligned with applicable law, privacy by design, consent and purpose limitation, data subject rights and privacy impact assessment.",
+   "summary_ar": "تتوافق سياسة خصوصية البيانات مع القانون المنطبق وتشمل الخصوصية بالتصميم والموافقة وتحديد الغرض وحقوق أصحاب البيانات وتقييم أثر الخصوصية."
+  },
+  "crb:5.12.1": {
+   "title_ar": "التسجيل والمراقبة",
+   "summary_en": "A logging and monitoring policy with logs enabled on all critical assets on premises and in the cloud, protected, retained and time synchronized.",
+   "summary_ar": "تفرض سياسة التسجيل والمراقبة تفعيل السجلات على جميع الأصول الحرجة محليًا وفي السحابة مع حمايتها والاحتفاظ بها ومزامنة توقيتها."
+  },
+  "crb:5.12.2": {
+   "title_ar": "الكشف والتحليل",
+   "summary_en": "A security information and event management process and a structured threat hunting practice identify, track and analyze events and anomalies proactively.",
+   "summary_ar": "تحدد عملية إدارة المعلومات والأحداث الأمنية وممارسة منظمة لتعقب التهديدات الأحداث والشذوذ وتتابعها وتحللها استباقيًا."
+  },
+  "crb:5.12.3": {
+   "title_ar": "الاستجابة والتعافي",
+   "summary_en": "An incident response team and a documented plan with roles, escalation, containment, eradication, recovery and lessons learned, tested and available to those who need it.",
+   "summary_ar": "يُشكل فريق للاستجابة للحوادث مع خطة موثقة تحدد الأدوار والتصعيد والاحتواء والاستئصال والتعافي والدروس المستفادة وتُختبر وتُتاح لمن يحتاجها."
+  },
+  "crb:5.12.4": {
+   "title_ar": "التحقيق الجنائي الرقمي وجمع الأدلة",
+   "summary_en": "Forensic procedures reviewed annually define roles, evidence handling, chain of custody, tooling and readiness so investigations preserve admissible evidence.",
+   "summary_ar": "تحدد إجراءات التحقيق الجنائي الرقمي المراجعة سنويًا الأدوار والتعامل مع الأدلة وسلسلة العهدة والأدوات والجاهزية حتى تحفظ التحقيقات أدلة مقبولة."
+  },
+  "crb:5.13.1": {
+   "title_ar": "إدارة الثغرات",
+   "summary_en": "A vulnerability management process with regular assessments, risk based prioritization, remediation tracking and reporting across infrastructure and applications.",
+   "summary_ar": "تشمل عملية إدارة الثغرات تقييمات منتظمة وترتيب أولويات مبنيًا على المخاطر ومتابعة المعالجة والتقارير عبر البنية التحتية والتطبيقات."
+  },
+  "crb:5.13.2": {
+   "title_ar": "إدارة التحديثات الأمنية",
+   "summary_en": "A security patch process with a risk based schedule, testing, deployment deadlines by severity, exception handling and verification of patch coverage.",
+   "summary_ar": "تشمل عملية التحديثات الأمنية جدولًا مبنيًا على المخاطر والاختبار ومواعيد نشر بحسب الخطورة ومعالجة الاستثناءات والتحقق من شمول التحديثات."
+  },
+  "crb:5.14.1": {
+   "title_ar": "ضوابط الأمن المادي والبيئي",
+   "summary_en": "A physical and environmental security policy with defined perimeters and zones, entry controls, visitor handling, monitoring and protection against fire, power and climate hazards.",
+   "summary_ar": "تحدد سياسة الأمن المادي والبيئي المحيطات والمناطق وضوابط الدخول والتعامل مع الزوار والمراقبة والحماية من مخاطر الحريق والطاقة والمناخ."
+  },
+  "crb:5.14.2": {
+   "title_ar": "أمن الأجهزة المتصلة",
+   "summary_en": "IoT and OT networks such as CCTV and building systems are segregated from corporate networks, and every connected device is inventoried, categorized and protected.",
+   "summary_ar": "تُفصل شبكات IoT/OT كأنظمة المراقبة وأنظمة المباني عن الشبكات المؤسسية ويُجرد كل جهاز متصل ويُصنف ويُحمى."
+  },
+  "crb:5.15.1": {
+   "title_ar": "إدارة استخبارات التهديدات السيبرانية",
+   "summary_en": "A process to collect, analyze, prioritize and share threat intelligence from trusted internal and external sources and turn it into action.",
+   "summary_ar": "تُجمع استخبارات التهديدات من مصادر داخلية وخارجية موثوقة وتُحلل وتُرتب أولوياتها وتُشارك وتُحوّل إلى إجراءات."
+  },
+  "crb:5.15.2": {
+   "title_ar": "التعاون في استخبارات التهديدات والتحسين المستمر",
+   "summary_en": "Threat intelligence drives proactive mitigation, is communicated to senior management and relevant teams, and is shared with sector and national bodies.",
+   "summary_ar": "تقود استخبارات التهديدات التخفيف الاستباقي وتُبلغ للإدارة العليا والفرق المعنية وتُشارك مع الجهات القطاعية والوطنية."
+  },
+  "crb:5.16.1": {
+   "title_ar": "حماية المخاطر الرقمية والعلامة التجارية",
+   "summary_en": "A policy to protect the entity's online presence, monitoring misuse of the brand, domains, social accounts and leaked data, with takedown and response procedures.",
+   "summary_ar": "تحمي سياسة الحضور الرقمي للجهة عبر مراقبة إساءة استخدام العلامة والنطاقات وحسابات التواصل والبيانات المسربة مع إجراءات للإزالة والاستجابة."
+  },
+  "crb:6.1.1": {
+   "title_ar": "إدارة مخاطر الأطراف الخارجية",
+   "summary_en": "A third party risk management framework covering due diligence, CBK approval for significant outsourcing, contractual security clauses, ongoing monitoring and exit.",
+   "summary_ar": "يغطي إطار إدارة مخاطر الأطراف الخارجية العناية الواجبة وموافقة بنك الكويت المركزي على الإسناد الجوهري والبنود الأمنية التعاقدية والمراقبة المستمرة والخروج."
+  },
+  "crb:6.2.1": {
+   "title_ar": "إدارة مخاطر سلسلة الإمداد",
+   "summary_en": "Suppliers and dependencies are mapped to find single points of failure, reliance on single sources is reduced and supply chain risks are assessed and monitored.",
+   "summary_ar": "تُرسم خريطة الموردين والاعتماديات لكشف نقاط الفشل الفردية ويُخفف الاعتماد على المصادر الوحيدة وتُقيّم مخاطر سلسلة الإمداد وتُراقب."
+  },
+  "crb:7.1.1": {
+   "title_ar": "المتطلبات الأمنية العامة",
+   "summary_en": "A policy for adopting emerging technologies with risk assessment, CBK approval where required, security requirements and oversight throughout adoption.",
+   "summary_ar": "تحكم سياسة تبني التقنيات الناشئة تقييم المخاطر وموافقة بنك الكويت المركزي عند الحاجة والمتطلبات الأمنية والإشراف طوال مراحل التبني."
+  },
+  "crb:7.1.2": {
+   "title_ar": "أمن الذكاء الاصطناعي وتعلم الآلة",
+   "summary_en": "AI and ML models are protected from tampering and poisoning, defended against adversarial attacks, governed for data use and monitored for drift and misuse.",
+   "summary_ar": "تُحمى نماذج الذكاء الاصطناعي وتعلم الآلة من العبث والتسميم وتُدافع ضد الهجمات العدائية وتُحكم من حيث استخدام البيانات وتُراقب للانحراف وسوء الاستخدام."
+  },
+  "crb:7.1.3": {
+   "title_ar": "أمن سلسلة الكتل والسجلات الموزعة",
+   "summary_en": "Blockchain deployments secure the network and consensus, review smart contracts before deployment, protect keys and wallets and monitor for abuse.",
+   "summary_ar": "تؤمّن تطبيقات سلسلة الكتل الشبكة وآلية الإجماع وتراجع العقود الذكية قبل نشرها وتحمي المفاتيح والمحافظ وتراقب إساءة الاستخدام."
+  },
+  "crb:7.1.4": {
+   "title_ar": "أمن التقنيات الناشئة الأخرى",
+   "summary_en": "The entity tracks threats from quantum computing, 5G and similar advances, assesses cryptographic readiness for a post quantum world and plans transitions.",
+   "summary_ar": "تتابع الجهة تهديدات الحوسبة الكمومية وشبكات 5G والتقنيات المماثلة وتقيّم جاهزية التشفير لعصر ما بعد الكم وتخطط للانتقال."
+  },
+  "crb:7.2.1": {
+   "title_ar": "حوكمة الحوسبة السحابية",
+   "summary_en": "A cloud security policy defining permitted services, shared responsibility, data residency, classification limits and the governance of cloud use.",
+   "summary_ar": "تحدد سياسة أمن السحابة الخدمات المسموح بها والمسؤولية المشتركة وموقع البيانات وحدود التصنيف وحوكمة استخدام السحابة."
+  },
+  "crb:7.2.2": {
+   "title_ar": "إدارة مخاطر الحوسبة السحابية",
+   "summary_en": "Before engaging a cloud provider the entity determines whether CBK approval applies and performs a risk assessment weighing benefits against risks.",
+   "summary_ar": "قبل التعاقد مع مزود سحابي تحدد الجهة ما إذا كانت موافقة بنك الكويت المركزي مطلوبة وتجري تقييمًا للمخاطر يوازن المنافع بالمخاطر."
+  },
+  "crb:7.2.3": {
+   "title_ar": "الإشراف على مزودي السحابة والاتفاقيات",
+   "summary_en": "Provider certifications and audit reports are reviewed, contracts secure audit rights, data protection and exit terms, and provider performance is overseen.",
+   "summary_ar": "تُراجع شهادات المزود وتقارير تدقيقه وتضمن العقود حقوق التدقيق وحماية البيانات وشروط الخروج ويُشرف على أداء المزود."
+  },
+  "crb:7.2.4": {
+   "title_ar": "معمارية السحابة الآمنة والالتزام",
+   "summary_en": "Cloud environments follow a security first architecture with identity, encryption, network isolation, logging and continuous compliance monitoring.",
+   "summary_ar": "تتبع البيئات السحابية معمارية تقدم الأمن أولًا وتشمل الهوية والتشفير وعزل الشبكة والتسجيل والمراقبة المستمرة للالتزام."
+  },
+  "crb:8.1.1": {
+   "title_ar": "السياسة والحوكمة",
+   "summary_en": "A board approved policy for securing electronic payment systems, covering scope, roles, controls and periodic independent security audits of those systems.",
+   "summary_ar": "يعتمد المجلس سياسة لتأمين أنظمة الدفع الإلكتروني تغطي النطاق والأدوار والضوابط والتدقيقات الأمنية المستقلة الدورية لتلك الأنظمة."
+  },
+  "crb:8.1.2": {
+   "title_ar": "الانضمام الرقمي",
+   "summary_en": "Digital onboarding verifies customer identity robustly, validates identity documents, uses liveness and biometric checks and guards against synthetic and stolen identities.",
+   "summary_ar": "يتحقق الانضمام الرقمي من هوية العميل بصرامة ويصادق على وثائق الهوية ويستخدم فحوصات الحياة والقياسات الحيوية ويحمي من الهويات المزيفة والمسروقة."
+  },
+  "crb:8.1.3": {
+   "title_ar": "المصادقة وإدارة الوصول",
+   "summary_en": "Payment channels lock accounts after three failed attempts, deliver credentials securely, enforce strong authentication and manage sessions and devices safely.",
+   "summary_ar": "تقفل قنوات الدفع الحساب بعد ثلاث محاولات فاشلة وتسلّم بيانات الاعتماد بأمان وتفرض مصادقة قوية وتدير الجلسات والأجهزة بشكل آمن."
+  },
+  "crb:8.1.4": {
+   "title_ar": "أمن المعاملات",
+   "summary_en": "Safeguards minimize fraud in electronic payments, every transaction carries a unique reference, limits and confirmations apply and integrity is protected end to end.",
+   "summary_ar": "تقلل الضمانات الاحتيال في المدفوعات الإلكترونية ويحمل كل معاملة مرجعًا فريدًا وتُطبق الحدود والتأكيدات وتُحمى سلامة المعاملة من طرف إلى طرف."
+  },
+  "crb:8.2.1": {
+   "title_ar": "مراقبة معاملات الدفع الإلكتروني والتحكم فيها",
+   "summary_en": "Transactions are monitored against risk factors such as value, velocity, geography and behavior, with unusual activity blocked or held and customers notified.",
+   "summary_ar": "تُراقب المعاملات وفق عوامل خطر كالقيمة والسرعة والموقع والسلوك ويُحظر النشاط غير المعتاد أو يُعلق ويُبلغ العملاء."
+  },
+  "crb:8.2.2": {
+   "title_ar": "إدارة الاحتيال",
+   "summary_en": "A risk based fraud management framework with real time detection systems, AI assisted analytics, a fraud response playbook and annual review of that playbook.",
+   "summary_ar": "يشمل إطار إدارة الاحتيال المبني على المخاطر أنظمة كشف آنية وتحليلات مدعومة بالذكاء الاصطناعي ودليل استجابة للاحتيال يُراجع سنويًا."
+  },
+  "crb:8.3.1": {
+   "title_ar": "أمن الخدمات المصرفية عبر الإنترنت والهاتف",
+   "summary_en": "Online and mobile banking enforce strong authentication, short lived one time passwords, secure session handling, device binding, app hardening and customer alerts.",
+   "summary_ar": "تفرض الخدمات المصرفية عبر الإنترنت والهاتف مصادقة قوية وكلمات مرور لمرة واحدة قصيرة الأجل وإدارة آمنة للجلسات وربط الأجهزة وتحصين التطبيق وتنبيهات للعملاء."
+  },
+  "crb:8.3.2": {
+   "title_ar": "أمن الخدمات المصرفية المفتوحة",
+   "summary_en": "Open banking restricts third party providers through strong access control, shares only essential customer data with explicit consent and secures and monitors the APIs.",
+   "summary_ar": "تقيد الخدمات المصرفية المفتوحة مزودي الطرف الثالث بضوابط وصول قوية وتشارك البيانات الضرورية فقط بموافقة صريحة وتؤمّن واجهات API وتراقبها."
+  },
+  "crb:8.3.3": {
+   "title_ar": "أمن المحافظ الرقمية",
+   "summary_en": "Digital wallets require multi factor authentication for registration, first login and critical actions, bind and verify devices and protect stored payment credentials.",
+   "summary_ar": "تشترط المحافظ الرقمية المصادقة متعددة العوامل عند التسجيل وأول دخول والإجراءات الحرجة وتربط الأجهزة وتتحقق منها وتحمي بيانات الدفع المخزنة."
+  },
+  "crb:8.4.1": {
+   "title_ar": "حماية بيانات بطاقات الدفع",
+   "summary_en": "Card data is protected in line with applicable regulations and industry standards, full card numbers never appear in customer communications and storage is minimized.",
+   "summary_ar": "تُحمى بيانات البطاقات وفق اللوائح والمعايير الصناعية المنطبقة ولا يظهر رقم البطاقة الكامل في أي تواصل مع العملاء ويُقلل تخزينها إلى الحد الأدنى."
+  },
+  "crb:8.5.1": {
+   "title_ar": "الأمن المادي والبيئي لأجهزة الخدمة الذاتية",
+   "summary_en": "Self service machines such as ATMs get physical protection, anti skimming, tamper detection, surveillance and secure siting and maintenance.",
+   "summary_ar": "تحصل أجهزة الخدمة الذاتية كالصرافات الآلية على حماية مادية ومكافحة النسخ وكشف العبث والمراقبة وموقع وصيانة آمنين."
+  },
+  "crb:8.5.2": {
+   "title_ar": "أمن المعاملات وبيانات العملاء",
+   "summary_en": "Self service transactions use combined authentication factors, segregation of duties covers card processing, PIN generation and delivery, and customer data is encrypted.",
+   "summary_ar": "تستخدم معاملات الخدمة الذاتية عوامل مصادقة مجتمعة ويشمل فصل المهام معالجة البطاقات وتوليد الرقم السري وتسليمه وتُشفر بيانات العملاء."
+  },
+  "crb:8.6.1": {
+   "title_ar": "ضوابط أمن الدفع اللاتلامسي",
+   "summary_en": "Risks from NFC and contactless payments are assessed, limits on transaction count and value are enforced and customers are informed of protections and responsibilities.",
+   "summary_ar": "تُقيّم مخاطر مدفوعات NFC واللاتلامسية وتُفرض حدود لعدد المعاملات وقيمتها ويُبلغ العملاء بالحماية المتاحة ومسؤولياتهم."
+  },
+  "crb:9.1.1": {
+   "title_ar": "تخطيط استمرارية الأعمال والتعافي من الكوارث وإدارتهما",
+   "summary_en": "Business impact analysis, threat assessment and approved continuity and disaster recovery plans exist for all critical systems and services, with defined recovery objectives.",
+   "summary_ar": "يُجرى تحليل أثر الأعمال وتقييم التهديدات وتُعتمد خطط للاستمرارية والتعافي لجميع الأنظمة والخدمات الحرجة مع أهداف تعافٍ محددة."
+  },
+  "crb:9.1.2": {
+   "title_ar": "إدارة النسخ الاحتياطي والاستعادة",
+   "summary_en": "An approved backup strategy reviewed annually, with backups taken, protected, stored and retained according to classification and tested for restoration.",
+   "summary_ar": "تُعتمد استراتيجية للنسخ الاحتياطي وتُراجع سنويًا وتُؤخذ النسخ وتُحمى وتُخزن ويُحتفظ بها وفق التصنيف وتُختبر استعادتها."
+  },
+  "crb:9.1.3": {
+   "title_ar": "إدارة الخدمات الحرجة واعتمادياتها",
+   "summary_en": "All critical services and their dependencies are documented, interdependencies are assessed at least annually to find single points of failure and concentration risk.",
+   "summary_ar": "تُوثق جميع الخدمات الحرجة واعتمادياتها وتُقيّم الاعتماديات المتبادلة سنويًا على الأقل لكشف نقاط الفشل الفردية ومخاطر التركز."
+  },
+  "crb:9.1.4": {
+   "title_ar": "الاختبار والتحقق",
+   "summary_en": "Restoration tests and annual continuity and disaster recovery exercises validate plans, involve the right teams and feed lessons into plan updates.",
+   "summary_ar": "تتحقق اختبارات الاستعادة وتمارين الاستمرارية والتعافي السنوية من صحة الخطط وتشرك الفرق المعنية وتغذي الدروس المستفادة في تحديث الخطط."
+  },
+  "crb:9.2.1": {
+   "title_ar": "تخطيط إدارة الأزمات وحوكمتها",
+   "summary_en": "Updated crisis management plans support enterprise resilience, with a crisis management team that brings together technical, business and communication roles.",
+   "summary_ar": "تدعم خطط إدارة الأزمات المحدّثة مرونة المؤسسة مع فريق لإدارة الأزمات يجمع الأدوار التقنية والتجارية والاتصالية."
+  },
+  "crb:9.2.2": {
+   "title_ar": "الاستجابة للأزمات والتواصل",
+   "summary_en": "Tools and threat feeds support crisis response, emergency notification reaches staff and stakeholders quickly and communication with CBK, customers and media is coordinated.",
+   "summary_ar": "تدعم الأدوات وتغذيات التهديدات الاستجابة للأزمات ويصل الإشعار الطارئ إلى الموظفين وأصحاب المصلحة بسرعة ويُنسق التواصل مع بنك الكويت المركزي والعملاء والإعلام."
+  },
+  "crb:9.2.3": {
+   "title_ar": "التدريب والاختبار والتحسين المستمر",
+   "summary_en": "A continuous learning model with crisis training for teams and executives, regular exercises and post exercise reviews that improve crisis capability.",
+   "summary_ar": "يشمل نموذج التعلم المستمر تدريب الفرق والتنفيذيين على الأزمات وتمارين منتظمة ومراجعات بعد كل تمرين ترفع القدرة على إدارة الأزمات."
+  },
+  "orb:3.1.1": {
+   "title_ar": "مجلس الإدارة",
+   "summary_en": "The board approves the operational resilience strategy and policy, keeps ultimate accountability while delegating oversight, sets tolerance for disruption and receives regular reporting on resilience posture.",
+   "summary_ar": "يعتمد المجلس استراتيجية المرونة التشغيلية وسياستها ويحتفظ بالمسؤولية النهائية مع تفويض الإشراف ويحدد حدود تحمل الانقطاع ويتلقى تقارير منتظمة عن وضع المرونة."
+  },
+  "orb:3.1.2": {
+   "title_ar": "لجنة توجيه المرونة التشغيلية",
+   "summary_en": "A steering committee of senior executives chaired by a designated executive oversees the resilience program under a charter, meets regularly and escalates to the board.",
+   "summary_ar": "تشرف لجنة توجيه من التنفيذيين يرأسها تنفيذي معيّن على برنامج المرونة وفق ميثاق وتجتمع بانتظام وتصعّد إلى المجلس."
+  },
+  "orb:3.1.3": {
+   "title_ar": "الإدارة التنفيذية والعليا",
+   "summary_en": "Senior management approves the resilience policy, resources the program, embeds resilience in business decisions and ensures critical services meet their tolerances.",
+   "summary_ar": "تعتمد الإدارة التنفيذية سياسة المرونة وتوفر موارد البرنامج وتدمج المرونة في قرارات الأعمال وتضمن التزام الخدمات الحرجة بحدود تحملها."
+  },
+  "orb:3.1.4": {
+   "title_ar": "وظيفة المرونة التشغيلية",
+   "summary_en": "An operational resilience function independent of business lines, sized to the entity, with a qualified head, clear mandate and coordination across continuity, technology and risk teams.",
+   "summary_ar": "تُنشأ وظيفة للمرونة التشغيلية مستقلة عن خطوط الأعمال وبحجم يناسب الجهة ويقودها رئيس مؤهل بتفويض واضح وتنسق بين فرق الاستمرارية والتقنية والمخاطر."
+  },
+  "orb:3.2.1": {
+   "title_ar": "استراتيجية المرونة التشغيلية",
+   "summary_en": "An approved and maintained operational resilience strategy defining critical services, impact tolerances, resilience objectives, roles and the roadmap to reach them.",
+   "summary_ar": "تحدد استراتيجية المرونة التشغيلية المعتمدة والمحدّثة الخدمات الحرجة وحدود تحمل الأثر وأهداف المرونة والأدوار وخارطة الطريق لبلوغها."
+  },
+  "orb:3.3.1": {
+   "title_ar": "الالتزام",
+   "summary_en": "A compliance register documents all resilience related legal, regulatory and contractual obligations and tracks how each is met.",
+   "summary_ar": "يوثق سجل الالتزام جميع الالتزامات القانونية والتنظيمية والتعاقدية المتعلقة بالمرونة ويتابع كيفية الوفاء بكل منها."
+  },
+  "orb:4.1.1": {
+   "title_ar": "منهجية تقييم المخاطر",
+   "summary_en": "The resilience function defines and maintains a risk assessment methodology that is part of enterprise risk management and aligned with its criteria and cycle.",
+   "summary_ar": "تحدد وظيفة المرونة منهجية لتقييم المخاطر وتحافظ عليها وتكون جزءًا من إدارة المخاطر المؤسسية ومتوافقة مع معاييرها ودورتها."
+  },
+  "orb:4.2.1": {
+   "title_ar": "تحديد المخاطر وتحليلها",
+   "summary_en": "Risk identification covers internal and external threats to critical services, including technology failure, third party disruption, people and facilities, with analysis of likelihood and impact.",
+   "summary_ar": "يغطي تحديد المخاطر التهديدات الداخلية والخارجية للخدمات الحرجة بما فيها تعطل التقنية وانقطاع الأطراف الخارجية والأفراد والمرافق مع تحليل الاحتمالية والأثر."
+  },
+  "orb:4.3.1": {
+   "title_ar": "معالجة المخاطر ومتابعتها",
+   "summary_en": "Register entries become treatment plans agreed with the responsible owners, tracked to completion and monitored so that residual risk stays within tolerance.",
+   "summary_ar": "تتحول بنود السجل إلى خطط معالجة يُتفق عليها مع المالكين المسؤولين وتُتابع حتى الإنجاز وتُراقب حتى تبقى المخاطر المتبقية ضمن حدود التحمل."
+  },
+  "orb:4.3.2": {
+   "title_ar": "تقارير المخاطر",
+   "summary_en": "Consolidated risk assessment results are reported to senior management and the steering committee on a regular cycle with trends and open actions.",
+   "summary_ar": "تُرفع نتائج تقييم المخاطر الموحدة إلى الإدارة العليا ولجنة التوجيه وفق دورة منتظمة مع الاتجاهات والإجراءات المفتوحة."
+  },
+  "orb:5.1.1": {
+   "title_ar": "منهجية تحليل أثر الأعمال",
+   "summary_en": "A business impact analysis methodology based on international practice, maintained and applied annually to keep criticality and recovery needs current.",
+   "summary_ar": "تُبنى منهجية تحليل أثر الأعمال على الممارسات الدولية وتُحدّث وتُطبق سنويًا لإبقاء الحرجية واحتياجات التعافي محدّثة."
+  },
+  "orb:5.1.2": {
+   "title_ar": "تحديد العمليات والخدمات",
+   "summary_en": "A maintained list of services with criticality levels, each with an accountable business service owner responsible for its outcome and resilience.",
+   "summary_ar": "تُحفظ قائمة بالخدمات ومستويات حرجيتها ولكل خدمة مالك أعمال مسؤول عن نتائجها ومرونتها."
+  },
+  "orb:5.1.3": {
+   "title_ar": "تحديد موارد التعافي",
+   "summary_en": "Recovery resources needed to sustain critical services during disruption are identified, with recovery time and recovery point objectives defined per service.",
+   "summary_ar": "تُحدد موارد التعافي اللازمة لاستمرار الخدمات الحرجة أثناء الانقطاع مع تحديد أهداف زمن التعافي ونقطة التعافي لكل خدمة."
+  },
+  "orb:5.1.4": {
+   "title_ar": "تحديد نقاط الفشل الفردية والتوحيد",
+   "summary_en": "Single points of failure across recovery resources are identified, and the resilience function consolidates BIA results and reports them to senior management.",
+   "summary_ar": "تُحدد نقاط الفشل الفردية عبر موارد التعافي وتوحد وظيفة المرونة نتائج تحليل الأثر وترفعها إلى الإدارة العليا."
+  },
+  "orb:5.2.1": {
+   "title_ar": "تحديد استراتيجيات التعافي",
+   "summary_en": "Recovery strategy options are formulated from BIA and risk results and sized to the maximum tolerable disruption, recovery time and recovery point values.",
+   "summary_ar": "تُصاغ خيارات استراتيجيات التعافي من نتائج تحليل الأثر والمخاطر وتُحدد بحسب الحد الأقصى المقبول للانقطاع وقيم زمن التعافي ونقطة التعافي."
+  },
+  "orb:5.2.2": {
+   "title_ar": "اختيار استراتيجيات التعافي ومتابعتها",
+   "summary_en": "Strategies are selected by the accountable owners, an action plan implements them and progress is monitored and reported.",
+   "summary_ar": "يختار المالكون المسؤولون الاستراتيجيات وتنفذها خطة عمل ويُراقب التقدم ويُرفع في تقارير."
+  },
+  "orb:5.3.1": {
+   "title_ar": "مكونات الخطة",
+   "summary_en": "Each business function keeps an annually maintained continuity plan with activation criteria, roles, recovery procedures, resources and communication steps.",
+   "summary_ar": "تحتفظ كل وظيفة أعمال بخطة استمرارية محدّثة سنويًا تحدد معايير التفعيل والأدوار وإجراءات التعافي والموارد وخطوات التواصل."
+  },
+  "orb:6.1.1": {
+   "title_ar": "إدارة الخدمات",
+   "summary_en": "A service catalog covers in house and outsourced services, and resilience by design is embedded in the lifecycle of services and their supporting technology.",
+   "summary_ar": "يغطي دليل الخدمات الخدمات الداخلية والمسندة ويُدمج مبدأ المرونة بالتصميم في دورة حياة الخدمات وتقنيتها الداعمة."
+  },
+  "orb:6.2.1": {
+   "title_ar": "قدرات النسخ الاحتياطي",
+   "summary_en": "An approved backup plan reviewed annually defines scope, frequency, retention, protection, offsite copies and restoration testing.",
+   "summary_ar": "تحدد خطة النسخ الاحتياطي المعتمدة والمراجعة سنويًا النطاق والتواتر والاحتفاظ والحماية والنسخ خارج الموقع واختبار الاستعادة."
+  },
+  "orb:6.3.1": {
+   "title_ar": "تصميم التوافر العالي",
+   "summary_en": "Critical systems run in high availability configurations on scalable, redundant architecture that removes single points of failure.",
+   "summary_ar": "تعمل الأنظمة الحرجة بإعدادات توافر عالٍ على معمارية قابلة للتوسع ومتكررة تزيل نقاط الفشل الفردية."
+  },
+  "orb:6.4.1": {
+   "title_ar": "تحليل الأثر التقني",
+   "summary_en": "A technology impact analysis methodology maintained annually identifies the technology resources needed to meet the recovery objectives of critical services.",
+   "summary_ar": "تحدد منهجية تحليل الأثر التقني المحدّثة سنويًا الموارد التقنية اللازمة لتحقيق أهداف تعافي الخدمات الحرجة."
+  },
+  "orb:6.4.2": {
+   "title_ar": "تخطيط التعافي",
+   "summary_en": "An IT disaster recovery plan defines recovery sites, procedures, sequencing, roles and validation steps for restoring critical technology.",
+   "summary_ar": "تحدد خطة التعافي من الكوارث التقنية مواقع التعافي والإجراءات والتسلسل والأدوار وخطوات التحقق لاستعادة التقنية الحرجة."
+  },
+  "orb:6.5.1": {
+   "title_ar": "قدرات التعافي السيبراني",
+   "summary_en": "Critical technology services get logically and physically segregated recovery capabilities such as isolated backups and clean environments for rebuilding after a cyber attack.",
+   "summary_ar": "تحصل الخدمات التقنية الحرجة على قدرات تعافٍ مفصولة منطقيًا وماديًا كالنسخ المعزولة والبيئات النظيفة لإعادة البناء بعد هجوم سيبراني."
+  },
+  "orb:6.5.2": {
+   "title_ar": "تخطيط التعافي السيبراني",
+   "summary_en": "A cyber recovery plan restores critical services after destructive attacks, covering isolation, clean recovery sequencing, integrity validation and decision authority.",
+   "summary_ar": "تستعيد خطة التعافي السيبراني الخدمات الحرجة بعد الهجمات التدميرية وتغطي العزل وتسلسل التعافي النظيف والتحقق من السلامة وصلاحية القرار."
+  },
+  "orb:6.5.3": {
+   "title_ar": "اختبار التعافي السيبراني",
+   "summary_en": "Cyber recovery is tested at least annually with realistic scenarios, and results are documented, analyzed and reported to senior management.",
+   "summary_ar": "يُختبر التعافي السيبراني سنويًا على الأقل بسيناريوهات واقعية وتُوثق النتائج وتُحلل وتُرفع إلى الإدارة العليا."
+  },
+  "orb:8.1.1": {
+   "title_ar": "فريق الاستجابة",
+   "summary_en": "A three layered response structure with an incident management team, a crisis management team led by a crisis response lead, a toolkit and a crisis command center.",
+   "summary_ar": "يُبنى هيكل استجابة من ثلاث طبقات يضم فريق إدارة الحوادث وفريق إدارة الأزمات بقيادة قائد للاستجابة وعدة أدوات ومركز قيادة للأزمات."
+  },
+  "orb:8.1.2": {
+   "title_ar": "تطوير الخطط",
+   "summary_en": "Incident and crisis management plans are documented, proportionate to the entity, reviewed regularly and integrated with continuity and recovery plans.",
+   "summary_ar": "تُوثق خطط إدارة الحوادث والأزمات بما يتناسب مع حجم الجهة وتُراجع بانتظام وتتكامل مع خطط الاستمرارية والتعافي."
+  },
+  "orb:8.2.1": {
+   "title_ar": "التواصل الداخلي والخارجي",
+   "summary_en": "Pre defined communication protocols and mechanisms ensure timely contact with staff, customers, counterparties, regulators and media during incidents and crises.",
+   "summary_ar": "تضمن بروتوكولات وآليات التواصل المحددة مسبقًا الاتصال في الوقت المناسب بالموظفين والعملاء والأطراف المقابلة والجهات التنظيمية والإعلام أثناء الحوادث والأزمات."
+  },
+  "orb:8.2.2": {
+   "title_ar": "التصعيد والإبلاغ إلى بنك الكويت المركزي",
+   "summary_en": "Incidents are reported to CBK within the defined timelines, with progress updates on the required cadence and a closure report when resolved.",
+   "summary_ar": "تُبلغ الحوادث إلى بنك الكويت المركزي ضمن المهل المحددة مع تحديثات عن التقدم بالوتيرة المطلوبة وتقرير إغلاق عند الحل."
+  },
+  "orb:10.1.1": {
+   "title_ar": "تمارين المحاكاة المكتبية",
+   "summary_en": "Tabletop exercises run at least annually with realistic, relevant scenarios that test resilience plans and the activation of continuity and crisis arrangements.",
+   "summary_ar": "تُجرى تمارين المحاكاة المكتبية سنويًا على الأقل بسيناريوهات واقعية تختبر خطط المرونة وتفعيل ترتيبات الاستمرارية والأزمات."
+  },
+  "orb:10.1.2": {
+   "title_ar": "اختبار استمرارية الأعمال والتعافي من الكوارث",
+   "summary_en": "Continuity and disaster recovery tests run at least annually and validate recovery objectives, procedures, resources and dependencies.",
+   "summary_ar": "تُجرى اختبارات الاستمرارية والتعافي من الكوارث سنويًا على الأقل وتتحقق من أهداف التعافي والإجراءات والموارد والاعتماديات."
+  },
+  "orb:10.1.3": {
+   "title_ar": "محاكاة الأزمات",
+   "summary_en": "Full or partial crisis simulations at least annually use high impact scenarios that exercise the crisis teams, decision making and communication.",
+   "summary_ar": "تستخدم محاكاة الأزمات الكاملة أو الجزئية سنويًا على الأقل سيناريوهات عالية الأثر تمرّن فرق الأزمات واتخاذ القرار والتواصل."
+  },
+  "orb:10.1.4": {
+   "title_ar": "المحاكاة على مستوى القطاع",
+   "summary_en": "The entity takes part in sector wide simulation exercises coordinated by CBK when invited.",
+   "summary_ar": "تشارك الجهة في تمارين المحاكاة على مستوى القطاع التي ينسقها بنك الكويت المركزي عند دعوتها."
+  },
+  "orb:10.1.5": {
+   "title_ar": "التحسين المستمر",
+   "summary_en": "Results of all exercises and tests are documented with findings and actions, tracked to closure and reported to senior management.",
+   "summary_ar": "تُوثق نتائج جميع التمارين والاختبارات مع الملاحظات والإجراءات وتُتابع حتى الإغلاق وتُرفع إلى الإدارة العليا."
+  },
+  "orb:10.1.6": {
+   "title_ar": "التدريب والتوعية",
+   "summary_en": "All staff, contractors and relevant third parties receive resilience awareness, with specialized annual training for those in resilience roles and for top management, and evidence retained.",
+   "summary_ar": "يتلقى جميع الموظفين والمتعاقدين والأطراف الخارجية المعنية توعية بالمرونة مع تدريب تخصصي سنوي لأصحاب أدوار المرونة وللإدارة العليا مع الاحتفاظ بالأدلة."
+  },
+  "tprm:3.1.1": {
+   "title_ar": "سياسة إدارة مخاطر الأطراف الخارجية",
+   "summary_en": "A third party risk management policy that is approved, communicated, enforced and accessible, defining scope, risk appetite, lifecycle stages and responsibilities.",
+   "summary_ar": "تُعتمد سياسة لإدارة مخاطر الأطراف الخارجية وتُعمم وتُطبق وتُتاح وتحدد النطاق وشهية المخاطر ومراحل دورة الحياة والمسؤوليات."
+  },
+  "tprm:3.1.2": {
+   "title_ar": "استراتيجية إدارة مخاطر الأطراف الخارجية",
+   "summary_en": "An approved strategy aligned with business goals that sets objectives, sourcing principles, risk tolerance and the resources the program needs.",
+   "summary_ar": "تحدد الاستراتيجية المعتمدة المتوافقة مع أهداف الأعمال الأهداف ومبادئ الإسناد وحدود تحمل المخاطر والموارد التي يحتاجها البرنامج."
+  },
+  "tprm:3.2.1": {
+   "title_ar": "الملكية المحددة",
+   "summary_en": "Explicit ownership of third party risk is assigned to designated functions and individuals for each stage of the relationship.",
+   "summary_ar": "تُسند ملكية صريحة لمخاطر الأطراف الخارجية إلى وظائف وأفراد معينين في كل مرحلة من العلاقة."
+  },
+  "tprm:3.2.2": {
+   "title_ar": "نموذج خطوط الدفاع الثلاثة",
+   "summary_en": "Third party risk governance follows the three lines of defense with business ownership, independent risk oversight and internal audit assurance.",
+   "summary_ar": "تتبع حوكمة مخاطر الأطراف الخارجية نموذج خطوط الدفاع الثلاثة بملكية الأعمال والإشراف المستقل على المخاطر وتأكيد التدقيق الداخلي."
+  },
+  "tprm:3.2.3": {
+   "title_ar": "التوثيق والتواصل",
+   "summary_en": "Roles and responsibilities are documented in policies and procedures and communicated to everyone involved in third party engagements.",
+   "summary_ar": "تُوثق الأدوار والمسؤوليات في السياسات والإجراءات وتُبلغ لكل من يشارك في التعاملات مع الأطراف الخارجية."
+  },
+  "tprm:3.3.1": {
+   "title_ar": "مجلس الإدارة",
+   "summary_en": "The board is the ultimate approving authority for the third party risk framework, allocates adequate resources and oversees material engagements and their risks.",
+   "summary_ar": "يمثل المجلس جهة الاعتماد النهائية لإطار مخاطر الأطراف الخارجية ويخصص الموارد الكافية ويشرف على التعاملات الجوهرية ومخاطرها."
+  },
+  "tprm:3.3.2": {
+   "title_ar": "لجنة الإشراف على مخاطر الأطراف الخارجية",
+   "summary_en": "An oversight committee chaired by a senior executive with third party risk expertise and drawn from risk, compliance, procurement, technology and business, meeting on a defined cadence.",
+   "summary_ar": "تُشكل لجنة إشراف يرأسها تنفيذي ذو خبرة في مخاطر الأطراف الخارجية وتضم المخاطر والالتزام والمشتريات والتقنية والأعمال وتجتمع بوتيرة محددة."
+  },
+  "tprm:3.3.3": {
+   "title_ar": "الإدارة التنفيذية والعليا",
+   "summary_en": "Senior management executes the framework effectively, allocates financial, technical and human resources and reports material third party risks upward.",
+   "summary_ar": "تنفذ الإدارة العليا الإطار بفاعلية وتخصص الموارد المالية والتقنية والبشرية وترفع مخاطر الأطراف الخارجية الجوهرية إلى المجلس."
+  },
+  "tprm:3.3.4": {
+   "title_ar": "وظيفة إدارة مخاطر الأطراف الخارجية",
+   "summary_en": "A dedicated function with a head accountable for defining and reviewing the framework, clear responsibilities, adequate staffing and independence from procurement decisions.",
+   "summary_ar": "تُنشأ وظيفة مخصصة يتولى رئيسها تحديد الإطار ومراجعته بمسؤوليات واضحة وكوادر كافية واستقلالية عن قرارات المشتريات."
+  },
+  "tprm:3.4.1": {
+   "title_ar": "المراجعة والاعتماد السنوي",
+   "summary_en": "The policy and strategy are reviewed and formally approved by senior management at least annually.",
+   "summary_ar": "تُراجع السياسة والاستراتيجية وتعتمدهما الإدارة العليا رسميًا سنويًا على الأقل."
+  },
+  "tprm:3.4.2": {
+   "title_ar": "المراجعات الدورية لتقييم المخاطر",
+   "summary_en": "Third party risk assessments including due diligence outcomes and control effectiveness are reviewed periodically, and mitigating controls are re evaluated to stay effective.",
+   "summary_ar": "تُراجع تقييمات مخاطر الأطراف الخارجية بما فيها نتائج العناية الواجبة وفاعلية الضوابط دوريًا ويُعاد تقييم الضوابط المخففة لتبقى فعالة."
+  },
+  "tprm:4.1.1": {
+   "title_ar": "الأثر على خدمات الأعمال الحرجة",
+   "summary_en": "The extent to which a third party supports essential business services is evaluated to decide its criticality.",
+   "summary_ar": "يُقيّم مدى دعم الطرف الخارجي لخدمات الأعمال الأساسية لتحديد حرجيته."
+  },
+  "tprm:4.1.2": {
+   "title_ar": "حساسية البيانات وحجمها",
+   "summary_en": "The nature and volume of data shared with or processed by each third party is assessed as a criticality factor.",
+   "summary_ar": "تُقيّم طبيعة البيانات المشاركة مع كل طرف خارجي أو المعالجة لديه وحجمها كعامل من عوامل الحرجية."
+  },
+  "tprm:4.1.3": {
+   "title_ar": "الاعتماديات التنظيمية والتشغيلية",
+   "summary_en": "Dependencies arising from regulatory obligations, licensing and operational reliance on a third party are weighed in criticality decisions.",
+   "summary_ar": "تُوزن الاعتماديات الناشئة عن الالتزامات التنظيمية والترخيص والاعتماد التشغيلي على الطرف الخارجي عند تحديد الحرجية."
+  },
+  "tprm:4.1.4": {
+   "title_ar": "الجرد المركزي المحدّث باستمرار",
+   "summary_en": "A centralized inventory of all third parties maintained by the TPRM function, updated at least annually and on change, recording services, criticality, data and owners.",
+   "summary_ar": "تحتفظ وظيفة مخاطر الأطراف الخارجية بجرد مركزي لجميع الأطراف يُحدّث سنويًا على الأقل وعند التغيير ويسجل الخدمات والحرجية والبيانات والمالكين."
+  },
+  "tprm:4.2.1": {
+   "title_ar": "تقييم المخاطر متعدد الأبعاد",
+   "summary_en": "Third party risk is evaluated across dimensions such as cyber, operational, financial, legal, reputational, concentration and geopolitical risk.",
+   "summary_ar": "تُقيّم مخاطر الأطراف الخارجية عبر أبعاد كالمخاطر السيبرانية والتشغيلية والمالية والقانونية والسمعة والتركز والجيوسياسية."
+  },
+  "tprm:4.2.2": {
+   "title_ar": "تسجيل المخاطر وترتيب الأولويات",
+   "summary_en": "Quantitative and qualitative scoring classifies third parties into tiers that drive the depth of oversight.",
+   "summary_ar": "يصنف التسجيل الكمي والنوعي الأطراف الخارجية في فئات تحدد عمق الإشراف عليها."
+  },
+  "tprm:4.2.3": {
+   "title_ar": "العناية الواجبة والمراقبة المستمرة",
+   "summary_en": "Thorough due diligence at onboarding followed by periodic monitoring proportionate to the third party's tier.",
+   "summary_ar": "تُجرى عناية واجبة شاملة عند الانضمام تليها مراقبة دورية تتناسب مع فئة الطرف الخارجي."
+  },
+  "tprm:4.3.1": {
+   "title_ar": "تحديد نقاط الفشل الفردية ومخاطر التركز",
+   "summary_en": "Reliance on a single third party or service that could disrupt critical processes is highlighted, and concentration exposure across providers is identified.",
+   "summary_ar": "يُبرز الاعتماد على طرف خارجي أو خدمة واحدة قد يعطل العمليات الحرجة ويُحدد التعرض لمخاطر التركز عبر المزودين."
+  },
+  "tprm:4.3.2": {
+   "title_ar": "الاعتماديات المتبادلة والتكامل مع خطط الاستمرارية",
+   "summary_en": "Interconnections between third parties and internal processes are documented, and dependency mapping informs continuity and disaster recovery strategies.",
+   "summary_ar": "تُوثق الترابطات بين الأطراف الخارجية والعمليات الداخلية وتغذي خريطة الاعتماديات استراتيجيات الاستمرارية والتعافي من الكوارث."
+  },
+  "tprm:5.1.1": {
+   "title_ar": "نطاق الخدمة وبنود الإنهاء وحق التدقيق",
+   "summary_en": "Contracts define scope of service, termination rights and the right to audit, and third parties must obtain, maintain and evidence all required licenses and certifications.",
+   "summary_ar": "تحدد العقود نطاق الخدمة وحقوق الإنهاء وحق التدقيق ويلتزم الطرف الخارجي بالحصول على التراخيص والشهادات المطلوبة والحفاظ عليها وإثباتها."
+  },
+  "tprm:5.2.1": {
+   "title_ar": "مستودع العقود",
+   "summary_en": "A consolidated repository holds all third party contracts, and every engagement is governed by a legally binding agreement.",
+   "summary_ar": "يحفظ مستودع موحد جميع عقود الأطراف الخارجية ويحكم كل تعامل اتفاق ملزم قانونًا."
+  },
+  "tprm:5.2.2": {
+   "title_ar": "تنفيذ العقود وقابليتها للإنفاذ",
+   "summary_en": "Contractual arrangements are governed by written agreements that are verified as enforceable under applicable law and jurisdiction.",
+   "summary_ar": "تُحكم الترتيبات التعاقدية باتفاقيات مكتوبة يُتحقق من قابليتها للإنفاذ بموجب القانون والاختصاص القضائي المنطبقين."
+  },
+  "tprm:5.3.1": {
+   "title_ar": "الإشراف المستمر على الالتزام التعاقدي",
+   "summary_en": "A structured process monitors compliance with contractual obligations, documents monitoring activity and escalates deviations and risks.",
+   "summary_ar": "تراقب عملية منظمة الالتزام بالبنود التعاقدية وتوثق نشاط المراقبة وتصعّد الانحرافات والمخاطر."
+  },
+  "tprm:5.4.1": {
+   "title_ar": "كفاية البنود التعاقدية",
+   "summary_en": "Contracts explicitly include health, safety and environmental obligations appropriate to the services provided.",
+   "summary_ar": "تتضمن العقود صراحة التزامات الصحة والسلامة والبيئة المناسبة للخدمات المقدمة."
+  },
+  "tprm:5.5.1": {
+   "title_ar": "تقييم المؤشرات المالية",
+   "summary_en": "A risk based approach assesses the financial viability of third parties using indicators such as financial statements, ratings and market signals.",
+   "summary_ar": "يقيّم نهج مبني على المخاطر الملاءة المالية للأطراف الخارجية بمؤشرات كالقوائم المالية والتصنيفات وإشارات السوق."
+  },
+  "tprm:5.6.1": {
+   "title_ar": "سياسة مكافحة الرشوة والفساد",
+   "summary_en": "A documented anti bribery and anti corruption policy communicated to employees, contractors and agents and reflected in third party obligations.",
+   "summary_ar": "تُوثق سياسة لمكافحة الرشوة والفساد وتُبلغ للموظفين والمتعاقدين والوكلاء وتنعكس في التزامات الأطراف الخارجية."
+  },
+  "tprm:5.6.2": {
+   "title_ar": "تحديد التشريعات والمتطلبات التعاقدية المنطبقة",
+   "summary_en": "Third parties identify, document and track all legal, regulatory and contractual requirements that apply to the services they deliver.",
+   "summary_ar": "يحدد الطرف الخارجي جميع المتطلبات القانونية والتنظيمية والتعاقدية المنطبقة على خدماته ويوثقها ويتابعها."
+  },
+  "tprm:5.6.3": {
+   "title_ar": "التقاضي والتعرض القانوني",
+   "summary_en": "Third parties disclose litigation involving allegations that could affect their integrity or ability to deliver.",
+   "summary_ar": "يفصح الطرف الخارجي عن أي دعاوى قضائية تتضمن ادعاءات قد تمس نزاهته أو قدرته على التنفيذ."
+  },
+  "tprm:5.7.1": {
+   "title_ar": "التحقيقات",
+   "summary_en": "Third parties disclose investigations or audits conducted by regulators or authorities that bear on the engagement.",
+   "summary_ar": "يفصح الطرف الخارجي عن التحقيقات أو التدقيقات التي تجريها الجهات التنظيمية أو السلطات وتؤثر في التعامل."
+  },
+  "tprm:6.1.1": {
+   "title_ar": "إعادة التقييم الدورية",
+   "summary_en": "Third party risks are reassessed at intervals defined by risk tier and after significant changes.",
+   "summary_ar": "يُعاد تقييم مخاطر الأطراف الخارجية على فترات تحددها فئة المخاطر وبعد التغييرات الجوهرية."
+  },
+  "tprm:6.1.2": {
+   "title_ar": "تحديد المخاطر الناشئة",
+   "summary_en": "New risk vectors including legal, geopolitical, technological and financial changes affecting third parties are monitored continuously.",
+   "summary_ar": "تُراقب باستمرار مسارات المخاطر الجديدة بما فيها التغيرات القانونية والجيوسياسية والتقنية والمالية التي تمس الأطراف الخارجية."
+  },
+  "tprm:6.1.3": {
+   "title_ar": "تخطيط التخفيف",
+   "summary_en": "Targeted treatment plans are developed and implemented for identified third party risks with owners and timelines.",
+   "summary_ar": "تُعد خطط معالجة مستهدفة للمخاطر المحددة لدى الأطراف الخارجية وتُنفذ بمالكين ومهل زمنية."
+  },
+  "tprm:6.2.1": {
+   "title_ar": "التصنيف بحسب المخاطر الكامنة والمتبقية",
+   "summary_en": "Third parties are classified by the inherent risk of the service and the residual risk after controls.",
+   "summary_ar": "تُصنف الأطراف الخارجية بحسب المخاطر الكامنة في الخدمة والمخاطر المتبقية بعد الضوابط."
+  },
+  "tprm:6.2.2": {
+   "title_ar": "تحديد كثافة الإشراف",
+   "summary_en": "Classification outcomes set the frequency and depth of due diligence, monitoring and review for each third party.",
+   "summary_ar": "تحدد نتائج التصنيف تواتر العناية الواجبة والمراقبة والمراجعة وعمقها لكل طرف خارجي."
+  },
+  "tprm:6.2.3": {
+   "title_ar": "التوافق مع التوقعات التنظيمية",
+   "summary_en": "Classification methods and oversight practices stay consistent with CBK expectations and applicable regulation.",
+   "summary_ar": "تبقى منهجيات التصنيف وممارسات الإشراف متسقة مع توقعات بنك الكويت المركزي واللوائح المنطبقة."
+  },
+  "tprm:6.3.1": {
+   "title_ar": "مراقبة الأداء واتفاقيات مستوى الخدمة",
+   "summary_en": "Service delivery is tracked regularly against agreed service levels and key performance indicators.",
+   "summary_ar": "يُتابع تقديم الخدمة بانتظام مقابل مستويات الخدمة المتفق عليها ومؤشرات الأداء الرئيسية."
+  },
+  "tprm:6.3.2": {
+   "title_ar": "مراقبة الالتزام والمخاطر",
+   "summary_en": "Compliance with contractual obligations, regulatory requirements and risk indicators is monitored throughout the relationship.",
+   "summary_ar": "يُراقب الالتزام بالبنود التعاقدية والمتطلبات التنظيمية ومؤشرات المخاطر طوال العلاقة."
+  },
+  "tprm:6.3.3": {
+   "title_ar": "أدوات استخبارات المخاطر الآلية",
+   "summary_en": "Technology platforms may provide real time alerts and external risk intelligence on third parties to strengthen monitoring.",
+   "summary_ar": "يمكن للمنصات التقنية تقديم تنبيهات آنية واستخبارات مخاطر خارجية عن الأطراف الخارجية لتعزيز المراقبة."
+  },
+  "tprm:7.1.1": {
+   "title_ar": "خطط استمرارية الأعمال والتعافي من الكوارث",
+   "summary_en": "Third parties maintain comprehensive continuity and disaster recovery plans covering the services delivered to the entity.",
+   "summary_ar": "يحتفظ الطرف الخارجي بخطط شاملة للاستمرارية والتعافي من الكوارث تغطي الخدمات المقدمة للجهة."
+  },
+  "tprm:7.2.1": {
+   "title_ar": "مراجعة السياسة وصيانتها",
+   "summary_en": "Third parties periodically review and update their backup policy and procedures.",
+   "summary_ar": "يراجع الطرف الخارجي سياسة النسخ الاحتياطي وإجراءاتها دوريًا ويحدّثها."
+  },
+  "tprm:7.2.2": {
+   "title_ar": "النسخ الاحتياطي للمعلومات",
+   "summary_en": "Third parties operate an approved backup policy and procedures that protect the entity's data.",
+   "summary_ar": "يطبق الطرف الخارجي سياسة وإجراءات معتمدة للنسخ الاحتياطي تحمي بيانات الجهة."
+  },
+  "tprm:7.2.3": {
+   "title_ar": "بيئات الطوارئ وإدارة التغيير",
+   "summary_en": "Third party providers apply formal change management so that contingency environments stay consistent with production.",
+   "summary_ar": "يطبق مزودو الخدمة إدارة تغيير رسمية بحيث تبقى بيئات الطوارئ متسقة مع الإنتاج."
+  },
+  "tprm:7.3.1": {
+   "title_ar": "توافر البنية التحتية الرئيسية",
+   "summary_en": "Providers maintain a disaster recovery site and deploy key infrastructure in high availability mode to avoid interruption.",
+   "summary_ar": "يحتفظ المزود بموقع للتعافي من الكوارث وينشر البنية التحتية الرئيسية بوضع التوافر العالي لتجنب الانقطاع."
+  },
+  "tprm:7.3.2": {
+   "title_ar": "اختبار المرونة",
+   "summary_en": "Third parties test continuity and recovery periodically against documented recovery time and recovery point objectives and share results.",
+   "summary_ar": "يختبر الطرف الخارجي الاستمرارية والتعافي دوريًا مقابل أهداف موثقة لزمن التعافي ونقطة التعافي ويشارك النتائج."
+  },
+  "tprm:7.4.1": {
+   "title_ar": "اختبار الاستعادة",
+   "summary_en": "Third parties perform periodic restoration tests of backups and report discrepancies promptly to stakeholders.",
+   "summary_ar": "يجري الطرف الخارجي اختبارات استعادة دورية للنسخ الاحتياطية ويبلغ الجهات المعنية فورًا بأي تباين."
+  },
+  "tprm:7.5.1": {
+   "title_ar": "الضمانات التعاقدية",
+   "summary_en": "Third parties provide contractual guarantees such as service levels, recovery commitments and penalties for failure.",
+   "summary_ar": "يقدم الطرف الخارجي ضمانات تعاقدية كمستويات الخدمة والتزامات التعافي والغرامات عند الإخفاق."
+  },
+  "tprm:8.1.1": {
+   "title_ar": "قدرة كشف التهديدات",
+   "summary_en": "Third parties apply the applicable detection controls of the Cyber Resilience Baselines and run real time security monitoring on the services they provide.",
+   "summary_ar": "يطبق الطرف الخارجي ضوابط الكشف المنطبقة من الضوابط الأساسية للمرونة السيبرانية ويشغل مراقبة أمنية آنية على الخدمات التي يقدمها."
+  },
+  "tprm:8.1.2": {
+   "title_ar": "التسجيل والمراقبة",
+   "summary_en": "Third parties keep centralized tamper resistant logs with heightened monitoring and alerting for the entity's systems and data.",
+   "summary_ar": "يحتفظ الطرف الخارجي بسجلات مركزية مقاومة للعبث مع مراقبة وتنبيه مشددين لأنظمة الجهة وبياناتها."
+  },
+  "tprm:8.2.1": {
+   "title_ar": "معايير الإبلاغ الداخلي والخارجي",
+   "summary_en": "An incident escalation matrix and notification protocols define when and how third parties inform the entity and how the entity informs CBK.",
+   "summary_ar": "تحدد مصفوفة تصعيد الحوادث وبروتوكولات الإبلاغ متى وكيف يبلغ الطرف الخارجي الجهة وكيف تبلغ الجهة بنك الكويت المركزي."
+  },
+  "tprm:8.2.2": {
+   "title_ar": "قنوات التواصل الآمنة",
+   "summary_en": "Secure redundant communication channels are available and communication trees and escalation paths are tested periodically.",
+   "summary_ar": "تتوفر قنوات تواصل آمنة ومتكررة وتُختبر شجرات التواصل ومسارات التصعيد دوريًا."
+  },
+  "tprm:8.3.1": {
+   "title_ar": "معيار تحليل السبب الجذري وتوثيقه",
+   "summary_en": "Third parties perform and document formal root cause analysis with background, causes, impact and corrective actions.",
+   "summary_ar": "يجري الطرف الخارجي تحليلًا رسميًا للسبب الجذري ويوثقه بالخلفية والأسباب والأثر والإجراءات التصحيحية."
+  },
+  "tprm:8.3.2": {
+   "title_ar": "جمع الأدلة والاحتفاظ بها",
+   "summary_en": "Relevant forensic evidence is collected and retained and incident timelines are reconstructed from detection to closure.",
+   "summary_ar": "تُجمع الأدلة الجنائية الرقمية ذات الصلة ويُحتفظ بها ويُعاد بناء الجدول الزمني للحادث من الكشف حتى الإغلاق."
+  },
+  "tprm:8.3.3": {
+   "title_ar": "توثيق الحوادث",
+   "summary_en": "Past incidents are reviewed for trends and recurring causes and a central repository of lessons learned is maintained.",
+   "summary_ar": "تُراجع الحوادث السابقة لرصد الاتجاهات والأسباب المتكررة ويُحتفظ بمستودع مركزي للدروس المستفادة."
+  },
+  "tprm:9.1.1": {
+   "title_ar": "التشفير وإدارة المفاتيح",
+   "summary_en": "Third parties run a comprehensive encryption policy with centralized key management, strong algorithms, key rotation and protection of data in transit and at rest.",
+   "summary_ar": "يطبق الطرف الخارجي سياسة تشفير شاملة مع إدارة مركزية للمفاتيح وخوارزميات قوية وتدوير للمفاتيح وحماية للبيانات أثناء النقل والتخزين."
+  },
+  "tprm:9.2.1": {
+   "title_ar": "الاحتفاظ بالبيانات والأرشفة",
+   "summary_en": "Third parties implement a data retention policy that maps retention periods per data type, archives securely and disposes data at end of life.",
+   "summary_ar": "يطبق الطرف الخارجي سياسة احتفاظ بالبيانات تحدد مدد الاحتفاظ لكل نوع وتؤرشف بأمان وتتخلص من البيانات عند انتهاء عمرها."
+  },
+  "tprm:9.2.2": {
+   "title_ar": "التوعية والتدريب",
+   "summary_en": "Data retention and secure disposal requirements are part of third party staff training.",
+   "summary_ar": "تُدرج متطلبات الاحتفاظ بالبيانات والتخلص الآمن منها في تدريب موظفي الطرف الخارجي."
+  },
+  "tprm:9.3.1": {
+   "title_ar": "تصنيف البيانات وجردها",
+   "summary_en": "Third parties keep a centralized inventory of the entity's data and enforce a classification policy consistent with the entity's scheme.",
+   "summary_ar": "يحتفظ الطرف الخارجي بجرد مركزي لبيانات الجهة ويطبق سياسة تصنيف متسقة مع نظام الجهة."
+  },
+  "tprm:9.3.2": {
+   "title_ar": "التعامل مع البيانات",
+   "summary_en": "Handling procedures exist for each classification level and all cross border personal data flows are identified and mapped.",
+   "summary_ar": "تُوثق إجراءات التعامل لكل مستوى تصنيف وتُحدد تدفقات البيانات الشخصية العابرة للحدود وتُرسم خرائطها."
+  },
+  "tprm:9.3.3": {
+   "title_ar": "التوعية بالتصنيف",
+   "summary_en": "Third party staff are trained on the classification scheme and how to handle each level.",
+   "summary_ar": "يُدرب موظفو الطرف الخارجي على نظام التصنيف وكيفية التعامل مع كل مستوى."
+  },
+  "tprm:10.1.1": {
+   "title_ar": "الإفصاح والموافقة",
+   "summary_en": "Third parties identify subcontracting, obtain the entity's approval before using subcontractors, maintain a vendor risk policy and identify nth parties.",
+   "summary_ar": "يفصح الطرف الخارجي عن التعاقد من الباطن ويحصل على موافقة الجهة قبل الاستعانة بمقاولين من الباطن ويحتفظ بسياسة لمخاطر الموردين ويحدد الأطراف اللاحقة."
+  },
+  "tprm:10.2.1": {
+   "title_ar": "مراقبة التعاقد من الباطن والإشراف عليه",
+   "summary_en": "A signed subcontracting agreement flows down the entity's requirements and the subcontractor is monitored through the primary third party.",
+   "summary_ar": "تنقل اتفاقية تعاقد من الباطن موقعة متطلبات الجهة إلى المقاول من الباطن ويُراقب عبر الطرف الخارجي الرئيسي."
+  },
+  "tprm:11.1.1": {
+   "title_ar": "خطة الخروج وعمليته",
+   "summary_en": "A process and checklist govern off boarding, deactivation or blacklisting of third parties, covering data return or destruction, access revocation and transition.",
+   "summary_ar": "تحكم عملية وقائمة تحقق إنهاء التعامل مع الأطراف الخارجية أو تعطيلها أو حظرها وتغطي إعادة البيانات أو إتلافها وإلغاء الصلاحيات والانتقال."
+  },
+  "tprm:12.1.1": {
+   "title_ar": "الوصول إلى التخزين وتجزئته",
+   "summary_en": "Third parties enforce role based access to storage and logically or physically segregate the entity's data from other customers.",
+   "summary_ar": "يفرض الطرف الخارجي وصولًا بحسب الدور إلى التخزين ويفصل بيانات الجهة منطقيًا أو ماديًا عن بيانات العملاء الآخرين."
+  },
+  "tprm:12.1.2": {
+   "title_ar": "إدارة إعدادات التخزين",
+   "summary_en": "Baseline configurations secure storage systems, and cloud storage is configured with encryption and without public exposure.",
+   "summary_ar": "تؤمّن الإعدادات الأساسية أنظمة التخزين ويُضبط التخزين السحابي بالتشفير ودون تعريض عام."
+  },
+  "tprm:12.2.1": {
+   "title_ar": "الاحتفاظ بالبيانات",
+   "summary_en": "Automated retention mechanisms within storage systems enforce periods and securely delete data using approved methods.",
+   "summary_ar": "تفرض آليات احتفاظ آلية داخل أنظمة التخزين المدد وتحذف البيانات بأمان بطرق معتمدة."
+  },
+  "tprm:12.2.2": {
+   "title_ar": "الأرشفة والحذف النهائي",
+   "summary_en": "Archival policies cover inactive data, and scheduled reviews purge what is no longer needed.",
+   "summary_ar": "تغطي سياسات الأرشفة البيانات غير النشطة وتحذف المراجعات المجدولة ما لم يعد لازمًا حذفًا نهائيًا."
+  },
+  "tprm:12.3.1": {
+   "title_ar": "النسخ الاحتياطي والاستعادة",
+   "summary_en": "Third parties establish and test backup and recovery for stored data with automated integrity checks.",
+   "summary_ar": "ينشئ الطرف الخارجي النسخ الاحتياطي والاستعادة للبيانات المخزنة ويختبرهما مع فحوصات سلامة آلية."
+  },
+  "tprm:13.1.1": {
+   "title_ar": "الضوابط على المعاملات",
+   "summary_en": "Cross border payments route only through licensed payment systems and full supporting documentation is retained for each transaction.",
+   "summary_ar": "تمر المدفوعات العابرة للحدود حصرًا عبر أنظمة دفع مرخصة ويُحتفظ بالوثائق الداعمة الكاملة لكل معاملة."
+  },
+  "tprm:13.2.1": {
+   "title_ar": "عملية العناية الواجبة",
+   "summary_en": "Comprehensive know your customer checks including beneficial ownership, with risk based due diligence that weighs jurisdiction and transaction risk.",
+   "summary_ar": "تُجرى فحوصات شاملة لمعرفة العميل تشمل المستفيد الحقيقي مع عناية واجبة مبنية على المخاطر توزن مخاطر الاختصاص والمعاملة."
+  },
+  "tprm:13.3.1": {
+   "title_ar": "تقليل البيانات والنقل الآمن",
+   "summary_en": "Cross border data is limited to what is necessary and proportionate and payment data is transmitted through encrypted channels.",
+   "summary_ar": "تقتصر البيانات العابرة للحدود على الضروري والمتناسب وتُنقل بيانات الدفع عبر قنوات مشفرة."
+  },
+  "tprm:13.4.1": {
+   "title_ar": "مراقبة المعاملات والتنبيهات",
+   "summary_en": "Real time anti money laundering systems detect unusual cross border patterns and tamper evident logs record every transaction workflow step.",
+   "summary_ar": "تكشف أنظمة مكافحة غسل الأموال الآنية الأنماط غير المعتادة للمعاملات العابرة للحدود وتسجل سجلات واضحة العبث كل خطوة في مسار المعاملة."
+  },
+  "tprm:13.4.2": {
+   "title_ar": "متطلبات التقارير التنظيمية",
+   "summary_en": "Required cross border reports are submitted to the authorities and compliance controls are audited internally or externally.",
+   "summary_ar": "تُقدم التقارير المطلوبة عن المعاملات العابرة للحدود إلى السلطات وتُدقق ضوابط الالتزام داخليًا أو خارجيًا."
+  },
+  "tprm:14.1.1": {
+   "title_ar": "ضمانات أمن الحوسبة السحابية",
+   "summary_en": "Applicable cloud controls from the Cyber Resilience Baselines are evaluated for each provider, with a record of provider details, data locations and services used.",
+   "summary_ar": "تُقيّم ضوابط السحابة المنطبقة من الضوابط الأساسية للمرونة السيبرانية لكل مزود مع سجل بتفاصيل المزود ومواقع البيانات والخدمات المستخدمة."
+  },
+  "tprm:15.1.1": {
+   "title_ar": "مراقبة الشركات التابعة والإشراف عليها",
+   "summary_en": "Due diligence scope and service agreements cover affiliates, and CBK approval is sought before material or high risk intra group arrangements.",
+   "summary_ar": "يشمل نطاق العناية الواجبة واتفاقيات الخدمة الشركات التابعة وتُطلب موافقة بنك الكويت المركزي قبل الترتيبات الجوهرية أو عالية المخاطر داخل المجموعة."
+  },
+  "tprm:15.2.1": {
+   "title_ar": "موافقة العميل على مشاركة البيانات",
+   "summary_en": "A customer consent procedure applies whenever customer data is shared with affiliates.",
+   "summary_ar": "يُطبق إجراء لموافقة العميل كلما شوركت بياناته مع الشركات التابعة."
+  },
+  "tprm:15.3.1": {
+   "title_ar": "الشركات التابعة الأجنبية",
+   "summary_en": "Foreign affiliates are held to the same controls and governance as domestic arrangements.",
+   "summary_ar": "تخضع الشركات التابعة الأجنبية للضوابط والحوكمة نفسها المطبقة على الترتيبات المحلية."
+  },
+  "tprm:15.4.1": {
+   "title_ar": "استمرارية الأعمال",
+   "summary_en": "Resource planning and availability ensure services delivered through affiliates remain viable.",
+   "summary_ar": "يضمن تخطيط الموارد وتوافرها استمرار جدوى الخدمات المقدمة عبر الشركات التابعة."
+  }
+ },
+ "baselines": {
+  "crb": {
+   "title_ar": "الضوابط الأساسية للمرونة السيبرانية"
+  },
+  "orb": {
+   "title_ar": "الضوابط الأساسية للمرونة التشغيلية"
+  },
+  "tprm": {
+   "title_ar": "الضوابط الأساسية لإدارة مخاطر الأطراف الخارجية"
+  }
+ }
+}

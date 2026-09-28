@@ -1,0 +1,3502 @@
+{
+ "crb:4.1.1.1": {
+  "en": "The board has approved the cybersecurity strategy and authorised the cyber resilience policy.",
+  "ar": "اعتمد المجلس استراتيجية الأمن السيبراني وأجاز سياسة المرونة السيبرانية."
+ },
+ "crb:4.1.1.2": {
+  "en": "Any delegation of cybersecurity duties to committees or functions is documented and the board keeps ultimate accountability.",
+  "ar": "أي تفويض لمهام الأمن السيبراني إلى لجان أو وظائف موثق ويحتفظ المجلس بالمسؤولية النهائية."
+ },
+ "crb:4.1.1.3": {
+  "en": "The board has approved the cyber risk appetite and tolerance levels and oversees evolving threats and trends.",
+  "ar": "اعتمد المجلس شهية المخاطر السيبرانية ومستويات تحملها ويشرف على التهديدات والاتجاهات المتغيرة."
+ },
+ "crb:4.1.1.4": {
+  "en": "The board has allocated an adequate cybersecurity budget and resources.",
+  "ar": "خصص المجلس ميزانية وموارد كافية للأمن السيبراني."
+ },
+ "crb:4.1.1.5": {
+  "en": "The board receives regular updates from the steering committee on the state of the cybersecurity programme and ad hoc updates when needed.",
+  "ar": "يتلقى المجلس تحديثات منتظمة من لجنة التوجيه عن حالة برنامج الأمن السيبراني وتحديثات استثنائية عند الحاجة."
+ },
+ "crb:4.1.2.1": {
+  "en": "A cybersecurity steering committee exists with the head of information security and senior managers from all relevant functions.",
+  "ar": "توجد لجنة توجيه للأمن السيبراني تضم رئيس أمن المعلومات وكبار المديرين من كل الوظائف المعنية."
+ },
+ "crb:4.1.2.2": {
+  "en": "The steering committee is chaired by a designated person with relevant cybersecurity expertise.",
+  "ar": "يرأس لجنة التوجيه شخص معين ذو خبرة كافية في الأمن السيبراني."
+ },
+ "crb:4.1.2.3": {
+  "en": "The committee charter is approved by the board and states its objective, members, roles, meeting frequency and reporting lines.",
+  "ar": "ميثاق اللجنة معتمد من المجلس ويبين هدفها وأعضاءها وأدوارها ووتيرة اجتماعاتها وخطوط رفع التقارير."
+ },
+ "crb:4.1.2.4": {
+  "en": "The committee is established and mandated by the board and any delegated duties are recorded.",
+  "ar": "اللجنة منشأة ومكلفة من المجلس وأي مهام مفوضة إليها مسجلة."
+ },
+ "crb:4.1.2.5": {
+  "en": "The committee endorses the strategy and policy, recommends the risk appetite, oversees the programme and tracks major risks and incidents.",
+  "ar": "تجيز اللجنة الاستراتيجية والسياسة وتوصي بشهية المخاطر وتشرف على البرنامج وتتابع المخاطر والحوادث الكبرى."
+ },
+ "crb:4.1.3.1": {
+  "en": "Senior management has approved the cyber resilience policy and the initiatives that carry out the strategy.",
+  "ar": "اعتمدت الإدارة العليا سياسة المرونة السيبرانية والمبادرات التي تنفذ الاستراتيجية."
+ },
+ "crb:4.1.3.2": {
+  "en": "The chief executive and the other executives visibly support the execution of the cybersecurity strategy.",
+  "ar": "يدعم الرئيس التنفيذي وبقية التنفيذيين تنفيذ استراتيجية الأمن السيبراني دعماً ظاهراً."
+ },
+ "crb:4.1.3.3": {
+  "en": "Senior management implements the risk management strategies within the approved appetite and tolerance.",
+  "ar": "تنفذ الإدارة العليا استراتيجيات إدارة المخاطر ضمن الشهية والتحمل المعتمدين."
+ },
+ "crb:4.1.3.4": {
+  "en": "Senior management funds cybersecurity and assigns roles and responsibilities to people with the right expertise.",
+  "ar": "تمول الإدارة العليا الأمن السيبراني وتسند الأدوار والمسؤوليات إلى أشخاص ذوي الخبرة المناسبة."
+ },
+ "crb:4.1.3.5": {
+  "en": "Senior management has approved the size and resources of the information security function.",
+  "ar": "اعتمدت الإدارة العليا حجم وظيفة أمن المعلومات ومواردها."
+ },
+ "crb:4.1.3.6": {
+  "en": "Cybersecurity policies and standards written by the information security function are applied across the entity with management backing.",
+  "ar": "تُطبق سياسات ومعايير الأمن السيبراني التي تضعها وظيفة أمن المعلومات في الجهة كلها بدعم الإدارة."
+ },
+ "crb:4.1.3.7": {
+  "en": "Information security and IT operations are segregated with oversight authority assigned to the information security function.",
+  "ar": "أمن المعلومات وعمليات تقنية المعلومات مفصولان مع إسناد سلطة الإشراف إلى وظيفة أمن المعلومات."
+ },
+ "crb:4.1.4.1": {
+  "en": "An information security function exists independent of IT operations, empowered by the board and overseen by the steering committee.",
+  "ar": "توجد وظيفة لأمن المعلومات مستقلة عن عمليات تقنية المعلومات ومخولة من المجلس وتشرف عليها لجنة التوجيه."
+ },
+ "crb:4.1.4.2": {
+  "en": "The size of the function reflects the complexity of the business, its technology assets and its operations.",
+  "ar": "يعكس حجم الوظيفة تعقيد الأعمال وأصولها التقنية وعملياتها."
+ },
+ "crb:4.1.4.3": {
+  "en": "The function has authority to oversee and give independent assurance on key operational security activities.",
+  "ar": "تملك الوظيفة سلطة الإشراف وتقديم تأكيد مستقل على أنشطة الأمن التشغيلية الرئيسية."
+ },
+ "crb:4.1.4.4": {
+  "en": "The head of information security defines and reviews the cybersecurity strategy.",
+  "ar": "يحدد رئيس أمن المعلومات استراتيجية الأمن السيبراني ويراجعها."
+ },
+ "crb:4.1.4.5": {
+  "en": "The function has set cyber risk tolerance levels derived from the approved appetite and aligned with business objectives.",
+  "ar": "حددت الوظيفة مستويات تحمل المخاطر السيبرانية انطلاقاً من الشهية المعتمدة وبما يتوافق مع أهداف الأعمال."
+ },
+ "crb:4.1.4.6": {
+  "en": "The function sets the policies and standards that govern how cybersecurity controls are implemented, operated, monitored and responded to.",
+  "ar": "تضع الوظيفة السياسات والمعايير التي تحكم تنفيذ ضوابط الأمن السيبراني وتشغيلها ومراقبتها والاستجابة لها."
+ },
+ "crb:4.1.4.7": {
+  "en": "The function assesses whether controls are adequate and approves or secures approval of exceptions with the residual risk understood.",
+  "ar": "تقيّم الوظيفة كفاية الضوابط وتعتمد الاستثناءات أو تؤمّن اعتمادها مع فهم المخاطر المتبقية."
+ },
+ "crb:4.1.4.8": {
+  "en": "The function updates the steering committee at least quarterly and whenever changes or emerging risks need attention.",
+  "ar": "تُطلع الوظيفة لجنة التوجيه كل ثلاثة أشهر على الأقل وكلما استدعت التغييرات أو المخاطر الناشئة ذلك."
+ },
+ "crb:4.1.5.1": {
+  "en": "The cybersecurity strategy is defined, approved, implemented and formally reviewed at least once a year.",
+  "ar": "استراتيجية الأمن السيبراني محددة ومعتمدة ومنفذة وتُراجع رسمياً مرة في السنة على الأقل."
+ },
+ "crb:4.1.5.2": {
+  "en": "The strategy sets the target maturity level and clear objectives aligned with the business, the threat landscape and CBK expectations.",
+  "ar": "تحدد الاستراتيجية مستوى النضج المستهدف وأهدافاً واضحة تتوافق مع الأعمال ومشهد التهديدات وتوقعات بنك الكويت المركزي."
+ },
+ "crb:4.1.5.3": {
+  "en": "Responsibility and accountability for implementing and monitoring the strategy are named.",
+  "ar": "المسؤولية والمساءلة عن تنفيذ الاستراتيجية ومتابعتها مسندتان إلى جهات محددة بالاسم."
+ },
+ "crb:4.1.6.1": {
+  "en": "The cyber resilience policy is approved, implemented, communicated, enforced and accessible to all staff, contractors and relevant vendors.",
+  "ar": "سياسة المرونة السيبرانية معتمدة ومنفذة ومعممة ومطبقة ومتاحة لكل الموظفين والمتعاقدين والموردين المعنيين."
+ },
+ "crb:4.1.6.2": {
+  "en": "The policy is reviewed at least annually or after a significant change in business, technology, environment or regulation.",
+  "ar": "تُراجع السياسة سنوياً على الأقل أو بعد تغيير جوهري في الأعمال أو التقنية أو البيئة أو التنظيم."
+ },
+ "crb:4.1.6.3": {
+  "en": "The policy states objectives, scope, management commitment, roles, enforcement and the consequences of non-compliance.",
+  "ar": "تبين السياسة الأهداف والنطاق والتزام الإدارة والأدوار والتطبيق وعواقب عدم الالتزام."
+ },
+ "crb:4.1.6.4": {
+  "en": "Departmental policies from HR, IT, risk and procurement align with the cyber resilience policy.",
+  "ar": "تتوافق السياسات الإدارية للموارد البشرية وتقنية المعلومات والمخاطر والمشتريات مع سياسة المرونة السيبرانية."
+ },
+ "crb:4.1.6.5": {
+  "en": "Supporting procedures, processes and guidelines exist to carry out the policy.",
+  "ar": "توجد إجراءات وعمليات وإرشادات داعمة لتنفيذ السياسة."
+ },
+ "crb:4.1.6.6": {
+  "en": "Staff, contractors and relevant vendors are made responsible for complying with the policy and its standards.",
+  "ar": "يُحمّل الموظفون والمتعاقدون والموردون المعنيون مسؤولية الالتزام بالسياسة ومعاييرها."
+ },
+ "crb:4.1.6.7": {
+  "en": "The policy is approved by senior management and authorised by the board.",
+  "ar": "السياسة معتمدة من الإدارة العليا ومجازة من المجلس."
+ },
+ "crb:4.2.1.1": {
+  "en": "A cyber risk management methodology is defined and run by the information security function together with IT, risk and business teams.",
+  "ar": "توجد منهجية لإدارة المخاطر السيبرانية محددة وتديرها وظيفة أمن المعلومات مع فرق تقنية المعلومات والمخاطر والأعمال."
+ },
+ "crb:4.2.1.2": {
+  "en": "The methodology is reviewed annually by the information security function.",
+  "ar": "تراجع وظيفة أمن المعلومات المنهجية سنوياً."
+ },
+ "crb:4.2.1.3": {
+  "en": "The methodology is communicated at least annually to all relevant business and technology owners.",
+  "ar": "تُعمم المنهجية سنوياً على الأقل على كل مالكي الأعمال والتقنية المعنيين."
+ },
+ "crb:4.2.1.4": {
+  "en": "Cyber risk management is integrated into enterprise risk management with aligned appetite, taxonomy and reporting.",
+  "ar": "إدارة المخاطر السيبرانية مدمجة في إدارة المخاطر المؤسسية مع توافق الشهية والتصنيف والتقارير."
+ },
+ "crb:4.2.1.5": {
+  "en": "The methodology follows recognised international frameworks and standards and is applied consistently.",
+  "ar": "تتبع المنهجية أطراً ومعايير دولية معترفاً بها وتُطبق باتساق."
+ },
+ "crb:4.2.2.1": {
+  "en": "Risk identification for this system covers internal and external threats and vulnerabilities and the confidentiality, integrity and availability principles.",
+  "ar": "يشمل تحديد المخاطر لهذا النظام التهديدات ونقاط الضعف الداخلية والخارجية ومبادئ السرية والسلامة والتوافر."
+ },
+ "crb:4.2.2.2": {
+  "en": "The risk assessment considers regulatory requirements, technology assets, interfaces, third parties, people and the operating environment.",
+  "ar": "يراعي تقييم المخاطر المتطلبات التنظيمية والأصول التقنية والواجهات والأطراف الخارجية والأفراد وبيئة التشغيل."
+ },
+ "crb:4.2.2.3": {
+  "en": "The identified risks, threats, vulnerabilities and controls are recorded in the central risk register.",
+  "ar": "المخاطر والتهديدات ونقاط الضعف والضوابط المحددة مسجلة في سجل المخاطر المركزي."
+ },
+ "crb:4.2.2.4": {
+  "en": "Each risk is rated by severity, business impact and likelihood with the residual risk value recorded.",
+  "ar": "كل خطر مقيّم بحسب الشدة والأثر على الأعمال والاحتمال مع تسجيل قيمة المخاطر المتبقية."
+ },
+ "crb:4.2.2.5": {
+  "en": "Assessment outcomes are reported to and agreed with the business and technology risk owners.",
+  "ar": "تُرفع نتائج التقييم إلى مالكي مخاطر الأعمال والتقنية ويُتفق معهم عليها."
+ },
+ "crb:4.2.2.6": {
+  "en": "The assessment is repeated annually and on new products, technologies, significant change, incidents or new third party agreements.",
+  "ar": "يُعاد التقييم سنوياً وعند إدخال منتجات أو تقنيات جديدة أو تغيير جوهري أو حادث أو اتفاقية جديدة مع طرف خارجي."
+ },
+ "crb:4.2.3.1": {
+  "en": "Every register entry for this system has a treatment plan that addresses it.",
+  "ar": "لكل قيد في السجل يخص هذا النظام خطة معالجة تعالجه."
+ },
+ "crb:4.2.3.2": {
+  "en": "Treatments are categorised, tracked and managed, and any acceptance is signed by the accountable owner within the appetite.",
+  "ar": "المعالجات مصنفة ومتابعة ومدارة وأي قبول للمخاطر موقع من المالك المسؤول ضمن الشهية."
+ },
+ "crb:4.2.3.3": {
+  "en": "Risk monitoring tracks treatment plan progress, control effectiveness and changes in the risk picture.",
+  "ar": "تتابع مراقبة المخاطر تقدم خطط المعالجة وفعالية الضوابط والتغيرات في صورة المخاطر."
+ },
+ "crb:4.2.3.4": {
+  "en": "The head of information security reports risk status, treatment progress and residual risk to the steering committee quarterly.",
+  "ar": "يرفع رئيس أمن المعلومات حالة المخاطر وتقدم المعالجة والمخاطر المتبقية إلى لجنة التوجيه كل ثلاثة أشهر."
+ },
+ "crb:4.2.4.1": {
+  "en": "The need for cyber insurance is evaluated and the decision to adopt or not is documented against the risk appetite.",
+  "ar": "الحاجة إلى التأمين السيبراني مقيّمة وقرار اعتماده أو عدمه موثق وفق شهية المخاطر."
+ },
+ "crb:4.2.4.2": {
+  "en": "Any adopted cyber insurance covers a broad range of losses including response costs, business interruption and liabilities.",
+  "ar": "يغطي أي تأمين سيبراني معتمد طيفاً واسعاً من الخسائر بما فيها تكاليف الاستجابة وانقطاع الأعمال والالتزامات."
+ },
+ "crb:4.2.4.3": {
+  "en": "Due diligence on the policy has identified exclusions and limitations that could affect payouts.",
+  "ar": "حدد الفحص النافي للجهالة لوثيقة التأمين الاستثناءات والقيود التي قد تؤثر في التعويضات."
+ },
+ "crb:4.2.5.1": {
+  "en": "The project delivering this system carried cybersecurity requirements from initiation and had its risks identified and treated.",
+  "ar": "حمل المشروع المنفذ لهذا النظام متطلبات الأمن السيبراني منذ البداية وحُددت مخاطره وعولجت."
+ },
+ "crb:4.2.5.2": {
+  "en": "Cybersecurity objectives were in the project objectives, the security function was involved throughout and security was part of acceptance.",
+  "ar": "كانت أهداف الأمن السيبراني ضمن أهداف المشروع وشاركت وظيفة الأمن طوال المشروع وكان الأمن جزءاً من القبول."
+ },
+ "crb:4.3.1.1": {
+  "en": "The legal, regulatory and CBK requirements that apply to this system are identified, documented and demonstrably met.",
+  "ar": "المتطلبات القانونية والتنظيمية ومتطلبات بنك الكويت المركزي المنطبقة على هذا النظام محددة وموثقة ومستوفاة بشكل يمكن إثباته."
+ },
+ "crb:4.3.1.2": {
+  "en": "The applicable standards such as PCI DSS, PCI PIN, SWIFT CSCF and ISO 27001 are identified and the latest versions are followed.",
+  "ar": "المعايير المنطبقة مثل PCI DSS و PCI PIN و SWIFT CSCF و ISO 27001 محددة وتُتبع أحدث إصداراتها."
+ },
+ "crb:4.3.1.3": {
+  "en": "Certifications for ISO 27001, ISO 22301 and PCI DSS and the SWIFT CSCF attestation are current and shared with CBK as required.",
+  "ar": "شهادات ISO 27001 و ISO 22301 و PCI DSS وإقرار SWIFT CSCF سارية وتُشارك مع بنك الكويت المركزي عند الطلب."
+ },
+ "crb:4.3.1.4": {
+  "en": "A compliance register lists every applicable requirement and tracks changes through assessment and implementation.",
+  "ar": "يُدرج سجل الالتزام كل متطلب منطبق ويتابع التغييرات من التقييم إلى التنفيذ."
+ },
+ "crb:4.4.1.1": {
+  "en": "Internal audit independently evaluates the implementation and effectiveness of the security management system and the CORF controls.",
+  "ar": "يقيّم التدقيق الداخلي باستقلالية تنفيذ نظام إدارة الأمن وضوابط CORF وفعاليتها."
+ },
+ "crb:4.4.2.1": {
+  "en": "An audit charter based on accepted auditing standards and the CORF is approved and reviewed.",
+  "ar": "يوجد ميثاق تدقيق مبني على معايير التدقيق المتعارف عليها وعلى CORF معتمد ومراجع."
+ },
+ "crb:4.4.2.2": {
+  "en": "The audit plan is approved by the board.",
+  "ar": "خطة التدقيق معتمدة من المجلس."
+ },
+ "crb:4.4.2.3": {
+  "en": "Framework risk areas are audited regularly on a risk basis with a defined frequency.",
+  "ar": "تُدقق مجالات المخاطر في الإطار بانتظام على أساس المخاطر وبوتيرة محددة."
+ },
+ "crb:4.4.3.1": {
+  "en": "Compliance audits against the CORF are performed by an independent and competent third party auditor approved by CBK.",
+  "ar": "يجري تدقيق الالتزام بإطار CORF مدقق خارجي مستقل وكفء معتمد من بنك الكويت المركزي."
+ },
+ "crb:4.4.3.2": {
+  "en": "The third party auditors hold relevant certifications and have no conflict of interest.",
+  "ar": "يحمل المدققون الخارجيون شهادات ذات صلة وليس لديهم تضارب في المصالح."
+ },
+ "crb:4.4.4.1": {
+  "en": "The board receives periodic feedback on the policy and its implementation and audit findings are tracked to closure.",
+  "ar": "يتلقى المجلس ملاحظات دورية عن السياسة وتنفيذها وتُتابع نتائج التدقيق حتى إغلاقها."
+ },
+ "crb:4.4.4.2": {
+  "en": "Independent audit findings are tracked and a compliance dashboard reaches the board quarterly.",
+  "ar": "تُتابع نتائج التدقيق المستقل وتصل لوحة الالتزام إلى المجلس كل ثلاثة أشهر."
+ },
+ "crb:4.5.1.1": {
+  "en": "Background screening is completed before hiring in line with law and internal requirements.",
+  "ar": "يُستكمل فحص الخلفية قبل التعيين وفق القانون والمتطلبات الداخلية."
+ },
+ "crb:4.5.1.2": {
+  "en": "Confidentiality or non disclosure agreements are signed by employees, contractors and vendor staff before onboarding.",
+  "ar": "يوقع الموظفون والمتعاقدون وموظفو الموردين اتفاقيات سرية أو عدم إفصاح قبل بدء العمل."
+ },
+ "crb:4.5.1.3": {
+  "en": "Employees, contractors and vendor staff formally acknowledge the security policies and procedures.",
+  "ar": "يقر الموظفون والمتعاقدون وموظفو الموردين رسمياً بسياسات الأمن وإجراءاته."
+ },
+ "crb:4.5.1.4": {
+  "en": "A formal disciplinary process covers violations of the code of conduct and internal policies.",
+  "ar": "توجد عملية تأديبية رسمية تغطي مخالفات ميثاق السلوك والسياسات الداخلية."
+ },
+ "crb:4.5.1.5": {
+  "en": "On termination, assets are returned and every access privilege is revoked promptly.",
+  "ar": "عند انتهاء الخدمة تُعاد الأصول وتُلغى كل صلاحيات الوصول فوراً."
+ },
+ "crb:4.5.2.1": {
+  "en": "A security awareness and training programme covers employees, contractors and relevant vendor staff.",
+  "ar": "يغطي برنامج التوعية والتدريب الأمني الموظفين والمتعاقدين وموظفي الموردين المعنيين."
+ },
+ "crb:4.5.2.2": {
+  "en": "Awareness training runs on hire and at least annually and covers policies, threats and reporting duties.",
+  "ar": "يجري التدريب التوعوي عند التعيين وسنوياً على الأقل ويغطي السياسات والتهديدات وواجبات الإبلاغ."
+ },
+ "crb:4.5.2.3": {
+  "en": "Role based training runs at least annually for the people who build, run or administer this system.",
+  "ar": "يجري تدريب مخصص للأدوار سنوياً على الأقل لمن يبنون هذا النظام أو يشغلونه أو يديرونه."
+ },
+ "crb:4.5.2.4": {
+  "en": "The board and senior management receive dedicated cybersecurity awareness at least annually.",
+  "ar": "يتلقى المجلس والإدارة العليا توعية سيبرانية مخصصة سنوياً على الأقل."
+ },
+ "crb:4.5.2.5": {
+  "en": "All staff, contractors and vendor staff formally acknowledge the cybersecurity policies at least annually.",
+  "ar": "يقر كل الموظفين والمتعاقدين وموظفي الموردين رسمياً بسياسات الأمن السيبراني سنوياً على الأقل."
+ },
+ "crb:4.5.2.6": {
+  "en": "Customer awareness campaigns run at least quarterly and cover phishing, brand misuse and fraud.",
+  "ar": "تجري حملات توعية للعملاء كل ثلاثة أشهر على الأقل وتغطي التصيد وإساءة استخدام العلامة والاحتيال."
+ },
+ "crb:4.5.2.7": {
+  "en": "Customers have clear channels to report phishing and suspicious behaviour.",
+  "ar": "للعملاء قنوات واضحة للإبلاغ عن التصيد والسلوك المشبوه."
+ },
+ "crb:4.5.2.8": {
+  "en": "Programme effectiveness is measured with knowledge assessments and simulated social engineering.",
+  "ar": "تُقاس فعالية البرنامج بتقييمات المعرفة ومحاكاة الهندسة الاجتماعية."
+ },
+ "crb:4.5.2.9": {
+  "en": "Attendance and assessment records of all training are retained as evidence.",
+  "ar": "تُحفظ سجلات الحضور والتقييم لكل التدريبات دليلاً."
+ },
+ "crb:4.5.2.10": {
+  "en": "Training content is continuously refreshed from participant feedback and the changing threat landscape.",
+  "ar": "يُحدث محتوى التدريب باستمرار من ملاحظات المشاركين ومن تغير مشهد التهديدات."
+ },
+ "crb:4.5.3.1": {
+  "en": "A professional cyber training and certification plan is approved and reviewed annually.",
+  "ar": "توجد خطة للتدريب المهني السيبراني والشهادات معتمدة وتُراجع سنوياً."
+ },
+ "crb:4.5.3.2": {
+  "en": "Specialist training is provided to staff in key and critical roles in line with their job descriptions.",
+  "ar": "يُقدم تدريب متخصص للموظفين في الأدوار الرئيسية والحرجة وفق أوصافهم الوظيفية."
+ },
+ "crb:4.5.3.3": {
+  "en": "Workforce planning documents current and future cybersecurity staffing needs and skill gaps.",
+  "ar": "يوثق تخطيط القوى العاملة احتياجات التوظيف السيبراني الحالية والمستقبلية وفجوات المهارات."
+ },
+ "crb:4.5.3.4": {
+  "en": "Career pathways are defined for security, resilience, operations, risk and audit roles.",
+  "ar": "المسارات المهنية محددة لأدوار الأمن والمرونة والعمليات والمخاطر والتدقيق."
+ },
+ "crb:4.5.3.5": {
+  "en": "Retention strategies are in place for cybersecurity staff.",
+  "ar": "توجد استراتيجيات للاحتفاظ بموظفي الأمن السيبراني."
+ },
+ "crb:4.5.3.6": {
+  "en": "Cross training and rotation broaden expertise and remove single person dependencies.",
+  "ar": "يوسع التدريب المتبادل والتناوب الخبرة ويزيل الاعتماد على شخص واحد."
+ },
+ "crb:4.5.3.7": {
+  "en": "Contingency plans with knowledge transfer exist for the critical roles that implement and monitor the framework.",
+  "ar": "توجد خطط طوارئ مع نقل المعرفة للأدوار الحرجة التي تنفذ الإطار وتراقبه."
+ },
+ "crb:4.5.3.8": {
+  "en": "Talent metrics such as training completion and certifications are monitored.",
+  "ar": "تُراقب مؤشرات المواهب مثل إكمال التدريب والشهادات المحققة."
+ },
+ "crb:4.5.3.9": {
+  "en": "Talent management programmes are reviewed comprehensively every year.",
+  "ar": "تُراجع برامج إدارة المواهب مراجعة شاملة كل سنة."
+ },
+ "crb:4.5.3.10": {
+  "en": "Staff have access to learning platforms, conferences and knowledge sharing forums.",
+  "ar": "يتاح للموظفين الوصول إلى منصات التعلم والمؤتمرات ومنتديات تبادل المعرفة."
+ },
+ "crb:5.1.1.1": {
+  "en": "The security architecture design for this system is defined and approved by IT, information security, risk and the business.",
+  "ar": "تصميم المعمارية الأمنية لهذا النظام محدد ومعتمد من تقنية المعلومات وأمن المعلومات والمخاطر والأعمال."
+ },
+ "crb:5.1.1.2": {
+  "en": "The architecture design is reviewed at least annually and whenever the environment or business requirements change.",
+  "ar": "يُراجع تصميم المعمارية سنوياً على الأقل وكلما تغيرت البيئة أو متطلبات الأعمال."
+ },
+ "crb:5.1.2.1": {
+  "en": "The architecture protects confidentiality, integrity and availability through layered defence, least privilege, segregation and resilience.",
+  "ar": "تحمي المعمارية السرية والسلامة والتوافر عبر الدفاع متعدد الطبقات وأدنى الصلاحيات والفصل والمرونة."
+ },
+ "crb:5.1.3.1": {
+  "en": "The architecture follows zero trust and secure by design principles in every environment it spans.",
+  "ar": "تتبع المعمارية مبادئ انعدام الثقة والأمن بالتصميم في كل بيئة تمتد إليها."
+ },
+ "crb:5.2.1.1": {
+  "en": "An asset management and classification process is approved, implemented, monitored and reviewed at least annually.",
+  "ar": "توجد عملية لإدارة الأصول وتصنيفها معتمدة ومنفذة ومراقبة وتُراجع سنوياً على الأقل."
+ },
+ "crb:5.2.1.2": {
+  "en": "Reviews of the process are triggered by changes in business, technology, regulation or the inventory.",
+  "ar": "تُطلق مراجعة العملية عند تغير الأعمال أو التقنية أو التنظيم أو الجرد."
+ },
+ "crb:5.2.1.3": {
+  "en": "The process defines the owner, custodian and user roles and the controls for identifying, protecting and monitoring assets.",
+  "ar": "تحدد العملية أدوار المالك والحافظ والمستخدم وضوابط تحديد الأصول وحمايتها ومراقبتها."
+ },
+ "crb:5.2.1.4": {
+  "en": "Every asset has a named business owner responsible for the inventory record.",
+  "ar": "لكل أصل مالك أعمال محدد بالاسم مسؤول عن قيده في الجرد."
+ },
+ "crb:5.2.1.5": {
+  "en": "Every IT asset has a named system owner acting as custodian.",
+  "ar": "لكل أصل تقني مالك نظام محدد بالاسم يقوم بدور الحافظ."
+ },
+ "crb:5.2.2.1": {
+  "en": "Every component of this system is recorded in the enterprise asset inventory.",
+  "ar": "كل مكوّن من هذا النظام مسجل في جرد أصول الجهة."
+ },
+ "crb:5.2.2.2": {
+  "en": "The inventory record carries name, description, owner, custodian, classification and end of life or end of support dates.",
+  "ar": "يحمل قيد الجرد الاسم والوصف والمالك والحافظ والتصنيف وتواريخ نهاية العمر أو نهاية الدعم."
+ },
+ "crb:5.2.2.3": {
+  "en": "Endpoints that access this system are in the inventory with their classification managed by the endpoint process.",
+  "ar": "الأجهزة الطرفية التي تصل إلى هذا النظام مدرجة في الجرد ويدير تصنيفها إجراء الأجهزة الطرفية."
+ },
+ "crb:5.2.2.4": {
+  "en": "Lifecycle events such as acquisition, movement, change and decommissioning update the inventory.",
+  "ar": "تُحدث أحداث دورة الحياة مثل الاقتناء والنقل والتغيير والإخراج من الخدمة قيود الجرد."
+ },
+ "crb:5.2.2.5": {
+  "en": "The inventory entry is reviewed at least quarterly and after any relevant change.",
+  "ar": "يُراجع قيد الجرد كل ثلاثة أشهر على الأقل وبعد أي تغيير ذي صلة."
+ },
+ "crb:5.2.2.6": {
+  "en": "The business functions and processes this system supports are identified and its value to the entity is risk assessed.",
+  "ar": "وظائف الأعمال والعمليات التي يدعمها هذا النظام محددة وقيمته للجهة مقيّمة من منظور المخاطر."
+ },
+ "crb:5.2.3.1": {
+  "en": "The system and its data are classified by value, criticality and legal or regulatory requirements.",
+  "ar": "النظام وبياناته مصنفان بحسب القيمة والحرج والمتطلبات القانونية أو التنظيمية."
+ },
+ "crb:5.2.3.2": {
+  "en": "Labelling and handling guidelines exist for each classification level and are kept current.",
+  "ar": "توجد إرشادات للوسم والتداول لكل مستوى تصنيف وتُحدث باستمرار."
+ },
+ "crb:5.2.3.3": {
+  "en": "Information assets of this system are labelled according to the guidelines.",
+  "ar": "أصول المعلومات في هذا النظام موسومة وفق الإرشادات."
+ },
+ "crb:5.2.4.1": {
+  "en": "Components were acquired through the procurement process with valid licences and legal compliance.",
+  "ar": "اقتُنيت المكونات عبر عملية المشتريات بتراخيص سارية وبالتزام قانوني."
+ },
+ "crb:5.2.4.2": {
+  "en": "An acceptable use policy for information assets is approved and reviewed annually.",
+  "ar": "توجد سياسة للاستخدام المقبول لأصول المعلومات معتمدة وتُراجع سنوياً."
+ },
+ "crb:5.2.4.3": {
+  "en": "Assets are disposed of securely when no longer required, in line with regulation, contracts and standards.",
+  "ar": "يُتخلص من الأصول بأمان عند انتفاء الحاجة إليها وفق التنظيم والعقود والمعايير."
+ },
+ "crb:5.2.4.4": {
+  "en": "Sanitisation and destruction procedures are approved and reviewed annually.",
+  "ar": "إجراءات التعقيم والإتلاف معتمدة وتُراجع سنوياً."
+ },
+ "crb:5.2.4.5": {
+  "en": "Sensitive information is disposed of with techniques that make it unrecoverable.",
+  "ar": "يُتخلص من المعلومات الحساسة بتقنيات تجعلها غير قابلة للاسترجاع."
+ },
+ "crb:5.2.4.6": {
+  "en": "Disposal activities are documented for compliance and audit.",
+  "ar": "أنشطة التخلص موثقة لأغراض الالتزام والتدقيق."
+ },
+ "crb:5.2.5.1": {
+  "en": "A process detects, prevents and manages unauthorised, unmanaged or rogue assets and is reviewed regularly.",
+  "ar": "توجد عملية تكشف الأصول غير المصرح بها أو غير المدارة أو الدخيلة وتمنعها وتديرها وتُراجع بانتظام."
+ },
+ "crb:5.2.5.2": {
+  "en": "Monitoring tools identify unapproved devices or assets connected to the environment.",
+  "ar": "تحدد أدوات المراقبة الأجهزة أو الأصول غير المعتمدة المتصلة بالبيئة."
+ },
+ "crb:5.3.1.1": {
+  "en": "Security configuration standards are approved, implemented, monitored and reviewed at least annually.",
+  "ar": "معايير الإعداد الأمني معتمدة ومنفذة ومراقبة وتُراجع سنوياً على الأقل."
+ },
+ "crb:5.3.1.2": {
+  "en": "The standards draw on recognised benchmarks such as NIST and CIS and on vendor guidance.",
+  "ar": "تستند المعايير إلى مقاييس معترف بها مثل NIST و CIS وإلى إرشادات المصنّعين."
+ },
+ "crb:5.3.1.3": {
+  "en": "The standards cover approved software versions, removal of unnecessary services, secure defaults, logging and access settings.",
+  "ar": "تغطي المعايير إصدارات البرمجيات المعتمدة وإزالة الخدمات غير الضرورية والإعدادات الافتراضية الآمنة والتسجيل وإعدادات الوصول."
+ },
+ "crb:5.3.1.4": {
+  "en": "Compliance of this system with the configuration standards is checked quarterly.",
+  "ar": "يُفحص التزام هذا النظام بمعايير الإعداد كل ثلاثة أشهر."
+ },
+ "crb:5.3.1.5": {
+  "en": "The system was configured to the standards and tested for compliance before go-live.",
+  "ar": "أُعد النظام وفق المعايير واختُبر التزامه بها قبل الإطلاق."
+ },
+ "crb:5.3.2.1": {
+  "en": "The network architecture around this system is documented, approved and reviewed at least annually.",
+  "ar": "معمارية الشبكة المحيطة بهذا النظام موثقة ومعتمدة وتُراجع سنوياً على الأقل."
+ },
+ "crb:5.3.2.2": {
+  "en": "Network security devices such as firewalls and intrusion prevention are configured to protect the system.",
+  "ar": "أجهزة أمن الشبكة مثل جدران الحماية ومنع التسلل مضبوطة لحماية النظام."
+ },
+ "crb:5.3.2.3": {
+  "en": "Production, testing and development sit in segregated network zones with distinct policies.",
+  "ar": "بيئات الإنتاج والاختبار والتطوير في مناطق شبكية مفصولة لكل منها سياسة مميزة."
+ },
+ "crb:5.3.2.4": {
+  "en": "Publicly reachable services sit in a DMZ with inbound traffic limited to specific addresses, protocols and ports.",
+  "ar": "الخدمات المتاحة للعموم في منطقة DMZ مع حصر الحركة الواردة في عناوين وبروتوكولات ومنافذ محددة."
+ },
+ "crb:5.3.2.5": {
+  "en": "Every external connection into the internal network is authenticated and encrypted.",
+  "ar": "كل اتصال خارجي إلى الشبكة الداخلية موثق ومشفر."
+ },
+ "crb:5.3.2.6": {
+  "en": "Network device logging captures configuration changes and security events.",
+  "ar": "يسجل تسجيل أجهزة الشبكة تغييرات الإعدادات والأحداث الأمنية."
+ },
+ "crb:5.3.2.7": {
+  "en": "Wireless access points on the enterprise network are registered, approved and securely configured.",
+  "ar": "نقاط الوصول اللاسلكي على شبكة الجهة مسجلة ومعتمدة ومضبوطة بأمان."
+ },
+ "crb:5.3.2.8": {
+  "en": "The network is continuously monitored for rogue devices and any found are isolated immediately.",
+  "ar": "تُراقب الشبكة باستمرار للكشف عن الأجهزة الدخيلة ويُعزل ما يُكتشف منها فوراً."
+ },
+ "crb:5.3.3.1": {
+  "en": "Standards for network connections and application interfaces are approved and reviewed at least annually.",
+  "ar": "معايير اتصالات الشبكة وواجهات التطبيقات معتمدة وتُراجع سنوياً على الأقل."
+ },
+ "crb:5.3.3.2": {
+  "en": "Every internal and external connection, interface and data flow of this system is documented and kept current.",
+  "ar": "كل اتصال وواجهة وتدفق بيانات داخلي وخارجي لهذا النظام موثق ومحدث."
+ },
+ "crb:5.3.3.3": {
+  "en": "The standards cover encryption, authentication, session management, time-outs, access control and error handling for interfaces.",
+  "ar": "تغطي المعايير التشفير والتوثيق وإدارة الجلسات والمهلات والتحكم في الوصول ومعالجة الأخطاء للواجهات."
+ },
+ "crb:5.3.3.4": {
+  "en": "Connections and interfaces are tested annually or after a significant change for compliance with the standards.",
+  "ar": "تُختبر الاتصالات والواجهات سنوياً أو بعد تغيير جوهري للتحقق من الالتزام بالمعايير."
+ },
+ "crb:5.4.1.1": {
+  "en": "A portable device security policy is approved, implemented, monitored and reviewed annually.",
+  "ar": "توجد سياسة لأمن الأجهزة المحمولة معتمدة ومنفذة ومراقبة وتُراجع سنوياً."
+ },
+ "crb:5.4.1.2": {
+  "en": "Portable devices connect to the network only after authorisation and security validation.",
+  "ar": "لا تتصل الأجهزة المحمولة بالشبكة إلا بعد التصريح والتحقق الأمني."
+ },
+ "crb:5.4.1.3": {
+  "en": "The policy includes acceptable use rules for personal and work use.",
+  "ar": "تتضمن السياسة قواعد الاستخدام المقبول للاستخدام الشخصي والوظيفي."
+ },
+ "crb:5.4.1.4": {
+  "en": "Configuration standards are applied to devices before allocation or connection.",
+  "ar": "تُطبق معايير الإعداد على الأجهزة قبل تخصيصها أو توصيلها."
+ },
+ "crb:5.4.1.5": {
+  "en": "Every device is tagged and assigned to one named person with the identity logged.",
+  "ar": "كل جهاز موسوم ومخصص لشخص واحد محدد بالاسم مع تسجيل هويته."
+ },
+ "crb:5.4.1.6": {
+  "en": "Connected devices are continuously monitored for unauthorised access or malicious behaviour.",
+  "ar": "تُراقب الأجهزة المتصلة باستمرار لكشف الوصول غير المصرح به أو السلوك الخبيث."
+ },
+ "crb:5.4.1.7": {
+  "en": "Lost, rooted and jailbroken devices are blocked from enterprise resources.",
+  "ar": "تُمنع الأجهزة المفقودة أو المخترقة الصلاحيات من الوصول إلى موارد الجهة."
+ },
+ "crb:5.4.1.8": {
+  "en": "Entity owned devices of leavers are returned and wiped promptly.",
+  "ar": "تُعاد أجهزة الجهة الخاصة بالمغادرين وتُمسح فوراً."
+ },
+ "crb:5.4.1.9": {
+  "en": "Entity data on personal devices is backed up and securely removed on exit.",
+  "ar": "تُنسخ بيانات الجهة على الأجهزة الشخصية احتياطياً وتُزال بأمان عند المغادرة."
+ },
+ "crb:5.4.1.10": {
+  "en": "Devices reprovisioned to new users have the configuration standards reinstalled first.",
+  "ar": "تُعاد تهيئة الأجهزة المخصصة لمستخدمين جدد بمعايير الإعداد قبل تسليمها."
+ },
+ "crb:5.4.1.11": {
+  "en": "Only pre approved applications and authorised users can reach important records on portable devices.",
+  "ar": "لا يصل إلى السجلات المهمة على الأجهزة المحمولة إلا التطبيقات المعتمدة مسبقاً والمستخدمون المصرح لهم."
+ },
+ "crb:5.4.1.12": {
+  "en": "A maximum number of devices per employee is set on business need.",
+  "ar": "يوجد حد أقصى لعدد الأجهزة لكل موظف محدد وفق حاجة العمل."
+ },
+ "crb:5.4.1.13": {
+  "en": "Connected portable devices use full disk encryption.",
+  "ar": "تستخدم الأجهزة المحمولة المتصلة تشفير القرص الكامل."
+ },
+ "crb:5.4.1.14": {
+  "en": "Devices support remote wipe for loss or theft.",
+  "ar": "تدعم الأجهزة المسح عن بُعد عند الفقد أو السرقة."
+ },
+ "crb:5.4.1.15": {
+  "en": "Devices lock automatically after a defined period of inactivity.",
+  "ar": "تُقفل الأجهزة تلقائياً بعد مدة محددة من الخمول."
+ },
+ "crb:5.4.1.16": {
+  "en": "A central mobile device management platform tracks usage, configuration and compliance of all mobile devices.",
+  "ar": "تتابع منصة مركزية لإدارة الأجهزة المحمولة استخدام كل الأجهزة وإعداداتها والتزامها."
+ },
+ "crb:5.4.1.17": {
+  "en": "Employee owned devices are governed by device management controls that enforce the policies.",
+  "ar": "تحكم أجهزة الموظفين الشخصية ضوابط إدارة أجهزة تفرض السياسات."
+ },
+ "crb:5.4.1.18": {
+  "en": "Endpoint protection against malware is installed on all portable devices.",
+  "ar": "حماية الأجهزة الطرفية من البرمجيات الخبيثة مثبتة على كل الأجهزة المحمولة."
+ },
+ "crb:5.4.1.19": {
+  "en": "Personal firewalls run on all end user platforms with rules aligned to the network policy.",
+  "ar": "تعمل جدران الحماية الشخصية على كل منصات المستخدمين بقواعد متوافقة مع سياسة الشبكة."
+ },
+ "crb:5.4.2.1": {
+  "en": "Removable media procedures follow the classification scheme.",
+  "ar": "تتبع إجراءات الوسائط القابلة للإزالة نظام التصنيف."
+ },
+ "crb:5.4.2.2": {
+  "en": "Removable media is blocked by default and allowed only with a justified and approved exception.",
+  "ar": "الوسائط القابلة للإزالة ممنوعة افتراضياً ولا يُسمح بها إلا باستثناء مبرر ومعتمد."
+ },
+ "crb:5.4.2.3": {
+  "en": "Removable media is securely wiped after use.",
+  "ar": "تُمسح الوسائط القابلة للإزالة بأمان بعد الاستخدام."
+ },
+ "crb:5.4.2.4": {
+  "en": "Removable media is scanned for malware in an isolated environment before its content is processed.",
+  "ar": "تُفحص الوسائط القابلة للإزالة ضد البرمجيات الخبيثة في بيئة معزولة قبل معالجة محتواها."
+ },
+ "crb:5.4.2.5": {
+  "en": "Media carrying sensitive information is protected in transit against access, tampering and corruption.",
+  "ar": "تُحمى الوسائط الحاملة لمعلومات حساسة أثناء النقل من الوصول والعبث والتلف."
+ },
+ "crb:5.4.2.6": {
+  "en": "Backup and removable media holding classified data is encrypted and handled per the guidelines.",
+  "ar": "وسائط النسخ الاحتياطي والوسائط القابلة للإزالة الحاملة لبيانات مصنفة مشفرة وتُتداول وفق الإرشادات."
+ },
+ "crb:5.4.2.7": {
+  "en": "Media no longer needed is securely disposed of and destroyed.",
+  "ar": "يُتخلص من الوسائط غير المطلوبة بأمان وتُتلف."
+ },
+ "crb:5.5.1.1": {
+  "en": "Email usage guidelines are approved and reviewed at least annually.",
+  "ar": "إرشادات استخدام البريد الإلكتروني معتمدة وتُراجع سنوياً على الأقل."
+ },
+ "crb:5.5.1.2": {
+  "en": "Email and messaging systems are protected against spam, malicious links and attachments and phishing.",
+  "ar": "أنظمة البريد والرسائل محمية من الرسائل غير المرغوبة والروابط والمرفقات الخبيثة والتصيد."
+ },
+ "crb:5.5.1.3": {
+  "en": "Staff, contractors and vendor staff use email within the privacy and security requirements.",
+  "ar": "يستخدم الموظفون والمتعاقدون وموظفو الموردين البريد ضمن متطلبات الخصوصية والأمن."
+ },
+ "crb:5.5.2.1": {
+  "en": "Email sent by this system to customers or staff is protected with digital signatures or encryption where confidentiality or integrity matters.",
+  "ar": "البريد الذي يرسله هذا النظام إلى العملاء أو الموظفين محمي بتوقيع رقمي أو تشفير حيث تهم السرية أو السلامة."
+ },
+ "crb:5.5.2.2": {
+  "en": "Email filtering and anti phishing tools detect and block malicious email.",
+  "ar": "تكشف أدوات تصفية البريد ومكافحة التصيد البريد الخبيث وتحظره."
+ },
+ "crb:5.5.2.3": {
+  "en": "Sending domains used by this system carry SPF, DKIM and DMARC so its email cannot be spoofed.",
+  "ar": "تحمل نطاقات الإرسال التي يستخدمها هذا النظام سجلات SPF و DKIM و DMARC حتى لا يُنتحل بريده."
+ },
+ "crb:5.5.2.4": {
+  "en": "Data loss prevention monitors and blocks unauthorised transmission of sensitive data by email.",
+  "ar": "يراقب منع فقدان البيانات الإرسال غير المصرح به للبيانات الحساسة عبر البريد ويحظره."
+ },
+ "crb:5.6.1.1": {
+  "en": "An access management policy is approved and reviewed at least annually.",
+  "ar": "توجد سياسة لإدارة الوصول معتمدة وتُراجع سنوياً على الأقل."
+ },
+ "crb:5.6.1.2": {
+  "en": "The policy covers registration, modification and revocation for regular and privileged users, reviews and segregation of duties.",
+  "ar": "تغطي السياسة تسجيل المستخدمين العاديين والامتيازيين وتعديلهم وإلغاءهم والمراجعات وفصل المهام."
+ },
+ "crb:5.6.1.3": {
+  "en": "An authorisation process governs access to this system and every allocated privilege is recorded.",
+  "ar": "تحكم عملية تصريح الوصول إلى هذا النظام وكل صلاحية ممنوحة مسجلة."
+ },
+ "crb:5.6.1.4": {
+  "en": "Access and privileges are granted strictly on need to know and least privilege.",
+  "ar": "تُمنح الصلاحيات والوصول حصراً على أساس الحاجة إلى المعرفة وأدنى الصلاحيات."
+ },
+ "crb:5.6.1.5": {
+  "en": "Privileged access is granted just in time, only when required and only for the duration needed.",
+  "ar": "يُمنح الوصول الامتيازي في الوقت المناسب فقط وعند الحاجة وللمدة اللازمة لا أكثر."
+ },
+ "crb:5.6.1.6": {
+  "en": "Segregation of duties is enforced in registering, modifying and revoking users.",
+  "ar": "يُفرض فصل المهام في تسجيل المستخدمين وتعديلهم وإلغائهم."
+ },
+ "crb:5.6.1.7": {
+  "en": "Every user, system, service and application has a unique identifier following the naming standard.",
+  "ar": "لكل مستخدم ونظام وخدمة وتطبيق معرف فريد وفق معيار التسمية."
+ },
+ "crb:5.6.1.8": {
+  "en": "Generic or group accounts exist only with a validated business reason, prior approval and a named owner.",
+  "ar": "لا توجد حسابات عامة أو مشتركة إلا بسبب عمل مثبت وموافقة مسبقة ومالك محدد بالاسم."
+ },
+ "crb:5.6.1.9": {
+  "en": "Authentication data is stored and transmitted using proper cryptographic mechanisms.",
+  "ar": "تُخزن بيانات التوثيق وتُنقل بآليات تشفير مناسبة."
+ },
+ "crb:5.6.1.10": {
+  "en": "Strong authentication such as passwordless or biometric methods is used for critical access.",
+  "ar": "يُستخدم توثيق قوي مثل الأساليب بلا كلمة مرور أو القياسات الحيوية للوصول الحرج."
+ },
+ "crb:5.6.1.11": {
+  "en": "Concurrent logins to critical functions are monitored and prevented unless explicitly justified.",
+  "ar": "تُراقب عمليات الدخول المتزامنة إلى الوظائف الحرجة وتُمنع ما لم تُبرر صراحة."
+ },
+ "crb:5.6.1.12": {
+  "en": "Access management activity and user access are logged and reviewed at least monthly for privileged accounts.",
+  "ar": "يُسجل نشاط إدارة الوصول ووصول المستخدمين ويُراجع شهرياً على الأقل للحسابات الامتيازية."
+ },
+ "crb:5.6.1.13": {
+  "en": "Access reviews run annually for normal accounts and quarterly for privileged and vendor accounts and immediately on role change.",
+  "ar": "تجري مراجعات الوصول سنوياً للحسابات العادية وكل ثلاثة أشهر للحسابات الامتيازية وحسابات الموردين وفوراً عند تغير الدور."
+ },
+ "crb:5.6.1.14": {
+  "en": "Accounts are flagged after 30 days of inactivity and disabled after 90 unless justified and approved.",
+  "ar": "تُميز الحسابات بعد 30 يوماً من الخمول وتُعطل بعد 90 يوماً ما لم تُبرر وتُعتمد."
+ },
+ "crb:5.6.1.15": {
+  "en": "Users lock or log off unattended workstations.",
+  "ar": "يقفل المستخدمون محطات العمل غير المراقبة أو يخرجون منها."
+ },
+ "crb:5.6.1.16": {
+  "en": "Privileged access to this system runs through a privileged access management solution that manages, monitors and controls it.",
+  "ar": "يمر الوصول الامتيازي إلى هذا النظام عبر حل لإدارة الوصول الامتيازي يديره ويراقبه ويتحكم فيه."
+ },
+ "crb:5.6.1.17": {
+  "en": "Behaviour analytics monitors user activity for anomalies and raises alerts.",
+  "ar": "تراقب تحليلات السلوك نشاط المستخدمين لكشف الشذوذ وتطلق التنبيهات."
+ },
+ "crb:5.6.2.1": {
+  "en": "A remote access policy defines how remote access is granted, managed, monitored and revoked.",
+  "ar": "تحدد سياسة الوصول عن بُعد كيفية منحه وإدارته ومراقبته وإلغائه."
+ },
+ "crb:5.6.2.2": {
+  "en": "Every remote access grant has a validated business reason, a risk assessment and stakeholder approval.",
+  "ar": "لكل منح وصول عن بُعد سبب عمل مثبت وتقييم مخاطر وموافقة أصحاب المصلحة."
+ },
+ "crb:5.6.2.3": {
+  "en": "Multi factor authentication protects all remote access including contractors and vendors.",
+  "ar": "يحمي التوثيق متعدد العوامل كل وصول عن بُعد بما فيه المتعاقدون والموردون."
+ },
+ "crb:5.6.2.4": {
+  "en": "Context aware controls such as device posture, behaviour and location govern remote access by risk.",
+  "ar": "تحكم ضوابط واعية بالسياق مثل حالة الجهاز والسلوك والموقع الوصول عن بُعد بحسب المخاطر."
+ },
+ "crb:5.6.2.5": {
+  "en": "Entity owned devices are preferred for remote access and zero trust applies to personal devices too.",
+  "ar": "تُفضل أجهزة الجهة للوصول عن بُعد ويُطبق انعدام الثقة على الأجهزة الشخصية أيضاً."
+ },
+ "crb:5.6.2.6": {
+  "en": "Devices used for remote access are patched, and unpatched devices are quarantined or remediated.",
+  "ar": "أجهزة الوصول عن بُعد محدثة بالتصحيحات وتُعزل الأجهزة غير المحدثة أو تُعالج."
+ },
+ "crb:5.6.2.7": {
+  "en": "Vendor remote sessions are time limited, recorded and monitored.",
+  "ar": "جلسات الموردين عن بُعد محدودة المدة ومسجلة ومراقبة."
+ },
+ "crb:5.6.2.8": {
+  "en": "All remote access and the activity within it is logged and monitored.",
+  "ar": "يُسجل كل وصول عن بُعد والنشاط ضمنه ويُراقب."
+ },
+ "crb:5.6.2.9": {
+  "en": "Remote access reaches production only through approved gateways such as jump hosts, never directly.",
+  "ar": "لا يصل الوصول عن بُعد إلى الإنتاج إلا عبر بوابات معتمدة مثل خوادم القفز ولا يصل مباشرة أبداً."
+ },
+ "crb:5.6.2.10": {
+  "en": "Remote sessions are encrypted end to end with current protocols.",
+  "ar": "جلسات الوصول عن بُعد مشفرة من طرف إلى طرف ببروتوكولات حديثة."
+ },
+ "crb:5.6.2.11": {
+  "en": "Idle remote sessions end automatically after a period set by system criticality.",
+  "ar": "تنتهي الجلسات الخاملة عن بُعد تلقائياً بعد مدة تحددها درجة حرج النظام."
+ },
+ "crb:5.6.3.1": {
+  "en": "A password management policy is approved and reviewed at least annually or after a significant incident.",
+  "ar": "توجد سياسة لإدارة كلمات المرور معتمدة وتُراجع سنوياً على الأقل أو بعد حادث جوهري."
+ },
+ "crb:5.6.3.2": {
+  "en": "The system enforces history, lockout, maximum age, minimum length and prohibited password lists.",
+  "ar": "يفرض النظام سجل كلمات المرور والقفل والعمر الأقصى والطول الأدنى وقوائم كلمات المرور المحظورة."
+ },
+ "crb:5.6.3.3": {
+  "en": "Passwords are at least 12 characters, mix letters, numbers and symbols and exclude guessable content.",
+  "ar": "كلمات المرور من 12 حرفاً على الأقل وتجمع الحروف والأرقام والرموز وتستبعد المحتوى السهل التخمين."
+ },
+ "crb:5.6.3.4": {
+  "en": "Multi factor authentication such as OTP, tokens, certificates or biometrics protects the accounts the policy requires.",
+  "ar": "يحمي التوثيق متعدد العوامل مثل OTP أو الرموز أو الشهادات أو القياسات الحيوية الحسابات التي تطلبها السياسة."
+ },
+ "crb:5.6.3.5": {
+  "en": "All default, vendor supplied and documented passwords including service accounts were changed before deployment.",
+  "ar": "غُيرت كل كلمات المرور الافتراضية ومن المورد والموثقة علناً بما فيها حسابات الخدمة قبل النشر."
+ },
+ "crb:5.6.3.6": {
+  "en": "Passwords are issued and reset securely to the intended user only.",
+  "ar": "تُصدر كلمات المرور وتُعاد تعيينها بأمان للمستخدم المقصود فقط."
+ },
+ "crb:5.6.3.7": {
+  "en": "Stored passwords are hashed with a salted algorithm such as PBKDF2.",
+  "ar": "كلمات المرور المخزنة مجزأة بخوارزمية مملحة مثل PBKDF2."
+ },
+ "crb:5.7.1.1": {
+  "en": "A cryptographic policy is approved and reviewed annually and names the algorithms, key lengths and protocols allowed.",
+  "ar": "توجد سياسة تشفير معتمدة تُراجع سنوياً وتحدد الخوارزميات وأطوال المفاتيح والبروتوكولات المسموح بها."
+ },
+ "crb:5.7.1.2": {
+  "en": "Procedures cover selection, implementation, key management and protection of the cryptographic setup of this system.",
+  "ar": "تغطي الإجراءات اختيار تشفير هذا النظام وتنفيذه وإدارة مفاتيحه وحماية إعداده."
+ },
+ "crb:5.7.1.3": {
+  "en": "Key lengths follow current global practice and are reviewed at least annually for adequacy.",
+  "ar": "تتبع أطوال المفاتيح الممارسة العالمية الحالية وتُراجع سنوياً على الأقل للتأكد من كفايتها."
+ },
+ "crb:5.7.1.4": {
+  "en": "Sensitive data is encrypted wherever it lives: logs, configuration files, databases, networks, applications and backups.",
+  "ar": "البيانات الحساسة مشفرة أينما وُجدت في السجلات وملفات الإعداد وقواعد البيانات والشبكات والتطبيقات والنسخ الاحتياطية."
+ },
+ "crb:5.7.1.5": {
+  "en": "Key encrypting keys are stored apart from data encrypting keys and encrypted data does not share storage with its keys.",
+  "ar": "مفاتيح تشفير المفاتيح مخزنة بمعزل عن مفاتيح تشفير البيانات ولا تشارك البيانات المشفرة مخزنها مع مفاتيحها."
+ },
+ "crb:5.7.1.6": {
+  "en": "Keys are reviewed periodically and rotated on suspicion of compromise.",
+  "ar": "تُراجع المفاتيح دورياً وتُدور عند الاشتباه في اختراقها."
+ },
+ "crb:5.8.1.1": {
+  "en": "A secure software lifecycle process is approved, implemented, monitored and reviewed annually.",
+  "ar": "توجد عملية لدورة حياة البرمجيات الآمنة معتمدة ومنفذة ومراقبة وتُراجع سنوياً."
+ },
+ "crb:5.8.1.2": {
+  "en": "Security and privacy design principles and classification requirements shaped the design of this application.",
+  "ar": "شكلت مبادئ تصميم الأمن والخصوصية ومتطلبات التصنيف تصميم هذا التطبيق."
+ },
+ "crb:5.8.1.3": {
+  "en": "An up to date software bill of materials exists for this application whether built in house or acquired.",
+  "ar": "توجد قائمة مكونات برمجية محدثة لهذا التطبيق سواء بُني داخلياً أو اقتُني."
+ },
+ "crb:5.8.1.4": {
+  "en": "Secure design reviews took place at the architecture and design phases.",
+  "ar": "أُجريت مراجعات التصميم الآمن في مرحلتي المعمارية والتصميم."
+ },
+ "crb:5.8.1.5": {
+  "en": "The information security team was involved in every lifecycle phase from design to retirement.",
+  "ar": "شارك فريق أمن المعلومات في كل مرحلة من دورة الحياة من التصميم إلى الإخراج من الخدمة."
+ },
+ "crb:5.8.1.6": {
+  "en": "Security is integrated into the development and operations pipeline in a DevSecOps manner.",
+  "ar": "الأمن مدمج في خط التطوير والتشغيل على نهج DevSecOps."
+ },
+ "crb:5.8.1.7": {
+  "en": "Secure coding practices such as the OWASP guidance are adopted and enforced.",
+  "ar": "ممارسات الترميز الآمن مثل إرشادات OWASP معتمدة ومفروضة."
+ },
+ "crb:5.8.1.8": {
+  "en": "Access to production, testing and development environments is separated to enforce segregation of duties.",
+  "ar": "الوصول إلى بيئات الإنتاج والاختبار والتطوير مفصول لفرض فصل المهام."
+ },
+ "crb:5.8.1.9": {
+  "en": "Access to source code is restricted, monitored and logged, and acquired software has source access terms agreed.",
+  "ar": "الوصول إلى الشيفرة المصدرية مقيد ومراقب ومسجل وشروط الوصول إلى شيفرة البرمجيات المقتناة متفق عليها."
+ },
+ "crb:5.8.1.10": {
+  "en": "Source code of this critical application is held on premises, in escrow or under strict contractual access rights.",
+  "ar": "شيفرة هذا التطبيق الحرج محفوظة داخل المنشأة أو لدى وسيط إيداع أو بحقوق وصول تعاقدية صارمة."
+ },
+ "crb:5.8.1.11": {
+  "en": "Version control tracks every code change and protects integrity.",
+  "ar": "يتتبع التحكم في الإصدارات كل تغيير في الشيفرة ويحمي سلامتها."
+ },
+ "crb:5.8.2.1": {
+  "en": "A security assessment certificate or equivalent testing evidence was obtained for this acquired application.",
+  "ar": "حُصل على شهادة تقييم أمني أو دليل اختبار مكافئ لهذا التطبيق المقتنى."
+ },
+ "crb:5.8.2.2": {
+  "en": "The application undergoes vulnerability assessment and penetration testing before release and at the required frequency.",
+  "ar": "يخضع التطبيق لتقييم الثغرات واختبار الاختراق قبل الإطلاق وبالوتيرة المطلوبة."
+ },
+ "crb:5.8.2.3": {
+  "en": "Error messages are generic with custom pages and no hints about authentication, internals or data.",
+  "ar": "رسائل الخطأ عامة بصفحات مخصصة ولا تكشف شيئاً عن التوثيق أو البنية الداخلية أو البيانات."
+ },
+ "crb:5.8.2.4": {
+  "en": "Error logs are reviewed daily for critical systems and at least monthly for others.",
+  "ar": "تُراجع سجلات الأخطاء يومياً للأنظمة الحرجة وشهرياً على الأقل لغيرها."
+ },
+ "crb:5.8.3.1": {
+  "en": "APIs follow secure design practices such as the OWASP API Security Top 10.",
+  "ar": "تتبع الواجهات البرمجية ممارسات التصميم الآمن مثل OWASP API Security Top 10."
+ },
+ "crb:5.8.3.2": {
+  "en": "An inventory of the APIs this system exposes and consumes is maintained.",
+  "ar": "يوجد جرد محدث للواجهات البرمجية التي يتيحها هذا النظام ويستهلكها."
+ },
+ "crb:5.8.3.3": {
+  "en": "APIs enforce strong authentication such as OAuth 2.0 or mTLS and role based access control.",
+  "ar": "تفرض الواجهات البرمجية توثيقاً قوياً مثل OAuth 2.0 أو TLS المتبادل وتحكماً في الوصول قائماً على الأدوار."
+ },
+ "crb:5.8.3.4": {
+  "en": "All API inputs are validated and outputs encoded to prevent injection.",
+  "ar": "كل مدخلات الواجهات البرمجية متحقق منها ومخرجاتها مرمزة لمنع الحقن."
+ },
+ "crb:5.8.3.5": {
+  "en": "Rate limiting and throttling protect the APIs against denial of service and abuse.",
+  "ar": "يحمي تحديد المعدل والتقييد الواجهات البرمجية من حجب الخدمة وإساءة الاستخدام."
+ },
+ "crb:5.8.3.6": {
+  "en": "API traffic is encrypted with industry standard algorithms.",
+  "ar": "حركة الواجهات البرمجية مشفرة بخوارزميات معيارية في الصناعة."
+ },
+ "crb:5.8.3.7": {
+  "en": "APIs are registered on a gateway that enforces policy, manages traffic and monitors usage.",
+  "ar": "الواجهات البرمجية مسجلة على بوابة تفرض السياسة وتدير الحركة وتراقب الاستخدام."
+ },
+ "crb:5.8.3.8": {
+  "en": "APIs are security tested periodically and after major change.",
+  "ar": "تُختبر الواجهات البرمجية أمنياً دورياً وبعد كل تغيير جوهري."
+ },
+ "crb:5.8.3.9": {
+  "en": "API activity including authentication attempts, data access and errors is logged and monitored for anomalies.",
+  "ar": "يُسجل نشاط الواجهات البرمجية بما فيه محاولات التوثيق والوصول إلى البيانات والأخطاء ويُراقب لكشف الشذوذ."
+ },
+ "crb:5.8.3.10": {
+  "en": "An API lifecycle process covers secure deprecation and retirement.",
+  "ar": "توجد عملية لدورة حياة الواجهات البرمجية تغطي الإيقاف التدريجي الآمن والإخراج من الخدمة."
+ },
+ "crb:5.8.3.11": {
+  "en": "API errors never expose stack traces, database errors or other sensitive detail.",
+  "ar": "لا تكشف أخطاء الواجهات البرمجية أبداً آثار التنفيذ أو أخطاء قواعد البيانات أو أي تفاصيل حساسة."
+ },
+ "crb:5.8.3.12": {
+  "en": "Third party APIs consumed by this system are assessed for security posture and contractual compliance.",
+  "ar": "الواجهات البرمجية الخارجية التي يستهلكها هذا النظام مقيّمة من حيث الوضع الأمني والالتزام التعاقدي."
+ },
+ "crb:5.9.1.1": {
+  "en": "A change and release management process is approved, implemented, monitored and reviewed annually.",
+  "ar": "توجد عملية لإدارة التغيير والإصدار معتمدة ومنفذة ومراقبة وتُراجع سنوياً."
+ },
+ "crb:5.9.1.2": {
+  "en": "Security controls are considered through the whole change, configuration and release cycle of this system.",
+  "ar": "تُراعى الضوابط الأمنية طوال دورة التغيير والإعداد والإصدار لهذا النظام."
+ },
+ "crb:5.9.1.3": {
+  "en": "Changes are classified by priority, complexity and nature with their risks assessed and addressed.",
+  "ar": "التغييرات مصنفة بحسب الأولوية والتعقيد والطبيعة مع تقييم مخاطرها ومعالجتها."
+ },
+ "crb:5.9.1.4": {
+  "en": "Documentation, testing and approvals precede every production change and major changes keep a full record.",
+  "ar": "يسبق التوثيق والاختبار والموافقات كل تغيير في الإنتاج وتحتفظ التغييرات الكبرى بسجل كامل."
+ },
+ "crb:5.9.1.5": {
+  "en": "Every change is reviewed and approved against the policies and procedures.",
+  "ar": "يُراجع كل تغيير ويُعتمد وفق السياسات والإجراءات."
+ },
+ "crb:5.9.1.6": {
+  "en": "Testing including user acceptance, security and regression is planned, executed and documented.",
+  "ar": "يُخطط الاختبار بما فيه قبول المستخدم والأمن والانحدار ويُنفذ ويُوثق."
+ },
+ "crb:5.9.1.7": {
+  "en": "Fallback procedures exist to recover from failed changes and unforeseen events.",
+  "ar": "توجد إجراءات تراجع للتعافي من التغييرات الفاشلة والأحداث غير المتوقعة."
+ },
+ "crb:5.9.1.8": {
+  "en": "CBK approval is obtained for changes with major impact on core business services or customers.",
+  "ar": "تُؤخذ موافقة بنك الكويت المركزي على التغييرات ذات الأثر الكبير على الخدمات الأساسية أو العملاء."
+ },
+ "crb:5.9.1.9": {
+  "en": "The formal request for a major change reaches CBK in advance within its defined timelines.",
+  "ar": "يصل الطلب الرسمي للتغيير الجوهري إلى بنك الكويت المركزي مسبقاً ضمن مواعيده المحددة."
+ },
+ "crb:5.10.1.1": {
+  "en": "A capacity management process is approved and reviewed at least annually.",
+  "ar": "توجد عملية لإدارة السعة معتمدة وتُراجع سنوياً على الأقل."
+ },
+ "crb:5.10.1.2": {
+  "en": "Capacity thresholds for this system reflect its criticality, current use, future needs and performance.",
+  "ar": "تعكس عتبات السعة لهذا النظام درجة حرجه واستخدامه الحالي واحتياجاته المستقبلية وأداءه."
+ },
+ "crb:5.10.1.3": {
+  "en": "Thresholds are reviewed quarterly or after major incidents, upgrades or changes.",
+  "ar": "تُراجع العتبات كل ثلاثة أشهر أو بعد الحوادث الكبرى أو الترقيات أو التغييرات."
+ },
+ "crb:5.10.1.4": {
+  "en": "Performance is continuously monitored including processor use, latency and response times.",
+  "ar": "يُراقب الأداء باستمرار بما فيه استخدام المعالج وزمن الاستجابة والتأخير."
+ },
+ "crb:5.10.1.5": {
+  "en": "Capacity planning proactively resolves bottlenecks and secures enough resources.",
+  "ar": "يعالج تخطيط السعة الاختناقات استباقياً ويؤمن الموارد الكافية."
+ },
+ "crb:5.10.1.6": {
+  "en": "Stress and capacity tests validate resources on deployment, upgrade and significant change.",
+  "ar": "تتحقق اختبارات الإجهاد والسعة من كفاية الموارد عند النشر والترقية والتغيير الجوهري."
+ },
+ "crb:5.11.1.1": {
+  "en": "A data protection policy and procedures for identifying and protecting important records are approved and implemented.",
+  "ar": "توجد سياسة وإجراءات لحماية البيانات لتحديد السجلات المهمة وحمايتها معتمدة ومنفذة."
+ },
+ "crb:5.11.1.2": {
+  "en": "Processing, storage, retention and disposal of classified data in this system follow the policy.",
+  "ar": "تتبع معالجة البيانات المصنفة في هذا النظام وتخزينها والاحتفاظ بها والتخلص منها السياسة."
+ },
+ "crb:5.11.1.3": {
+  "en": "Classified data is protected at rest, in transit and in use.",
+  "ar": "البيانات المصنفة محمية أثناء التخزين والنقل والاستخدام."
+ },
+ "crb:5.11.1.4": {
+  "en": "The encryption used for classified data matches the approved cryptographic policy.",
+  "ar": "يطابق التشفير المستخدم للبيانات المصنفة سياسة التشفير المعتمدة."
+ },
+ "crb:5.11.1.5": {
+  "en": "Data shared with suppliers and partners carries access control, encryption and monitoring.",
+  "ar": "البيانات المشاركة مع الموردين والشركاء محمية بالتحكم في الوصول والتشفير والمراقبة."
+ },
+ "crb:5.11.1.6": {
+  "en": "Privacy and protection requirements are written into the outsourcing agreements and followed by the vendors.",
+  "ar": "متطلبات الخصوصية والحماية مدونة في اتفاقيات الإسناد ويلتزم بها الموردون."
+ },
+ "crb:5.11.2.1": {
+  "en": "A data privacy policy is approved and reviewed annually against legal and regulatory requirements.",
+  "ar": "توجد سياسة لخصوصية البيانات معتمدة وتُراجع سنوياً وفق المتطلبات القانونية والتنظيمية."
+ },
+ "crb:5.11.2.2": {
+  "en": "Privacy by design is built into this system rather than added afterwards.",
+  "ar": "الخصوصية بالتصميم مبنية في هذا النظام لا مضافة إليه لاحقاً."
+ },
+ "crb:5.11.2.3": {
+  "en": "Personal data processing follows lawfulness, purpose limitation, minimisation, accuracy, storage limitation and security.",
+  "ar": "تتبع معالجة البيانات الشخصية المشروعية وتحديد الغرض والتقليل والدقة وتحديد مدة التخزين والأمن."
+ },
+ "crb:5.11.2.4": {
+  "en": "A personal data breach in this system would be notified to CBK within the defined timelines.",
+  "ar": "يُبلغ بنك الكويت المركزي بأي خرق للبيانات الشخصية في هذا النظام ضمن المواعيد المحددة."
+ },
+ "crb:5.11.2.5": {
+  "en": "Data subjects would be notified without undue delay when a breach carries high risk to them.",
+  "ar": "يُبلغ أصحاب البيانات دون تأخير غير مبرر عندما يحمل الخرق خطراً عالياً عليهم."
+ },
+ "crb:5.11.2.6": {
+  "en": "A privacy impact assessment exists and is refreshed every two years or on significant change.",
+  "ar": "يوجد تقييم لأثر الخصوصية ويُحدث كل سنتين أو عند تغيير جوهري."
+ },
+ "crb:5.11.2.7": {
+  "en": "Outsourcing agreements carry the data protection requirements and vendors demonstrate compliance.",
+  "ar": "تحمل اتفاقيات الإسناد متطلبات حماية البيانات ويثبت الموردون التزامهم بها."
+ },
+ "crb:5.12.1.1": {
+  "en": "A logging and monitoring policy is approved and reviewed annually and defines log types, retention and protection.",
+  "ar": "توجد سياسة للتسجيل والمراقبة معتمدة تُراجع سنوياً وتحدد أنواع السجلات والاحتفاظ بها وحمايتها."
+ },
+ "crb:5.12.1.2": {
+  "en": "Logging is enabled on every critical component of this system on premises and in the cloud.",
+  "ar": "التسجيل مفعل على كل مكوّن حرج من هذا النظام داخل المنشأة وفي السحابة."
+ },
+ "crb:5.12.1.3": {
+  "en": "Log detail matches data classification and risk and captures who, what, when, where and outcome.",
+  "ar": "يوافق مستوى تفصيل السجلات تصنيف البيانات والمخاطر ويسجل الفاعل والفعل والوقت والمكان والنتيجة."
+ },
+ "crb:5.12.1.4": {
+  "en": "Logs are monitored, correlated and protected against tampering.",
+  "ar": "السجلات مراقبة ومترابطة ومحمية من العبث."
+ },
+ "crb:5.12.1.5": {
+  "en": "Security events feed a SIEM that correlates and alerts.",
+  "ar": "تغذي الأحداث الأمنية نظام SIEM يربطها وينبه عليها."
+ },
+ "crb:5.12.1.6": {
+  "en": "Automated tooling categorises and prioritises incidents by severity.",
+  "ar": "تصنف أدوات آلية الحوادث وتحدد أولوياتها بحسب الشدة."
+ },
+ "crb:5.12.2.1": {
+  "en": "A security event management process identifies, tracks and monitors events, issues and incidents.",
+  "ar": "توجد عملية لإدارة الأحداث الأمنية تحدد الأحداث والمشكلات والحوادث وتتابعها وتراقبها."
+ },
+ "crb:5.12.2.2": {
+  "en": "Structured threat hunting proactively looks for unknown or ongoing threats.",
+  "ar": "يبحث الصيد المنظم للتهديدات استباقياً عن التهديدات المجهولة أو المستمرة."
+ },
+ "crb:5.12.2.3": {
+  "en": "Indicators of compromise are continuously monitored with automated detection and reported for investigation.",
+  "ar": "تُراقب مؤشرات الاختراق باستمرار بكشف آلي ويُبلغ عنها للتحقيق."
+ },
+ "crb:5.12.2.4": {
+  "en": "Incidents are validated by correlating evidence from several sources and logs.",
+  "ar": "تُتحقق الحوادث بربط الأدلة من عدة مصادر وسجلات."
+ },
+ "crb:5.12.3.1": {
+  "en": "An incident response team is available to respond to security incidents affecting this system.",
+  "ar": "يوجد فريق للاستجابة للحوادث متاح للاستجابة للحوادث الأمنية التي تمس هذا النظام."
+ },
+ "crb:5.12.3.2": {
+  "en": "A documented incident response plan is readily accessible.",
+  "ar": "توجد خطة موثقة للاستجابة للحوادث متاحة بسهولة."
+ },
+ "crb:5.12.3.3": {
+  "en": "Response playbooks are automated for timely containment with minimal manual steps.",
+  "ar": "كتيبات الاستجابة مؤتمتة للاحتواء في الوقت المناسب بأقل خطوات يدوية."
+ },
+ "crb:5.12.3.4": {
+  "en": "Incident summaries reach the board and senior management at least quarterly.",
+  "ar": "تصل ملخصات الحوادث إلى المجلس والإدارة العليا كل ثلاثة أشهر على الأقل."
+ },
+ "crb:5.12.3.5": {
+  "en": "Every reported incident is tracked, logged, analysed and remediated consistently with its severity.",
+  "ar": "يُتابع كل حادث مبلغ عنه ويُسجل ويُحلل ويُعالج بما يتناسب مع شدته."
+ },
+ "crb:5.12.4.1": {
+  "en": "Forensic procedures are maintained and reviewed annually for evidence collection, preservation and analysis.",
+  "ar": "إجراءات التحقيق الجنائي الرقمي محفوظة وتُراجع سنوياً لجمع الأدلة وحفظها وتحليلها."
+ },
+ "crb:5.12.4.2": {
+  "en": "The procedures define roles, responsibilities and escalation paths.",
+  "ar": "تحدد الإجراءات الأدوار والمسؤوليات ومسارات التصعيد."
+ },
+ "crb:5.12.4.3": {
+  "en": "Approved forensic tools and techniques collect, retain and archive evidence with integrity preserved.",
+  "ar": "تجمع أدوات وتقنيات تحقيق معتمدة الأدلة وتحتفظ بها وتؤرشفها مع الحفاظ على سلامتها."
+ },
+ "crb:5.12.4.4": {
+  "en": "The procedures state when management, law enforcement or regulator authorisation is needed.",
+  "ar": "تبين الإجراءات متى تلزم موافقة الإدارة أو جهات إنفاذ القانون أو الجهة التنظيمية."
+ },
+ "crb:5.12.4.5": {
+  "en": "Communication protocols with law enforcement and regulators name points of contact.",
+  "ar": "تحدد بروتوكولات التواصل مع جهات إنفاذ القانون والجهات التنظيمية نقاط الاتصال."
+ },
+ "crb:5.12.4.6": {
+  "en": "Forensic personnel are trained and certified in the relevant tools and techniques.",
+  "ar": "موظفو التحقيق الجنائي مدربون ومعتمدون في الأدوات والتقنيات ذات الصلة."
+ },
+ "crb:5.12.4.7": {
+  "en": "Chain of custody is documented for all evidence with transfers, dates and people.",
+  "ar": "سلسلة الحيازة موثقة لكل الأدلة مع عمليات النقل والتواريخ والأشخاص."
+ },
+ "crb:5.12.4.8": {
+  "en": "Evidence is protected with cryptographic hashes such as SHA-256 and integrity is verified.",
+  "ar": "الأدلة محمية بدوال تجزئة تشفيرية مثل SHA-256 ويُتحقق من سلامتها."
+ },
+ "crb:5.12.4.9": {
+  "en": "Every forensic task is logged with tools, versions, configurations and findings.",
+  "ar": "تُسجل كل مهمة تحقيق مع الأدوات والإصدارات والإعدادات والنتائج."
+ },
+ "crb:5.12.4.10": {
+  "en": "Digital forensics and incident response capability is available around the clock, in house or contracted.",
+  "ar": "قدرة التحقيق الجنائي الرقمي والاستجابة للحوادث متاحة على مدار الساعة داخلياً أو بالتعاقد."
+ },
+ "crb:5.13.1.1": {
+  "en": "A vulnerability management process is approved, implemented, measured and reviewed annually.",
+  "ar": "توجد عملية لإدارة الثغرات معتمدة ومنفذة ومقاسة وتُراجع سنوياً."
+ },
+ "crb:5.13.1.2": {
+  "en": "Assessments cover missing updates, baseline drift, application testing, penetration testing and code review at the required frequency.",
+  "ar": "تغطي التقييمات التحديثات الناقصة وانحراف الإعداد واختبار التطبيقات واختبار الاختراق ومراجعة الشيفرة بالوتيرة المطلوبة."
+ },
+ "crb:5.13.1.3": {
+  "en": "Remediation timelines depend on test type, asset criticality and severity.",
+  "ar": "تعتمد مهل المعالجة على نوع الاختبار ودرجة حرج الأصل والشدة."
+ },
+ "crb:5.13.1.4": {
+  "en": "External threat feeds and trusted sources notify the team of new vulnerabilities affecting this system.",
+  "ar": "تبلغ تغذيات التهديدات الخارجية والمصادر الموثوقة الفريق بالثغرات الجديدة التي تمس هذا النظام."
+ },
+ "crb:5.13.1.5": {
+  "en": "Remediation is validated afterwards against the documented mitigation.",
+  "ar": "تُتحقق المعالجة لاحقاً وفق التخفيف الموثق."
+ },
+ "crb:5.13.1.6": {
+  "en": "External attack surface management discovers and monitors the public facing assets of this system.",
+  "ar": "تكتشف إدارة سطح الهجوم الخارجي أصول هذا النظام المتاحة للعموم وتراقبها."
+ },
+ "crb:5.13.1.7": {
+  "en": "Findings are documented, reported and tracked to closure.",
+  "ar": "النتائج موثقة ومبلغ عنها ومتابعة حتى الإغلاق."
+ },
+ "crb:5.13.1.8": {
+  "en": "The board and senior management receive quarterly updates on vulnerability management effectiveness.",
+  "ar": "يتلقى المجلس والإدارة العليا تحديثات كل ثلاثة أشهر عن فعالية إدارة الثغرات."
+ },
+ "crb:5.13.2.1": {
+  "en": "A patch management process is approved and reviewed annually with its effectiveness monitored.",
+  "ar": "توجد عملية لإدارة التصحيحات معتمدة وتُراجع سنوياً مع مراقبة فعاليتها."
+ },
+ "crb:5.13.2.2": {
+  "en": "A risk based patching schedule reflects asset criticality and vulnerability severity.",
+  "ar": "يعكس جدول التصحيح القائم على المخاطر درجة حرج الأصل وشدة الثغرة."
+ },
+ "crb:5.13.2.3": {
+  "en": "Emergency patches for actively exploited vulnerabilities are deployed within an escalated timeframe.",
+  "ar": "تُنشر التصحيحات الطارئة للثغرات المستغلة فعلياً ضمن إطار زمني مستعجل."
+ },
+ "crb:5.13.2.4": {
+  "en": "Patch exceptions or delays are justified, documented, approved and reported to senior management.",
+  "ar": "استثناءات التصحيح أو تأخيراته مبررة وموثقة ومعتمدة ومبلغ عنها للإدارة العليا."
+ },
+ "crb:5.13.2.5": {
+  "en": "Red teaming simulates real adversary tactics against this critical system.",
+  "ar": "تحاكي تمارين الفريق الأحمر تكتيكات الخصوم الحقيقية ضد هذا النظام الحرج."
+ },
+ "crb:5.13.2.6": {
+  "en": "Red team scenarios draw on threat intelligence to reflect current adversaries.",
+  "ar": "تستند سيناريوهات الفريق الأحمر إلى استخبارات التهديدات لتعكس الخصوم الحاليين."
+ },
+ "crb:5.13.2.7": {
+  "en": "Red teaming runs at least annually or when the threat landscape or the system changes.",
+  "ar": "تجري تمارين الفريق الأحمر سنوياً على الأقل أو عند تغير مشهد التهديدات أو النظام."
+ },
+ "crb:5.13.2.8": {
+  "en": "A dedicated qualified team with specialised expertise conducts the exercises.",
+  "ar": "ينفذ التمارين فريق مخصص مؤهل ذو خبرة متخصصة."
+ },
+ "crb:5.13.2.9": {
+  "en": "Exercises run without prior notice to monitoring, response and asset owner teams.",
+  "ar": "تجري التمارين دون إخطار مسبق لفرق المراقبة والاستجابة ومالكي الأصول."
+ },
+ "crb:5.13.2.10": {
+  "en": "Red team findings are documented and reported to senior management.",
+  "ar": "نتائج الفريق الأحمر موثقة ومبلغ عنها للإدارة العليا."
+ },
+ "crb:5.13.2.11": {
+  "en": "A remediation plan with timelines addresses the findings and is tracked to closure.",
+  "ar": "توجد خطة معالجة بمهل زمنية تعالج النتائج وتُتابع حتى الإغلاق."
+ },
+ "crb:5.14.1.1": {
+  "en": "A physical and environmental security policy is approved and reviewed annually.",
+  "ar": "توجد سياسة للأمن المادي والبيئي معتمدة وتُراجع سنوياً."
+ },
+ "crb:5.14.1.2": {
+  "en": "The zones hosting this system are identified, protected by physical and logical controls and monitored.",
+  "ar": "المناطق التي تستضيف هذا النظام محددة ومحمية بضوابط مادية ومنطقية ومراقبة."
+ },
+ "crb:5.14.1.3": {
+  "en": "The list of people with physical access to restricted areas is approved and reviewed quarterly.",
+  "ar": "قائمة الأشخاص المصرح لهم بالدخول المادي إلى المناطق المقيدة معتمدة وتُراجع كل ثلاثة أشهر."
+ },
+ "crb:5.14.1.4": {
+  "en": "Every access point to the data centre and secure areas is controlled against unauthorised entry.",
+  "ar": "كل نقطة دخول إلى مركز البيانات والمناطق الآمنة مضبوطة ضد الدخول غير المصرح به."
+ },
+ "crb:5.14.1.5": {
+  "en": "Facilities comply with health and safety guidelines.",
+  "ar": "تلتزم المرافق بإرشادات الصحة والسلامة."
+ },
+ "crb:5.14.1.6": {
+  "en": "The same security measures apply to on site and off site equipment.",
+  "ar": "تُطبق تدابير الأمن نفسها على المعدات داخل الموقع وخارجه."
+ },
+ "crb:5.14.1.7": {
+  "en": "Restricted areas are monitored by CCTV in line with Law No 61 of 2015.",
+  "ar": "المناطق المقيدة مراقبة بكاميرات CCTV وفق القانون رقم 61 لسنة 2015."
+ },
+ "crb:5.14.1.8": {
+  "en": "Environmental factors were built into the facility design and its IT enabled environmental systems are secured.",
+  "ar": "رُوعيت العوامل البيئية في تصميم المرفق وأُمّنت أنظمته البيئية المدارة تقنياً."
+ },
+ "crb:5.14.1.9": {
+  "en": "Secure areas have temperature, humidity, fire and water leakage protection.",
+  "ar": "المناطق الآمنة محمية من الحرارة والرطوبة والحريق وتسرب المياه."
+ },
+ "crb:5.14.1.10": {
+  "en": "Secure areas have working power backup for partial or total electrical failure.",
+  "ar": "للمناطق الآمنة نسخ احتياطي للطاقة يعمل عند الانقطاع الجزئي أو الكلي للكهرباء."
+ },
+ "crb:5.14.1.11": {
+  "en": "Physical and environmental controls are tested at least quarterly with preventive maintenance.",
+  "ar": "تُختبر الضوابط المادية والبيئية كل ثلاثة أشهر على الأقل مع صيانة وقائية."
+ },
+ "crb:5.14.1.12": {
+  "en": "Evacuation plans are communicated to staff and vendors and drills run at least annually.",
+  "ar": "خطط الإخلاء معممة على الموظفين والموردين وتجري التمارين سنوياً على الأقل."
+ },
+ "crb:5.14.2.1": {
+  "en": "IoT and OT networks used by this system are segmented from IT networks with firewalls.",
+  "ar": "شبكات إنترنت الأشياء والتقنية التشغيلية التي يستخدمها هذا النظام مفصولة عن شبكات تقنية المعلومات بجدران حماية."
+ },
+ "crb:5.14.2.2": {
+  "en": "Every IoT and OT device is inventoried and categorised by criticality with the inventory reviewed regularly.",
+  "ar": "كل جهاز من أجهزة إنترنت الأشياء والتقنية التشغيلية مجرود ومصنف بحسب الحرج ويُراجع الجرد بانتظام."
+ },
+ "crb:5.14.2.3": {
+  "en": "IoT and OT devices and networks get quarterly vulnerability assessments and annual penetration tests.",
+  "ar": "تخضع أجهزة إنترنت الأشياء والتقنية التشغيلية وشبكاتها لتقييم ثغرات كل ثلاثة أشهر واختبار اختراق سنوي."
+ },
+ "crb:5.14.2.4": {
+  "en": "Access to IoT and OT devices is restricted to authorised staff with strong authentication and multi factor.",
+  "ar": "الوصول إلى أجهزة إنترنت الأشياء والتقنية التشغيلية مقصور على الموظفين المصرح لهم بتوثيق قوي ومتعدد العوامل."
+ },
+ "crb:5.15.1.1": {
+  "en": "A threat intelligence process for identifying, analysing, prioritising and sharing threats is approved and reviewed.",
+  "ar": "توجد عملية لاستخبارات التهديدات لتحديد التهديدات وتحليلها وترتيب أولوياتها ومشاركتها معتمدة ومراجعة."
+ },
+ "crb:5.15.1.2": {
+  "en": "Intelligence from trusted internal and external sources reaches the right stakeholders promptly.",
+  "ar": "تصل الاستخبارات من مصادر داخلية وخارجية موثوقة إلى أصحاب المصلحة المعنيين فوراً."
+ },
+ "crb:5.15.1.3": {
+  "en": "Intelligence covers tactical, operational and strategic levels.",
+  "ar": "تغطي الاستخبارات المستويات التكتيكية والتشغيلية والاستراتيجية."
+ },
+ "crb:5.15.1.4": {
+  "en": "A threat intelligence platform aggregates and analyses feeds from multiple sources.",
+  "ar": "تجمّع منصة لاستخبارات التهديدات التغذيات من مصادر متعددة وتحللها."
+ },
+ "crb:5.15.2.1": {
+  "en": "Threat intelligence drives vulnerability management, patching and hardening.",
+  "ar": "تقود استخبارات التهديدات إدارة الثغرات والتصحيح والتحصين."
+ },
+ "crb:5.15.2.2": {
+  "en": "Threats and insights reach senior management and stakeholders on time and on a need to know basis.",
+  "ar": "تصل التهديدات والرؤى إلى الإدارة العليا وأصحاب المصلحة في الوقت المناسب وعلى أساس الحاجة إلى المعرفة."
+ },
+ "crb:5.15.2.3": {
+  "en": "Applicable threats are acted on through the incident process and the actions are recorded.",
+  "ar": "تُعالج التهديدات المنطبقة عبر عملية إدارة الحوادث وتُسجل الإجراءات."
+ },
+ "crb:5.15.2.4": {
+  "en": "Threat intelligence capability is continuously improved from incident lessons and feedback.",
+  "ar": "تُحسن قدرة استخبارات التهديدات باستمرار من دروس الحوادث والملاحظات."
+ },
+ "crb:5.15.2.5": {
+  "en": "The process consumes CBK intelligence and shares relevant indicators and incidents with CBK.",
+  "ar": "تستهلك العملية استخبارات بنك الكويت المركزي وتشارك المؤشرات والحوادث ذات الصلة مع البنك."
+ },
+ "crb:5.16.1.1": {
+  "en": "An online presence protection policy is approved and reviewed annually.",
+  "ar": "توجد سياسة لحماية الحضور الرقمي معتمدة وتُراجع سنوياً."
+ },
+ "crb:5.16.1.2": {
+  "en": "The policy covers monitoring misuse of the brand, domains, logos, products and key people.",
+  "ar": "تغطي السياسة مراقبة إساءة استخدام العلامة والنطاقات والشعارات والمنتجات والشخصيات الرئيسية."
+ },
+ "crb:5.16.1.3": {
+  "en": "Processes monitor, identify, escalate and address brand abuse of this channel across web, social media and app stores.",
+  "ar": "تراقب العمليات إساءة استخدام علامة هذه القناة عبر الويب ووسائل التواصل ومتاجر التطبيقات وتحددها وتصعدها وتعالجها."
+ },
+ "crb:5.16.1.4": {
+  "en": "A brand protection solution continuously detects lookalike domains, fake apps and fraud in real time.",
+  "ar": "يكشف حل لحماية العلامة باستمرار النطاقات المقلدة والتطبيقات المزيفة والاحتيال في الوقت الفعلي."
+ },
+ "crb:5.16.1.5": {
+  "en": "Takedown arrangements exist with social platforms, app stores and domain registrars.",
+  "ar": "توجد ترتيبات للإزالة مع منصات التواصل ومتاجر التطبيقات ومسجلي النطاقات."
+ },
+ "crb:5.16.1.6": {
+  "en": "Public content of this channel is reviewed and approved internally before publication.",
+  "ar": "يُراجع المحتوى العام لهذه القناة ويُعتمد داخلياً قبل النشر."
+ },
+ "crb:5.16.1.7": {
+  "en": "Relevant employees are trained on reputational cyber risks and safe social media use.",
+  "ar": "الموظفون المعنيون مدربون على المخاطر السيبرانية للسمعة والاستخدام الآمن لوسائل التواصل."
+ },
+ "crb:6.1.1.1": {
+  "en": "A third party risk management framework with its policies and procedures is approved, communicated and implemented.",
+  "ar": "يوجد إطار لإدارة مخاطر الأطراف الخارجية بسياساته وإجراءاته معتمد ومعمم ومنفذ."
+ },
+ "crb:6.1.1.2": {
+  "en": "CBK approval was obtained before this significant IT related third party agreement.",
+  "ar": "أُخذت موافقة بنك الكويت المركزي قبل هذه الاتفاقية الجوهرية مع الطرف الخارجي في تقنية المعلومات."
+ },
+ "crb:6.1.1.3": {
+  "en": "Due diligence during selection assessed the vendor's suitability, security posture and financial standing.",
+  "ar": "قيّم الفحص النافي للجهالة أثناء الاختيار ملاءمة المورد ووضعه الأمني ومتانته المالية."
+ },
+ "crb:6.1.1.4": {
+  "en": "A risk assessment of this third party service was done under the framework and repeated periodically.",
+  "ar": "أُجري تقييم مخاطر لخدمة هذا الطرف الخارجي وفق الإطار ويُكرر دورياً."
+ },
+ "crb:6.1.1.5": {
+  "en": "A written agreement sets minimum cybersecurity requirements, scope and governance.",
+  "ar": "تحدد اتفاقية مكتوبة الحد الأدنى من متطلبات الأمن السيبراني والنطاق والحوكمة."
+ },
+ "crb:6.1.1.6": {
+  "en": "An accurate register of all third party agreements is maintained.",
+  "ar": "يوجد سجل دقيق ومحدث لكل اتفاقيات الأطراف الخارجية."
+ },
+ "crb:6.1.1.7": {
+  "en": "The vendor's implemented and planned controls were assessed against the security requirements.",
+  "ar": "قُيّمت ضوابط المورد المنفذة والمخططة وفق المتطلبات الأمنية."
+ },
+ "crb:6.1.1.8": {
+  "en": "Existing agreements were risk assessed and gaps addressed promptly.",
+  "ar": "قُيّمت مخاطر الاتفاقيات القائمة وعولجت الفجوات فوراً."
+ },
+ "crb:6.1.1.9": {
+  "en": "Vendor activity is continuously monitored including performance, security incidents and compliance.",
+  "ar": "يُراقب نشاط المورد باستمرار بما فيه الأداء والحوادث الأمنية والالتزام."
+ },
+ "crb:6.1.1.10": {
+  "en": "Risks and issues from monitoring are recorded and tracked to closure.",
+  "ar": "تُسجل المخاطر والمشكلات المكتشفة أثناء المراقبة وتُتابع حتى الإغلاق."
+ },
+ "crb:6.1.1.11": {
+  "en": "Security requirements in the agreement are reviewed annually or when the service changes significantly.",
+  "ar": "تُراجع المتطلبات الأمنية في الاتفاقية سنوياً أو عند تغير الخدمة تغيراً جوهرياً."
+ },
+ "crb:6.1.1.12": {
+  "en": "Information exchanged during the engagement is securely disposed of at the end in line with privacy law.",
+  "ar": "يُتخلص بأمان من المعلومات المتبادلة أثناء التعاقد عند نهايته وفق قانون الخصوصية."
+ },
+ "crb:6.2.1.1": {
+  "en": "The suppliers and dependencies behind this system are identified with their failure points and supply chain risks in the register.",
+  "ar": "الموردون والاعتماديات خلف هذا النظام محددون مع نقاط فشلهم ومخاطر سلسلة الإمداد في السجل."
+ },
+ "crb:6.2.1.2": {
+  "en": "Single source dependencies have alternative sourcing or backup arrangements.",
+  "ar": "للاعتماديات أحادية المصدر بدائل توريد أو ترتيبات احتياطية."
+ },
+ "crb:6.2.1.3": {
+  "en": "Real time monitoring and threat intelligence detect supply chain issues early.",
+  "ar": "تكشف المراقبة الفورية واستخبارات التهديدات مشكلات سلسلة الإمداد مبكراً."
+ },
+ "crb:6.2.1.4": {
+  "en": "Suppliers are segmented by risk and criticality with enhanced controls for high risk ones.",
+  "ar": "الموردون مقسمون بحسب المخاطر والحرج مع ضوابط معززة لذوي المخاطر العالية."
+ },
+ "crb:6.2.1.5": {
+  "en": "Suppliers extend the security obligations to their subcontractors and fourth parties.",
+  "ar": "يمدد الموردون الالتزامات الأمنية إلى مقاوليهم من الباطن والأطراف الرابعة."
+ },
+ "crb:7.1.1.1": {
+  "en": "A policy for adopting new and emerging technologies is approved and reviewed periodically.",
+  "ar": "توجد سياسة لتبني التقنيات الجديدة والناشئة معتمدة وتُراجع دورياً."
+ },
+ "crb:7.1.1.2": {
+  "en": "The CBK approval request for this technology was submitted at least one month before go-live with the required detail.",
+  "ar": "قُدم طلب موافقة بنك الكويت المركزي على هذه التقنية قبل شهر على الأقل من الإطلاق بالتفاصيل المطلوبة."
+ },
+ "crb:7.1.1.3": {
+  "en": "Threat modelling identified the risks the technology introduces and fed them into the risk framework.",
+  "ar": "حدد نمذجة التهديدات المخاطر التي تدخلها التقنية وغذت بها إطار المخاطر."
+ },
+ "crb:7.1.1.4": {
+  "en": "A risk assessment for the technology identified the controls needed and they are in place.",
+  "ar": "حدد تقييم مخاطر التقنية الضوابط اللازمة وهي مطبقة."
+ },
+ "crb:7.1.1.5": {
+  "en": "Secure coding practices specific to the technology are defined and followed.",
+  "ar": "ممارسات الترميز الآمن الخاصة بالتقنية محددة ومتبعة."
+ },
+ "crb:7.1.1.6": {
+  "en": "Testing including security and performance confirmed the technology meets requirements and mitigates the risks.",
+  "ar": "أكدت الاختبارات بما فيها الأمن والأداء أن التقنية تلبي المتطلبات وتخفف المخاطر."
+ },
+ "crb:7.1.1.7": {
+  "en": "Customers are made aware of how the emerging technology is used in the product.",
+  "ar": "يُوعّى العملاء بكيفية استخدام التقنية الناشئة في المنتج."
+ },
+ "crb:7.1.2.1": {
+  "en": "AI and ML models are protected from tampering, poisoning and manipulation across training, validation and deployment.",
+  "ar": "نماذج الذكاء الاصطناعي وتعلم الآلة محمية من العبث والتسميم والتلاعب عبر التدريب والتحقق والنشر."
+ },
+ "crb:7.1.2.2": {
+  "en": "Defences against adversarial attacks such as evasion, poisoning and inference are in place per industry practice.",
+  "ar": "توجد دفاعات ضد الهجمات العدائية مثل التهرب والتسميم والاستدلال وفق ممارسات الصناعة."
+ },
+ "crb:7.1.2.3": {
+  "en": "Training and inference data is protected in compliance with privacy regulation and governance.",
+  "ar": "بيانات التدريب والاستدلال محمية بما يتوافق مع تنظيم الخصوصية والحوكمة."
+ },
+ "crb:7.1.2.4": {
+  "en": "Models behind high impact decisions are explainable and auditable.",
+  "ar": "النماذج التي تقف خلف القرارات عالية الأثر قابلة للتفسير والتدقيق."
+ },
+ "crb:7.1.2.5": {
+  "en": "Models are continuously monitored for drift, reliability and performance and audited regularly.",
+  "ar": "تُراقب النماذج باستمرار لكشف الانحراف والموثوقية والأداء وتُدقق بانتظام."
+ },
+ "crb:7.1.3.1": {
+  "en": "The blockchain network, consensus, node communication and smart contract execution are secured.",
+  "ar": "شبكة سلسلة الكتل وآلية الإجماع واتصال العقد وتنفيذ العقود الذكية مؤمّنة."
+ },
+ "crb:7.1.3.2": {
+  "en": "Smart contracts undergo rigorous security audits for vulnerabilities and logic flaws.",
+  "ar": "تخضع العقود الذكية لتدقيقات أمنية صارمة لكشف الثغرات وعيوب المنطق."
+ },
+ "crb:7.1.3.3": {
+  "en": "Public and private keys of the ledger system follow secure key management.",
+  "ar": "تتبع المفاتيح العامة والخاصة لنظام السجل الموزع إدارة مفاتيح آمنة."
+ },
+ "crb:7.1.3.4": {
+  "en": "Ledger data integrity is assured with hashing and digital signatures.",
+  "ar": "سلامة بيانات السجل الموزع مضمونة بالتجزئة والتوقيعات الرقمية."
+ },
+ "crb:7.1.3.5": {
+  "en": "Governance defines roles and responsibilities for maintaining the blockchain network.",
+  "ar": "تحدد الحوكمة الأدوار والمسؤوليات لصيانة شبكة سلسلة الكتل."
+ },
+ "crb:7.1.4.1": {
+  "en": "Adoption of quantum resistant cryptographic algorithms has started in this system, at least for new components and long lived data.",
+  "ar": "بدأ اعتماد خوارزميات التشفير المقاومة للكم في هذا النظام على الأقل للمكونات الجديدة والبيانات طويلة العمر."
+ },
+ "crb:7.1.4.2": {
+  "en": "The cryptographic practices of this system are periodically assessed for resistance to quantum computing.",
+  "ar": "تُقيّم ممارسات التشفير في هذا النظام دورياً من حيث مقاومتها للحوسبة الكمومية."
+ },
+ "crb:7.1.4.3": {
+  "en": "A quantum readiness strategy with timelines, systems and data at risk, third party dependencies and operational preparedness exists.",
+  "ar": "توجد استراتيجية للجاهزية الكمومية بجداول زمنية وقائمة بالأنظمة والبيانات المعرضة للخطر والاعتماديات الخارجية والجاهزية التشغيلية."
+ },
+ "crb:7.1.4.4": {
+  "en": "Quantum resistant algorithms were tested in a test environment for compatibility and performance before deployment.",
+  "ar": "اختُبرت الخوارزميات المقاومة للكم في بيئة اختبار من حيث التوافق والأداء قبل النشر."
+ },
+ "crb:7.1.4.5": {
+  "en": "The risks of 5G including expanded bandwidth, edge computing and low latency were assessed.",
+  "ar": "قُيّمت مخاطر 5G بما فيها النطاق الترددي الموسع والحوسبة الطرفية وزمن الاستجابة المنخفض."
+ },
+ "crb:7.1.4.6": {
+  "en": "Data over 5G is protected with end to end encryption.",
+  "ar": "البيانات عبر 5G محمية بتشفير من طرف إلى طرف."
+ },
+ "crb:7.2.1.1": {
+  "en": "A cloud security policy is approved, communicated and periodically reviewed.",
+  "ar": "توجد سياسة لأمن السحابة معتمدة ومعممة وتُراجع دورياً."
+ },
+ "crb:7.2.1.2": {
+  "en": "The policy covers controls per service type, oversight and role separation, multi tenancy and data location, and exit.",
+  "ar": "تغطي السياسة الضوابط لكل نوع خدمة والإشراف وفصل الأدوار وتعدد المستأجرين وموقع البيانات والخروج."
+ },
+ "crb:7.2.1.3": {
+  "en": "CBK approval was obtained at least one month before signing the cloud outsourcing agreement.",
+  "ar": "أُخذت موافقة بنك الكويت المركزي قبل شهر على الأقل من توقيع اتفاقية الإسناد السحابي."
+ },
+ "crb:7.2.1.4": {
+  "en": "A foreign bank branch obtained CBK approval for cloud use contracted directly or via the group.",
+  "ar": "حصل فرع البنك الأجنبي على موافقة بنك الكويت المركزي على استخدام السحابة سواء تعاقد مباشرة أو عبر المجموعة."
+ },
+ "crb:7.2.2.1": {
+  "en": "The use of cloud for this system was confirmed consistent with the risk appetite before engaging the provider.",
+  "ar": "تأكد توافق استخدام السحابة لهذا النظام مع شهية المخاطر قبل التعاقد مع المزود."
+ },
+ "crb:7.2.2.2": {
+  "en": "A cloud risk assessment weighed benefits and risks including data location and set the mitigations.",
+  "ar": "وازن تقييم مخاطر السحابة بين المنافع والمخاطر بما فيها موقع البيانات وحدد التخفيفات."
+ },
+ "crb:7.2.3.1": {
+  "en": "The provider's certifications and independent audit reports were reviewed.",
+  "ar": "رُوجعت شهادات المزود وتقارير التدقيق المستقلة الخاصة به."
+ },
+ "crb:7.2.3.2": {
+  "en": "Oversight of the provider is part of the entity's governance and risk management.",
+  "ar": "الإشراف على المزود جزء من حوكمة الجهة وإدارة مخاطرها."
+ },
+ "crb:7.2.3.3": {
+  "en": "The provider follows current standards such as ISO 27001, ISO 27017, ISO 27018 and NIST media sanitisation guidance.",
+  "ar": "يتبع المزود المعايير الحالية مثل ISO 27001 و ISO 27017 و ISO 27018 وإرشادات NIST لتعقيم الوسائط."
+ },
+ "crb:7.2.3.4": {
+  "en": "A written agreement with the provider carries all the required clauses on scope, compliance, data, security, audit and exit.",
+  "ar": "تحمل اتفاقية مكتوبة مع المزود كل البنود المطلوبة عن النطاق والالتزام والبيانات والأمن والتدقيق والخروج."
+ },
+ "crb:7.2.4.1": {
+  "en": "The cloud deployment follows the entity's security architecture and every applicable baseline control is met.",
+  "ar": "يتبع النشر السحابي المعمارية الأمنية للجهة ويستوفي كل ضابط منطبق من الضوابط الأساسية."
+ },
+ "crb:8.1.1.1": {
+  "en": "An electronic payment security policy is approved by the board or senior management, implemented and reviewed.",
+  "ar": "توجد سياسة لأمن أنظمة الدفع الإلكتروني معتمدة من المجلس أو الإدارة العليا ومنفذة ومراجعة."
+ },
+ "crb:8.1.1.2": {
+  "en": "The policy covers protection of payment records and infrastructure, customer authentication, transaction integrity and fraud.",
+  "ar": "تغطي السياسة حماية سجلات الدفع وبنيته التحتية وتوثيق العملاء وسلامة المعاملات والاحتيال."
+ },
+ "crb:8.1.1.3": {
+  "en": "This payment system undergoes annual and ad hoc independent security audits per the CBK assessment procedures.",
+  "ar": "يخضع نظام الدفع هذا لتدقيقات أمنية مستقلة سنوية واستثنائية وفق إجراءات التقييم لدى بنك الكويت المركزي."
+ },
+ "crb:8.1.2.1": {
+  "en": "Identity verification uses government issued identity and biometric checks before an account is opened.",
+  "ar": "يستخدم التحقق من الهوية وثائق حكومية وفحوصاً حيوية قبل فتح الحساب."
+ },
+ "crb:8.1.2.2": {
+  "en": "Identity documents are validated for physical security features and against authoritative sources.",
+  "ar": "تُتحقق وثائق الهوية من حيث خصائص الأمان المادية ومقارنتها بالمصادر الرسمية."
+ },
+ "crb:8.1.2.3": {
+  "en": "Liveness detection confirms a live person is present during onboarding.",
+  "ar": "يؤكد كشف الحيوية وجود شخص حي أثناء التسجيل."
+ },
+ "crb:8.1.2.4": {
+  "en": "Biometric deduplication prevents a customer from enrolling more than once.",
+  "ar": "يمنع إزالة التكرار الحيوي تسجيل العميل أكثر من مرة."
+ },
+ "crb:8.1.2.5": {
+  "en": "Multi factor authentication secures account creation during onboarding.",
+  "ar": "يؤمّن التوثيق متعدد العوامل إنشاء الحساب أثناء التسجيل."
+ },
+ "crb:8.1.2.6": {
+  "en": "Uploaded documents such as the civil ID are verified automatically for integrity and authenticity.",
+  "ar": "تُتحقق الوثائق المرفوعة مثل البطاقة المدنية آلياً من حيث السلامة والأصالة."
+ },
+ "crb:8.1.2.7": {
+  "en": "Fraud detection using advanced analytics flags anomalies during onboarding.",
+  "ar": "يرصد كشف الاحتيال بالتحليلات المتقدمة الشذوذ أثناء التسجيل."
+ },
+ "crb:8.1.2.8": {
+  "en": "Location is captured during onboarding for fraud detection and address verification.",
+  "ar": "يُلتقط الموقع أثناء التسجيل لكشف الاحتيال والتحقق من العنوان."
+ },
+ "crb:8.1.2.9": {
+  "en": "Device geolocation, metadata and health checks feed risk based onboarding policies.",
+  "ar": "تغذي الموقع الجغرافي للجهاز وبياناته الوصفية وفحوص سلامته سياسات التسجيل القائمة على المخاطر."
+ },
+ "crb:8.1.2.10": {
+  "en": "Red flags such as duplicate documents or mismatched geolocation trigger review.",
+  "ar": "تطلق الإشارات الحمراء مثل الوثائق المكررة أو تعارض الموقع الجغرافي المراجعة."
+ },
+ "crb:8.1.2.11": {
+  "en": "Customers receive timely notifications of onboarding events such as document submission and account creation.",
+  "ar": "يتلقى العملاء إشعارات فورية بأحداث التسجيل مثل تقديم الوثائق وإنشاء الحساب."
+ },
+ "crb:8.1.3.1": {
+  "en": "Access is blocked after 3 failed login or authentication attempts.",
+  "ar": "يُحظر الوصول بعد 3 محاولات دخول أو توثيق فاشلة."
+ },
+ "crb:8.1.3.2": {
+  "en": "Customer credentials are delivered securely and customer devices are authenticated.",
+  "ar": "تُسلم بيانات اعتماد العملاء بأمان وتُوثق أجهزتهم."
+ },
+ "crb:8.1.3.3": {
+  "en": "Devices accessing the service are continuously checked for compliance with the security requirements.",
+  "ar": "تُفحص الأجهزة التي تصل إلى الخدمة باستمرار للتأكد من التزامها بالمتطلبات الأمنية."
+ },
+ "crb:8.1.3.4": {
+  "en": "Identity verification at service centres uses questions that cannot be answered from public information.",
+  "ar": "يستخدم التحقق من الهوية في مراكز الخدمة أسئلة لا يمكن الإجابة عنها من المعلومات العامة."
+ },
+ "crb:8.1.3.5": {
+  "en": "Changes to sensitive customer information through any channel require strong authentication and notify the customer.",
+  "ar": "تتطلب تغييرات معلومات العملاء الحساسة عبر أي قناة توثيقاً قوياً وتُشعر العميل بها."
+ },
+ "crb:8.1.3.6": {
+  "en": "Context aware device re-authentication runs before sensitive information changes.",
+  "ar": "تجري إعادة توثيق للجهاز واعية بالسياق قبل تغيير المعلومات الحساسة."
+ },
+ "crb:8.1.4.1": {
+  "en": "Safeguards against unauthorised fund transfer match the channel and its technology risks.",
+  "ar": "تتناسب الضمانات ضد التحويل غير المصرح به مع القناة ومخاطر تقنيتها."
+ },
+ "crb:8.1.4.2": {
+  "en": "Every electronic payment carries a unique transaction reference.",
+  "ar": "تحمل كل عملية دفع إلكتروني مرجعاً فريداً للمعاملة."
+ },
+ "crb:8.1.4.3": {
+  "en": "Transaction messages and notifications reach the customer promptly through secure channels.",
+  "ar": "تصل رسائل المعاملات والإشعارات إلى العميل فوراً عبر قنوات آمنة."
+ },
+ "crb:8.1.4.4": {
+  "en": "Customers are notified of significant payment profile changes such as limits, beneficiaries and contact details.",
+  "ar": "يُشعر العملاء بالتغييرات الجوهرية في ملف الدفع مثل الحدود والمستفيدين وبيانات الاتصال."
+ },
+ "crb:8.1.4.5": {
+  "en": "Credentials, card data and transaction data are protected with strong recognised encryption.",
+  "ar": "بيانات الاعتماد والبطاقات والمعاملات محمية بتشفير قوي معترف به."
+ },
+ "crb:8.1.4.6": {
+  "en": "Controls verify and reconcile the integrity of processed payment information.",
+  "ar": "تتحقق الضوابط من سلامة معلومات الدفع المعالجة وتطابقها."
+ },
+ "crb:8.1.4.7": {
+  "en": "Interconnectivity risks such as man in the middle attacks are mitigated.",
+  "ar": "مخاطر الترابط مثل هجمات الوسيط مخففة."
+ },
+ "crb:8.1.4.8": {
+  "en": "Customers can block their cards through self service or the service centre.",
+  "ar": "يستطيع العملاء حظر بطاقاتهم عبر الخدمة الذاتية أو مركز الخدمة."
+ },
+ "crb:8.2.1.1": {
+  "en": "Payment monitoring staff have access to learning platforms and knowledge sharing.",
+  "ar": "يتاح لموظفي مراقبة المدفوعات الوصول إلى منصات التعلم وتبادل المعرفة."
+ },
+ "crb:8.2.1.2": {
+  "en": "Transaction monitoring considers limits, velocity, geography, device and behaviour.",
+  "ar": "تراعي مراقبة المعاملات الحدود والسرعة والجغرافيا والجهاز والسلوك."
+ },
+ "crb:8.2.1.3": {
+  "en": "Unusual or suspicious transactions are automatically blocked or held for additional verification.",
+  "ar": "تُحظر المعاملات غير المعتادة أو المشبوهة تلقائياً أو تُعلق لتحقق إضافي."
+ },
+ "crb:8.2.1.4": {
+  "en": "Customers are notified of all transactions on their accounts including rejected ones.",
+  "ar": "يُشعر العملاء بكل المعاملات على حساباتهم بما فيها المرفوضة."
+ },
+ "crb:8.2.1.5": {
+  "en": "Suspicious transaction alerts and logs are handled under the incident process.",
+  "ar": "تُعالج تنبيهات المعاملات المشبوهة وسجلاتها وفق عملية إدارة الحوادث."
+ },
+ "crb:8.2.2.1": {
+  "en": "A risk based fraud management framework prioritises detection by transaction type, channel and customer.",
+  "ar": "يرتب إطار لإدارة الاحتيال قائم على المخاطر أولويات الكشف بحسب نوع المعاملة والقناة والعميل."
+ },
+ "crb:8.2.2.2": {
+  "en": "Fraud detection analyses transactions in real time and blocks fraud before completion.",
+  "ar": "يحلل كشف الاحتيال المعاملات في الوقت الفعلي ويحظر الاحتيال قبل الإتمام."
+ },
+ "crb:8.2.2.3": {
+  "en": "Automated detection using AI or ML adapts continuously to new fraud patterns.",
+  "ar": "يتكيف الكشف الآلي بالذكاء الاصطناعي أو تعلم الآلة باستمرار مع أنماط الاحتيال الجديدة."
+ },
+ "crb:8.2.2.4": {
+  "en": "A fraud response playbook defines how fraud incidents are handled and communicated.",
+  "ar": "يحدد كتيب الاستجابة للاحتيال كيفية معالجة حوادث الاحتيال والتواصل بشأنها."
+ },
+ "crb:8.2.2.5": {
+  "en": "The playbook is reviewed at least annually and when fraud trends or regulation change.",
+  "ar": "يُراجع الكتيب سنوياً على الأقل وعند تغير اتجاهات الاحتيال أو التنظيم."
+ },
+ "crb:8.2.2.6": {
+  "en": "Fraud risks from gateways, aggregators and other payment processors are assessed and managed.",
+  "ar": "مخاطر الاحتيال من البوابات والمجمّعين وغيرهم من معالجي الدفع مقيّمة ومدارة."
+ },
+ "crb:8.2.2.7": {
+  "en": "The entity takes part in industry fraud intelligence sharing.",
+  "ar": "تشارك الجهة في تبادل استخبارات الاحتيال على مستوى القطاع."
+ },
+ "crb:8.3.1.1": {
+  "en": "Sessions end automatically after 5 minutes of inactivity and sensitive pages are not cached.",
+  "ar": "تنتهي الجلسات تلقائياً بعد 5 دقائق من الخمول ولا تُخزن الصفحات الحساسة مؤقتاً."
+ },
+ "crb:8.3.1.2": {
+  "en": "OTP validity is at most 2 minutes and sessions are revalidated for sensitive actions.",
+  "ar": "صلاحية كلمة المرور لمرة واحدة لا تتجاوز 2 من الدقائق ويُعاد التحقق من الجلسات للإجراءات الحساسة."
+ },
+ "crb:8.3.1.3": {
+  "en": "Strong multi factor authentication secures access and high risk transactions.",
+  "ar": "يؤمّن توثيق قوي متعدد العوامل الوصول والمعاملات عالية المخاطر."
+ },
+ "crb:8.3.1.4": {
+  "en": "Any new OTP delivery technology was evaluated and approved by CBK before use.",
+  "ar": "أي تقنية جديدة لإيصال كلمة المرور لمرة واحدة قُيّمت واعتُمدت من بنك الكويت المركزي قبل استخدامها."
+ },
+ "crb:8.3.1.5": {
+  "en": "Customer consent for the OTP delivery method is captured and documented.",
+  "ar": "تُؤخذ موافقة العميل على طريقة إيصال كلمة المرور لمرة واحدة وتُوثق."
+ },
+ "crb:8.3.1.6": {
+  "en": "Anti phishing controls let the customer verify the platform and the platform verify the customer.",
+  "ar": "تتيح ضوابط مكافحة التصيد للعميل التحقق من المنصة وللمنصة التحقق من العميل."
+ },
+ "crb:8.3.1.7": {
+  "en": "The mobile app refuses to install or run on jailbroken or rooted devices.",
+  "ar": "يرفض تطبيق الجوال التثبيت أو التشغيل على الأجهزة المخترقة الصلاحيات."
+ },
+ "crb:8.3.1.8": {
+  "en": "All data the mobile app stores locally is encrypted.",
+  "ar": "كل البيانات التي يخزنها تطبيق الجوال محلياً مشفرة."
+ },
+ "crb:8.3.1.9": {
+  "en": "The mobile app verifies the customer's mobile number and binds to the device with fingerprinting.",
+  "ar": "يتحقق تطبيق الجوال من رقم هاتف العميل ويرتبط بالجهاز عبر بصمته."
+ },
+ "crb:8.3.1.10": {
+  "en": "Access is limited to validated devices, at most 3 unless CBK allows more.",
+  "ar": "الوصول محصور في أجهزة متحقق منها لا تتجاوز 3 ما لم يسمح بنك الكويت المركزي بأكثر."
+ },
+ "crb:8.3.1.11": {
+  "en": "Registered devices are revalidated every 6 months for high risk accounts and annually for others.",
+  "ar": "يُعاد التحقق من الأجهزة المسجلة كل 6 أشهر للحسابات عالية المخاطر وسنوياً لغيرها."
+ },
+ "crb:8.3.1.12": {
+  "en": "Customers can deactivate any registered device remotely.",
+  "ar": "يستطيع العملاء إلغاء تفعيل أي جهاز مسجل عن بُعد."
+ },
+ "crb:8.3.1.13": {
+  "en": "Biometric login is offered as an option where the device supports it.",
+  "ar": "يُتاح الدخول بالقياسات الحيوية خياراً حيثما يدعمه الجهاز."
+ },
+ "crb:8.3.1.14": {
+  "en": "Periodic security assessments find and fix vulnerabilities in the online and mobile platforms.",
+  "ar": "تكشف التقييمات الأمنية الدورية الثغرات في منصتي الويب والجوال وتعالجها."
+ },
+ "crb:8.3.1.15": {
+  "en": "Every enrolled user's identity is validated through defined procedures.",
+  "ar": "تُتحقق هوية كل مستخدم مسجل عبر إجراءات محددة."
+ },
+ "crb:8.3.2.1": {
+  "en": "Only authorised third party providers reach customer data and only within the consented scope.",
+  "ar": "لا يصل إلى بيانات العملاء إلا مزودو الخدمة الخارجيون المصرح لهم وضمن نطاق الموافقة فقط."
+ },
+ "crb:8.3.2.2": {
+  "en": "Only essential data is shared with providers and explicit customer consent is obtained.",
+  "ar": "لا تُشارك مع المزودين إلا البيانات الضرورية وتُؤخذ موافقة صريحة من العملاء."
+ },
+ "crb:8.3.2.3": {
+  "en": "Each provider is risk assessed against the security requirements before access is granted.",
+  "ar": "يُقيّم كل مزود من حيث المخاطر وفق المتطلبات الأمنية قبل منحه الوصول."
+ },
+ "crb:8.3.2.4": {
+  "en": "Open banking APIs are developed and maintained with strong authentication, authorisation and encryption.",
+  "ar": "تُطور واجهات الخدمات المصرفية المفتوحة وتُصان بتوثيق وتصريح وتشفير قوية."
+ },
+ "crb:8.3.2.5": {
+  "en": "Real time monitoring of the APIs detects unauthorised access and unusual activity.",
+  "ar": "تكشف المراقبة الفورية للواجهات الوصول غير المصرح به والنشاط غير المعتاد."
+ },
+ "crb:8.3.2.6": {
+  "en": "The APIs and their infrastructure are redundant and resilient to operational failure.",
+  "ar": "الواجهات وبنيتها التحتية متكررة ومرنة أمام الأعطال التشغيلية."
+ },
+ "crb:8.3.2.7": {
+  "en": "Penetration testing and vulnerability assessment of the APIs run periodically.",
+  "ar": "يجري اختبار الاختراق وتقييم الثغرات للواجهات دورياً."
+ },
+ "crb:8.3.2.8": {
+  "en": "Detailed logs of API access, consent and data sharing events are retained and monitored.",
+  "ar": "تُحفظ سجلات مفصلة لوصول الواجهات وأحداث الموافقة ومشاركة البيانات وتُراقب."
+ },
+ "crb:8.3.2.9": {
+  "en": "Customers receive guidance on managing open banking permissions and recognising abuse.",
+  "ar": "يتلقى العملاء إرشادات لإدارة صلاحيات الخدمات المصرفية المفتوحة والتعرف على إساءة الاستخدام."
+ },
+ "crb:8.3.3.1": {
+  "en": "The wallet enforces multi factor authentication for registration, first login and critical actions.",
+  "ar": "تفرض المحفظة توثيقاً متعدد العوامل للتسجيل والدخول الأول والإجراءات الحرجة."
+ },
+ "crb:8.3.3.2": {
+  "en": "Wallet access is bound to verified registered devices.",
+  "ar": "الوصول إلى المحفظة مرتبط بأجهزة مسجلة متحقق منها."
+ },
+ "crb:8.3.3.3": {
+  "en": "The wallet blocks use on jailbroken or rooted devices.",
+  "ar": "تحظر المحفظة الاستخدام على الأجهزة المخترقة الصلاحيات."
+ },
+ "crb:8.3.3.4": {
+  "en": "Payment data is tokenised in processing and storage.",
+  "ar": "بيانات الدفع مرمزة في المعالجة والتخزين."
+ },
+ "crb:8.3.3.5": {
+  "en": "Wallet APIs and gateways follow secure development and are tested periodically.",
+  "ar": "تتبع واجهات المحفظة وبواباتها التطوير الآمن وتُختبر دورياً."
+ },
+ "crb:8.3.3.6": {
+  "en": "Customers can remotely disable the wallet or unlink a device after theft, loss or compromise.",
+  "ar": "يستطيع العملاء تعطيل المحفظة أو فك ارتباط الجهاز عن بُعد بعد السرقة أو الفقد أو الاختراق."
+ },
+ "crb:8.4.1.1": {
+  "en": "Card data protection complies with PCI DSS, PCI PTS, PCI SSF and EMV as applicable.",
+  "ar": "تلتزم حماية بيانات البطاقات بمعايير PCI DSS و PCI PTS و PCI SSF و EMV بحسب الانطباق."
+ },
+ "crb:8.4.1.2": {
+  "en": "The full card number never appears in any customer communication.",
+  "ar": "لا يظهر رقم البطاقة الكامل أبداً في أي تواصل مع العملاء."
+ },
+ "crb:8.4.1.3": {
+  "en": "PIN generation uses strong cryptography so only the intended recipient can access it.",
+  "ar": "يستخدم توليد رقم PIN تشفيراً قوياً بحيث لا يصل إليه إلا المستلم المقصود."
+ },
+ "crb:8.4.1.4": {
+  "en": "Cardholder data is tokenised or encrypted at rest and in transit.",
+  "ar": "بيانات حامل البطاقة مرمزة أو مشفرة أثناء التخزين والنقل."
+ },
+ "crb:8.5.1.1": {
+  "en": "Physical measures protect the machines from theft, damage and tampering.",
+  "ar": "تحمي التدابير المادية الأجهزة من السرقة والتلف والعبث."
+ },
+ "crb:8.5.1.2": {
+  "en": "Anti skimming and tamper detection are fitted on the machines.",
+  "ar": "الأجهزة مزودة بمكافحة النسخ وكشف العبث."
+ },
+ "crb:8.5.1.3": {
+  "en": "Machines and their locations are physically inspected at least quarterly.",
+  "ar": "تُفحص الأجهزة ومواقعها مادياً كل ثلاثة أشهر على الأقل."
+ },
+ "crb:8.5.2.1": {
+  "en": "Transactions are authenticated with a card or token together with a PIN or biometric factor.",
+  "ar": "تُوثق المعاملات ببطاقة أو رمز مع رقم PIN أو عامل حيوي."
+ },
+ "crb:8.5.2.2": {
+  "en": "Card processing, PIN generation and delivery are separated between different people.",
+  "ar": "معالجة البطاقات وتوليد رقم PIN وتسليمهما مفصولة بين أشخاص مختلفين."
+ },
+ "crb:8.5.2.3": {
+  "en": "The card is blocked after 3 wrong PIN attempts and the customer is notified promptly.",
+  "ar": "تُحظر البطاقة بعد 3 محاولات خاطئة لرقم PIN ويُشعر العميل فوراً."
+ },
+ "crb:8.6.1.1": {
+  "en": "A risk assessment of NFC, QR and other contactless technologies drove the controls in place.",
+  "ar": "قاد تقييم مخاطر تقنيات NFC و QR وغيرها من التقنيات اللاتلامسية الضوابط المطبقة."
+ },
+ "crb:8.6.1.2": {
+  "en": "Limits on the number and value of contactless transactions are enforced with additional authentication above them.",
+  "ar": "تُفرض حدود على عدد المعاملات اللاتلامسية وقيمتها مع توثيق إضافي عند تجاوزها."
+ },
+ "crb:8.6.1.3": {
+  "en": "Customers are notified in real time of contactless transactions.",
+  "ar": "يُشعر العملاء في الوقت الفعلي بالمعاملات اللاتلامسية."
+ },
+ "crb:9.1.1.1": {
+  "en": "Business continuity, disaster recovery, impact analysis and recovery processes are documented, approved and reviewed.",
+  "ar": "عمليات استمرارية الأعمال والتعافي من الكوارث وتحليل الأثر والاستعادة موثقة ومعتمدة ومراجعة."
+ },
+ "crb:9.1.1.2": {
+  "en": "Business unit plans are integrated into the enterprise continuity plan.",
+  "ar": "خطط وحدات الأعمال مدمجة في خطة الاستمرارية المؤسسية."
+ },
+ "crb:9.1.1.3": {
+  "en": "The recovery time, recovery point and maximum tolerable downtime of this system are defined and agreed with the business.",
+  "ar": "زمن الاستعادة ونقطة الاستعادة وأقصى مدة توقف محتملة لهذا النظام محددة ومتفق عليها مع الأعمال."
+ },
+ "crb:9.1.1.4": {
+  "en": "An alternate geographically separate recovery site can restore this system.",
+  "ar": "يستطيع موقع استعادة بديل منفصل جغرافياً استعادة هذا النظام."
+ },
+ "crb:9.1.1.5": {
+  "en": "Recovery procedures, manuals and contact lists are current and available at the alternate site.",
+  "ar": "إجراءات الاستعادة والأدلة وقوائم الاتصال محدثة ومتاحة في الموقع البديل."
+ },
+ "crb:9.1.1.6": {
+  "en": "Recovery strategies are defined and approved.",
+  "ar": "استراتيجيات الاستعادة محددة ومعتمدة."
+ },
+ "crb:9.1.2.1": {
+  "en": "The backup strategy covers crisis scenarios including cyber attacks, workarounds and roles.",
+  "ar": "تغطي استراتيجية النسخ الاحتياطي سيناريوهات الأزمات بما فيها الهجمات السيبرانية والحلول البديلة والأدوار."
+ },
+ "crb:9.1.2.2": {
+  "en": "Data of this system is backed up per the strategy and retained per regulation.",
+  "ar": "تُنسخ بيانات هذا النظام احتياطياً وفق الاستراتيجية ويُحتفظ بها وفق التنظيم."
+ },
+ "crb:9.1.2.3": {
+  "en": "Backups are tested at least quarterly, covering all critical systems over the year.",
+  "ar": "تُختبر النسخ الاحتياطية كل ثلاثة أشهر على الأقل بما يغطي كل الأنظمة الحرجة خلال السنة."
+ },
+ "crb:9.1.3.1": {
+  "en": "The critical services this system supports and their internal, vendor and supply chain dependencies are documented.",
+  "ar": "الخدمات الحرجة التي يدعمها هذا النظام واعتمادياتها الداخلية والخارجية وفي سلسلة الإمداد موثقة."
+ },
+ "crb:9.1.3.2": {
+  "en": "Interdependencies are assessed at least annually for single points of failure.",
+  "ar": "تُقيّم الاعتماديات المتبادلة سنوياً على الأقل لكشف نقاط الفشل الفردية."
+ },
+ "crb:9.1.3.3": {
+  "en": "Third parties supporting the critical service are risk assessed annually.",
+  "ar": "الأطراف الخارجية الداعمة للخدمة الحرجة تُقيّم مخاطرها سنوياً."
+ },
+ "crb:9.1.3.4": {
+  "en": "Service level agreements with critical providers cover resilience, recovery objectives and breach notification.",
+  "ar": "تغطي اتفاقيات مستوى الخدمة مع المزودين الحرجين المرونة وأهداف الاستعادة والإبلاغ عن الخروقات."
+ },
+ "crb:9.1.3.5": {
+  "en": "Contingency plans with redundancy or alternative providers exist for critical service failure.",
+  "ar": "توجد خطط طوارئ بتكرار أو مزودين بدلاء لفشل الخدمة الحرجة."
+ },
+ "crb:9.1.4.1": {
+  "en": "Restoration from backup is tested at least annually and proves completeness.",
+  "ar": "تُختبر الاستعادة من النسخ الاحتياطية سنوياً على الأقل وتثبت اكتمالها."
+ },
+ "crb:9.1.4.2": {
+  "en": "Annual continuity and disaster recovery exercises such as failover prove the recovery capability.",
+  "ar": "تثبت تمارين الاستمرارية والتعافي السنوية مثل التحويل الاحتياطي قدرة الاستعادة."
+ },
+ "crb:9.1.4.3": {
+  "en": "Test results and deviations are documented with action plans.",
+  "ar": "نتائج الاختبار والانحرافات موثقة مع خطط العمل."
+ },
+ "crb:9.1.4.4": {
+  "en": "Tabletop exercises run annually to validate recovery methods and readiness.",
+  "ar": "تجري تمارين المحاكاة المكتبية سنوياً للتحقق من أساليب الاستعادة والجاهزية."
+ },
+ "crb:9.1.4.5": {
+  "en": "The alternate site has physical security and access controls per the risk process.",
+  "ar": "للموقع البديل أمن مادي وضوابط وصول وفق عملية المخاطر."
+ },
+ "crb:9.1.4.6": {
+  "en": "A comprehensive operational resilience testing programme exists beyond continuity testing.",
+  "ar": "يوجد برنامج شامل لاختبار المرونة التشغيلية يتجاوز اختبار الاستمرارية."
+ },
+ "crb:9.1.4.7": {
+  "en": "The programme covers all critical services and processes with their interdependencies.",
+  "ar": "يغطي البرنامج كل الخدمات والعمليات الحرجة مع اعتمادياتها المتبادلة."
+ },
+ "crb:9.1.4.8": {
+  "en": "Scenario based testing simulates a wide range of disruptions including cyber incidents.",
+  "ar": "يحاكي الاختبار القائم على السيناريوهات طيفاً واسعاً من الاضطرابات بما فيها الحوادث السيبرانية."
+ },
+ "crb:9.1.4.9": {
+  "en": "Resilience testing runs at least annually or on significant change.",
+  "ar": "يجري اختبار المرونة سنوياً على الأقل أو عند تغيير جوهري."
+ },
+ "crb:9.1.4.10": {
+  "en": "Critical third parties are included in the resilience testing programme.",
+  "ar": "الأطراف الخارجية الحرجة مشمولة في برنامج اختبار المرونة."
+ },
+ "crb:9.2.1.1": {
+  "en": "Crisis management plans including cyber crisis planning are current.",
+  "ar": "خطط إدارة الأزمات بما فيها التخطيط للأزمات السيبرانية محدثة."
+ },
+ "crb:9.2.1.2": {
+  "en": "A crisis management team spans technical, business and management functions.",
+  "ar": "يضم فريق إدارة الأزمات الوظائف التقنية والأعمال والإدارة."
+ },
+ "crb:9.2.1.3": {
+  "en": "The team is led by the crisis response lead with empowered representatives from the key functions.",
+  "ar": "يقود الفريق قائد الاستجابة للأزمات مع ممثلين مخولين من الوظائف الرئيسية."
+ },
+ "crb:9.2.1.4": {
+  "en": "The crisis response lead is a senior executive with decision authority and relevant experience.",
+  "ar": "قائد الاستجابة للأزمات تنفيذي كبير له سلطة القرار وخبرة ذات صلة."
+ },
+ "crb:9.2.1.5": {
+  "en": "A cyber crisis management process is documented, tested and reviewed annually.",
+  "ar": "توجد عملية لإدارة الأزمات السيبرانية موثقة ومختبرة وتُراجع سنوياً."
+ },
+ "crb:9.2.1.6": {
+  "en": "A board approved severity impact matrix defines crisis levels.",
+  "ar": "توجد مصفوفة لشدة الأثر معتمدة من المجلس تحدد مستويات الأزمات."
+ },
+ "crb:9.2.2.1": {
+  "en": "Tools and threat intelligence feeds support situational awareness during a crisis.",
+  "ar": "تدعم الأدوات وتغذيات استخبارات التهديدات الوعي بالموقف أثناء الأزمة."
+ },
+ "crb:9.2.2.2": {
+  "en": "Emergency notification mechanisms reach responders and employees quickly.",
+  "ar": "تصل آليات الإخطار الطارئ إلى المستجيبين والموظفين بسرعة."
+ },
+ "crb:9.2.2.3": {
+  "en": "Crisis response tools keep an auditable trail of decisions and actions.",
+  "ar": "تحتفظ أدوات الاستجابة للأزمات بأثر قابل للتدقيق للقرارات والإجراءات."
+ },
+ "crb:9.2.2.4": {
+  "en": "Incidents affecting confidentiality, integrity or availability are reported to CBK whatever the root cause.",
+  "ar": "يُبلغ بنك الكويت المركزي بالحوادث التي تمس السرية أو السلامة أو التوافر أياً كان سببها الجذري."
+ },
+ "crb:9.2.2.5": {
+  "en": "CBK is updated on reported incidents within the operational resilience timelines.",
+  "ar": "يُطلع بنك الكويت المركزي على مستجدات الحوادث المبلغ عنها ضمن مواعيد المرونة التشغيلية."
+ },
+ "crb:9.2.2.6": {
+  "en": "Reports use the CBK templates and communication channels.",
+  "ar": "تستخدم التقارير نماذج بنك الكويت المركزي وقنوات تواصله."
+ },
+ "crb:9.2.2.7": {
+  "en": "Crisis level incidents are identified and escalated within the defined timeframe.",
+  "ar": "تُحدد الحوادث بمستوى الأزمة وتُصعد ضمن الإطار الزمني المحدد."
+ },
+ "crb:9.2.2.8": {
+  "en": "The entity takes part in sector crisis responses led by CBK.",
+  "ar": "تشارك الجهة في الاستجابات القطاعية للأزمات التي يقودها بنك الكويت المركزي."
+ },
+ "crb:9.2.3.1": {
+  "en": "A continuous learning model improves readiness for future cyber incidents.",
+  "ar": "يحسن نموذج التعلم المستمر الجاهزية للحوادث السيبرانية المستقبلية."
+ },
+ "crb:9.2.3.2": {
+  "en": "Crisis responders receive role based training at least annually and ad hoc when needed.",
+  "ar": "يتلقى المستجيبون للأزمات تدريباً بحسب أدوارهم سنوياً على الأقل واستثنائياً عند الحاجة."
+ },
+ "crb:9.2.3.3": {
+  "en": "Cyber crisis exercises run annually to keep plans and procedures effective.",
+  "ar": "تجري تمارين الأزمات السيبرانية سنوياً لإبقاء الخطط والإجراءات فعالة."
+ },
+ "crb:9.2.3.4": {
+  "en": "The entity participates in CBK sector wide crisis exercises.",
+  "ar": "تشارك الجهة في تمارين الأزمات القطاعية التي ينظمها بنك الكويت المركزي."
+ },
+ "orb:3.1.1.1": {
+  "en": "The board has approved the operational resilience strategy and authorised the policy.",
+  "ar": "اعتمد المجلس استراتيجية المرونة التشغيلية وأجاز سياستها."
+ },
+ "orb:3.1.1.2": {
+  "en": "Delegated resilience duties are documented and the board keeps ultimate accountability.",
+  "ar": "مهام المرونة المفوضة موثقة ويحتفظ المجلس بالمسؤولية النهائية."
+ },
+ "orb:3.1.1.3": {
+  "en": "The board has approved the resilience risk appetite and tolerance and oversees evolving operational risks.",
+  "ar": "اعتمد المجلس شهية مخاطر المرونة وتحملها ويشرف على مخاطر التشغيل المتغيرة."
+ },
+ "orb:3.1.1.4": {
+  "en": "The board has allocated adequate budget and resources for resilience activities.",
+  "ar": "خصص المجلس ميزانية وموارد كافية لأنشطة المرونة."
+ },
+ "orb:3.1.1.5": {
+  "en": "The board receives regular updates from the resilience steering committee on the state of the baseline.",
+  "ar": "يتلقى المجلس تحديثات منتظمة من لجنة توجيه المرونة عن حالة الضوابط الأساسية."
+ },
+ "orb:3.1.2.1": {
+  "en": "An operational resilience steering committee exists with the head of the resilience function and senior managers.",
+  "ar": "توجد لجنة توجيه للمرونة التشغيلية تضم رئيس وظيفة المرونة وكبار المديرين."
+ },
+ "orb:3.1.2.2": {
+  "en": "The committee is chaired by a senior executive with relevant resilience expertise.",
+  "ar": "يرأس اللجنة تنفيذي كبير ذو خبرة في المرونة."
+ },
+ "orb:3.1.2.3": {
+  "en": "The committee charter is approved by the board and states objective, members, roles and meeting frequency.",
+  "ar": "ميثاق اللجنة معتمد من المجلس ويبين الهدف والأعضاء والأدوار ووتيرة الاجتماعات."
+ },
+ "orb:3.1.2.4": {
+  "en": "The committee is established and mandated by the board with any delegated duties recorded.",
+  "ar": "اللجنة منشأة ومكلفة من المجلس وأي مهام مفوضة إليها مسجلة."
+ },
+ "orb:3.1.2.5": {
+  "en": "The committee endorses the strategy and policy, recommends the appetite and oversees the resilience programme.",
+  "ar": "تجيز اللجنة الاستراتيجية والسياسة وتوصي بالشهية وتشرف على برنامج المرونة."
+ },
+ "orb:3.1.3.1": {
+  "en": "Senior management has approved the resilience policy and the initiatives that carry out the strategy.",
+  "ar": "اعتمدت الإدارة العليا سياسة المرونة والمبادرات التي تنفذ الاستراتيجية."
+ },
+ "orb:3.1.3.2": {
+  "en": "The chief executive and other executives visibly support the resilience strategy.",
+  "ar": "يدعم الرئيس التنفيذي وبقية التنفيذيين استراتيجية المرونة دعماً ظاهراً."
+ },
+ "orb:3.1.3.3": {
+  "en": "Senior management implements the resilience strategies within the approved appetite and tolerance.",
+  "ar": "تنفذ الإدارة العليا استراتيجيات المرونة ضمن الشهية والتحمل المعتمدين."
+ },
+ "orb:3.1.3.4": {
+  "en": "Senior management funds resilience and assigns roles to people with the right expertise.",
+  "ar": "تمول الإدارة العليا المرونة وتسند الأدوار إلى أشخاص ذوي الخبرة المناسبة."
+ },
+ "orb:3.1.3.5": {
+  "en": "Senior management has approved the size and resources of the resilience function.",
+  "ar": "اعتمدت الإدارة العليا حجم وظيفة المرونة ومواردها."
+ },
+ "orb:3.1.3.6": {
+  "en": "Resilience policies and standards from the function are applied across the entity with management backing.",
+  "ar": "تُطبق سياسات ومعايير المرونة الصادرة عن الوظيفة في الجهة كلها بدعم الإدارة."
+ },
+ "orb:3.1.4.1": {
+  "en": "An operational resilience function exists independent of business operations, empowered by the board and overseen by the committee.",
+  "ar": "توجد وظيفة للمرونة التشغيلية مستقلة عن عمليات الأعمال ومخولة من المجلس وتشرف عليها اللجنة."
+ },
+ "orb:3.1.4.2": {
+  "en": "The size of the function reflects the complexity of the business, technology and operations.",
+  "ar": "يعكس حجم الوظيفة تعقيد الأعمال والتقنية والعمليات."
+ },
+ "orb:3.1.4.3": {
+  "en": "The head of the function defines and reviews the resilience strategy.",
+  "ar": "يحدد رئيس الوظيفة استراتيجية المرونة ويراجعها."
+ },
+ "orb:3.1.4.4": {
+  "en": "The function is accountable for implementing, maintaining and coordinating the resilience baseline.",
+  "ar": "الوظيفة مسؤولة عن تنفيذ الضوابط الأساسية للمرونة وصيانتها وتنسيقها."
+ },
+ "orb:3.1.4.5": {
+  "en": "The function oversees every function that supports continuity and recovery of critical services.",
+  "ar": "تشرف الوظيفة على كل الوظائف الداعمة لاستمرارية الخدمات الحرجة واستعادتها."
+ },
+ "orb:3.1.4.6": {
+  "en": "The function manages business continuity activities across the entity.",
+  "ar": "تدير الوظيفة أنشطة استمرارية الأعمال في الجهة كلها."
+ },
+ "orb:3.1.4.7": {
+  "en": "The function makes sure resilience awareness and training are delivered.",
+  "ar": "تضمن الوظيفة تقديم التوعية والتدريب في مجال المرونة."
+ },
+ "orb:3.1.4.8": {
+  "en": "The function updates the steering committee at least quarterly and when needed.",
+  "ar": "تُطلع الوظيفة لجنة التوجيه كل ثلاثة أشهر على الأقل وعند الحاجة."
+ },
+ "orb:3.1.4.9": {
+  "en": "The function consolidates impact analyses, risk assessments and plans into one reported picture.",
+  "ar": "تجمّع الوظيفة تحليلات الأثر وتقييمات المخاطر والخطط في صورة واحدة مرفوعة."
+ },
+ "orb:3.2.1.1": {
+  "en": "The resilience strategy is defined, approved, implemented and maintained at least annually.",
+  "ar": "استراتيجية المرونة محددة ومعتمدة ومنفذة وتُحدث سنوياً على الأقل."
+ },
+ "orb:3.2.1.2": {
+  "en": "The strategy sets the target resilience maturity and objectives aligned with business and CBK expectations.",
+  "ar": "تحدد الاستراتيجية نضج المرونة المستهدف وأهدافاً تتوافق مع الأعمال وتوقعات بنك الكويت المركزي."
+ },
+ "orb:3.2.1.3": {
+  "en": "Responsibility and accountability for implementing and monitoring the strategy are named.",
+  "ar": "المسؤولية والمساءلة عن تنفيذ الاستراتيجية ومتابعتها مسندتان إلى جهات محددة بالاسم."
+ },
+ "orb:3.2.1.4": {
+  "en": "The resilience policy is approved, implemented, communicated, enforced and accessible to staff, contractors and vendors.",
+  "ar": "سياسة المرونة معتمدة ومنفذة ومعممة ومطبقة ومتاحة للموظفين والمتعاقدين والموردين."
+ },
+ "orb:3.2.1.5": {
+  "en": "The policy is reviewed annually or on significant change.",
+  "ar": "تُراجع السياسة سنوياً أو عند تغيير جوهري."
+ },
+ "orb:3.2.1.6": {
+  "en": "The policy defines objectives, scope, management commitment, roles and enforcement.",
+  "ar": "تحدد السياسة الأهداف والنطاق والتزام الإدارة والأدوار والتطبيق."
+ },
+ "orb:3.2.1.7": {
+  "en": "Supporting procedures, processes and guidelines carry out the policy.",
+  "ar": "توجد إجراءات وعمليات وإرشادات داعمة لتنفيذ السياسة."
+ },
+ "orb:3.2.1.8": {
+  "en": "The policy is approved by senior management and authorised by the board.",
+  "ar": "السياسة معتمدة من الإدارة العليا ومجازة من المجلس."
+ },
+ "orb:3.3.1.1": {
+  "en": "A compliance register holds every applicable legal and regulatory resilience requirement and tracks changes.",
+  "ar": "يضم سجل الالتزام كل متطلبات المرونة القانونية والتنظيمية المنطبقة ويتابع التغييرات."
+ },
+ "orb:3.3.1.2": {
+  "en": "The register covers CBK requirements, instructions, laws and regulations on operational resilience.",
+  "ar": "يغطي السجل متطلبات بنك الكويت المركزي وتعليماته والقوانين واللوائح المتعلقة بالمرونة التشغيلية."
+ },
+ "orb:3.3.1.3": {
+  "en": "ISO 22301 certification is held and attested to CBK on request or at regular intervals.",
+  "ar": "شهادة ISO 22301 سارية ويُقدم إقرار الالتزام بها إلى بنك الكويت المركزي عند الطلب أو دورياً."
+ },
+ "orb:4.1.1.1": {
+  "en": "The resilience function maintains a risk assessment methodology reviewed annually or on significant change.",
+  "ar": "تحتفظ وظيفة المرونة بمنهجية لتقييم المخاطر تُراجع سنوياً أو عند تغيير جوهري."
+ },
+ "orb:4.1.1.2": {
+  "en": "Resilience risk assessment is part of enterprise risk management and aligned to the appetite.",
+  "ar": "تقييم مخاطر المرونة جزء من إدارة المخاطر المؤسسية ومتوافق مع الشهية."
+ },
+ "orb:4.1.1.3": {
+  "en": "The methodology follows recognised standards such as ISO 31000.",
+  "ar": "تتبع المنهجية معايير معترفاً بها مثل ISO 31000."
+ },
+ "orb:4.1.1.4": {
+  "en": "Every site supporting operations is risk assessed.",
+  "ar": "كل موقع يدعم العمليات مقيّم من حيث المخاطر."
+ },
+ "orb:4.2.1.1": {
+  "en": "Risk identification considers internal and external threats that could disrupt operations.",
+  "ar": "يراعي تحديد المخاطر التهديدات الداخلية والخارجية التي قد تعطل العمليات."
+ },
+ "orb:4.2.1.2": {
+  "en": "Identification covers regulatory, environmental, technology, people, third party and process factors.",
+  "ar": "يغطي التحديد العوامل التنظيمية والبيئية والتقنية والبشرية والأطراف الخارجية والعمليات."
+ },
+ "orb:4.2.1.3": {
+  "en": "Disruption risks with their threats, vulnerabilities and controls are in the central risk register.",
+  "ar": "مخاطر التعطل مع تهديداتها ونقاط ضعفها وضوابطها مسجلة في سجل المخاطر المركزي."
+ },
+ "orb:4.2.1.4": {
+  "en": "Risks are evaluated by severity, impact, likelihood and existing controls.",
+  "ar": "تُقيّم المخاطر بحسب الشدة والأثر والاحتمال والضوابط القائمة."
+ },
+ "orb:4.3.1.1": {
+  "en": "Every registered risk has a treatment plan that addresses it.",
+  "ar": "لكل خطر مسجل خطة معالجة تعالجه."
+ },
+ "orb:4.3.1.2": {
+  "en": "Treatment plans are reported to and agreed with the risk owners.",
+  "ar": "تُرفع خطط المعالجة إلى مالكي المخاطر ويُتفق معهم عليها."
+ },
+ "orb:4.3.1.3": {
+  "en": "Treatment responses are categorised, tracked and managed.",
+  "ar": "استجابات المعالجة مصنفة ومتابعة ومدارة."
+ },
+ "orb:4.3.1.4": {
+  "en": "Acceptance, avoidance or transfer of a risk is justified, documented and approved.",
+  "ar": "قبول الخطر أو تجنبه أو نقله مبرر وموثق ومعتمد."
+ },
+ "orb:4.3.1.5": {
+  "en": "Risk monitoring tracks compliance with treatment plans.",
+  "ar": "تتابع مراقبة المخاطر الالتزام بخطط المعالجة."
+ },
+ "orb:4.3.2.1": {
+  "en": "Consolidated risk assessment results are reported to senior management for approval.",
+  "ar": "تُرفع نتائج تقييم المخاطر المجمعة إلى الإدارة العليا للاعتماد."
+ },
+ "orb:4.3.2.2": {
+  "en": "The steering committee gets a quarterly update on risk status and treatment.",
+  "ar": "تتلقى لجنة التوجيه تحديثاً كل ثلاثة أشهر عن حالة المخاطر ومعالجتها."
+ },
+ "orb:4.3.2.3": {
+  "en": "Risk assessment is repeated annually or on significant change.",
+  "ar": "يُعاد تقييم المخاطر سنوياً أو عند تغيير جوهري."
+ },
+ "orb:5.1.1.1": {
+  "en": "A business impact analysis methodology is maintained and reviewed annually or on significant change.",
+  "ar": "توجد منهجية لتحليل أثر الأعمال محفوظة وتُراجع سنوياً أو عند تغيير جوهري."
+ },
+ "orb:5.1.1.2": {
+  "en": "The methodology follows ISO 22301 and the BCI good practice guidelines.",
+  "ar": "تتبع المنهجية ISO 22301 وإرشادات الممارسة الجيدة من BCI."
+ },
+ "orb:5.1.2.1": {
+  "en": "The service this system supports is in the service list with its criticality level.",
+  "ar": "الخدمة التي يدعمها هذا النظام مدرجة في قائمة الخدمات مع مستوى حرجها."
+ },
+ "orb:5.1.2.2": {
+  "en": "The service has a named business service owner accountable for its delivery.",
+  "ar": "للخدمة مالك خدمة أعمال محدد بالاسم مسؤول عن تقديمها."
+ },
+ "orb:5.1.2.3": {
+  "en": "The impact analysis maps the service to its supporting processes and recovery resources.",
+  "ar": "يربط تحليل الأثر الخدمة بعملياتها الداعمة وموارد استعادتها."
+ },
+ "orb:5.1.3.1": {
+  "en": "Recovery resources across premises, equipment, technology, people, third parties and data are identified.",
+  "ar": "موارد الاستعادة من المباني والمعدات والتقنية والأفراد والأطراف الخارجية والبيانات محددة."
+ },
+ "orb:5.1.3.2": {
+  "en": "Recovery time and recovery point objectives are defined for the critical systems behind the service.",
+  "ar": "زمن الاستعادة ونقطة الاستعادة محددان للأنظمة الحرجة خلف الخدمة."
+ },
+ "orb:5.1.3.3": {
+  "en": "Internal dependencies between departments are identified and mapped.",
+  "ar": "الاعتماديات الداخلية بين الإدارات محددة ومخططة."
+ },
+ "orb:5.1.4.1": {
+  "en": "Single points of failure across the recovery resources are identified.",
+  "ar": "نقاط الفشل الفردية عبر موارد الاستعادة محددة."
+ },
+ "orb:5.1.4.2": {
+  "en": "Consolidated impact analysis results are approved by senior management.",
+  "ar": "نتائج تحليل الأثر المجمعة معتمدة من الإدارة العليا."
+ },
+ "orb:5.1.4.3": {
+  "en": "The impact analysis is repeated annually or on significant change.",
+  "ar": "يُعاد تحليل الأثر سنوياً أو عند تغيير جوهري."
+ },
+ "orb:5.2.1.1": {
+  "en": "Recovery strategy options come from the impact analysis and the risk assessment.",
+  "ar": "تنبثق خيارات استراتيجية الاستعادة من تحليل الأثر وتقييم المخاطر."
+ },
+ "orb:5.2.1.2": {
+  "en": "Strategies rest on the maximum acceptable outage and the recovery objectives of the critical service.",
+  "ar": "تستند الاستراتيجيات إلى أقصى مدة انقطاع مقبولة وأهداف الاستعادة للخدمة الحرجة."
+ },
+ "orb:5.2.1.3": {
+  "en": "Strategies cover premises, equipment, technology, people, third parties and data.",
+  "ar": "تغطي الاستراتيجيات المباني والمعدات والتقنية والأفراد والأطراف الخارجية والبيانات."
+ },
+ "orb:5.2.1.4": {
+  "en": "A geographically separate alternate site can restore the critical systems.",
+  "ar": "يستطيع موقع بديل منفصل جغرافياً استعادة الأنظمة الحرجة."
+ },
+ "orb:5.2.1.5": {
+  "en": "A strategy exists for business operations when the building is unavailable.",
+  "ar": "توجد استراتيجية لعمليات الأعمال عند تعذر استخدام المبنى."
+ },
+ "orb:5.2.2.1": {
+  "en": "Senior management selected the recovery strategies weighing cost and benefit.",
+  "ar": "اختارت الإدارة العليا استراتيجيات الاستعادة موازنة بين التكلفة والمنفعة."
+ },
+ "orb:5.2.2.2": {
+  "en": "An action plan with activities, responsibilities and timelines implements the selected strategies.",
+  "ar": "توجد خطة عمل بالأنشطة والمسؤوليات والمهل الزمنية لتنفيذ الاستراتيجيات المختارة."
+ },
+ "orb:5.2.2.3": {
+  "en": "Implementation status of the strategies and solutions is tracked.",
+  "ar": "تُتابع حالة تنفيذ الاستراتيجيات والحلول."
+ },
+ "orb:5.2.2.4": {
+  "en": "Selected strategies are documented, approved and reviewed annually or on significant change.",
+  "ar": "الاستراتيجيات المختارة موثقة ومعتمدة وتُراجع سنوياً أو عند تغيير جوهري."
+ },
+ "orb:5.3.1.1": {
+  "en": "A business continuity plan exists for each business function and is reviewed annually or on significant change.",
+  "ar": "توجد خطة لاستمرارية الأعمال لكل وظيفة أعمال وتُراجع سنوياً أو عند تغيير جوهري."
+ },
+ "orb:5.3.1.2": {
+  "en": "Each plan lists prioritised activities, key resources, recovery steps, roles and contacts.",
+  "ar": "تدرج كل خطة الأنشطة مرتبة بالأولوية والموارد الرئيسية وخطوات الاستعادة والأدوار وجهات الاتصال."
+ },
+ "orb:5.3.1.3": {
+  "en": "Consolidated plans are approved by senior management.",
+  "ar": "الخطط المجمعة معتمدة من الإدارة العليا."
+ },
+ "orb:6.1.1.1": {
+  "en": "This service is in the service catalogue with its interdependencies, owners and outsourcing documented.",
+  "ar": "هذه الخدمة مدرجة في دليل الخدمات مع اعتمادياتها ومالكيها وإسنادها موثقة."
+ },
+ "orb:6.1.1.2": {
+  "en": "Resilience by design was built into the service from planning and development onward.",
+  "ar": "بُنيت المرونة بالتصميم في الخدمة منذ التخطيط والتطوير."
+ },
+ "orb:6.1.1.3": {
+  "en": "Periodic service reviews assess performance and resilience against defined indicators.",
+  "ar": "تقيّم مراجعات الخدمة الدورية الأداء والمرونة وفق مؤشرات محددة."
+ },
+ "orb:6.1.1.4": {
+  "en": "Service level objectives for recovery and availability are defined and monitored.",
+  "ar": "أهداف مستوى الخدمة للاستعادة والتوافر محددة ومراقبة."
+ },
+ "orb:6.2.1.1": {
+  "en": "A backup plan is approved and reviewed annually or on significant change.",
+  "ar": "توجد خطة للنسخ الاحتياطي معتمدة وتُراجع سنوياً أو عند تغيير جوهري."
+ },
+ "orb:6.2.1.2": {
+  "en": "The backup plan for this system sets frequency by criticality and recovery point, secure storage, disposal and restoration steps.",
+  "ar": "تحدد خطة النسخ الاحتياطي لهذا النظام الوتيرة بحسب الحرج ونقطة الاستعادة والتخزين الآمن والتخلص وخطوات الاستعادة."
+ },
+ "orb:6.2.1.3": {
+  "en": "Critical data has immutable or air gapped backups that a cyber incident cannot compromise.",
+  "ar": "للبيانات الحرجة نسخ احتياطية غير قابلة للتعديل أو معزولة لا يستطيع حادث سيبراني إفسادها."
+ },
+ "orb:6.2.1.4": {
+  "en": "Backups follow the plan and are stored and retained per organisational and regulatory requirements.",
+  "ar": "تتبع النسخ الاحتياطية الخطة وتُخزن ويُحتفظ بها وفق المتطلبات المؤسسية والتنظيمية."
+ },
+ "orb:6.2.1.5": {
+  "en": "Backups are tested at least quarterly, covering all critical systems over the year.",
+  "ar": "تُختبر النسخ الاحتياطية كل ثلاثة أشهر على الأقل بما يغطي كل الأنظمة الحرجة خلال السنة."
+ },
+ "orb:6.3.1.1": {
+  "en": "High availability is configured for this critical system as identified by the technology impact analysis.",
+  "ar": "التوافر العالي مهيأ لهذا النظام الحرج كما حدده تحليل الأثر التقني."
+ },
+ "orb:6.3.1.2": {
+  "en": "The architecture is scalable and redundant with no single point of failure.",
+  "ar": "المعمارية قابلة للتوسع ومتكررة دون نقطة فشل فردية."
+ },
+ "orb:6.3.1.3": {
+  "en": "Availability and performance are monitored periodically.",
+  "ar": "يُراقب التوافر والأداء دورياً."
+ },
+ "orb:6.3.1.4": {
+  "en": "Data availability and integrity validation mechanisms are in place.",
+  "ar": "توجد آليات للتحقق من توافر البيانات وسلامتها."
+ },
+ "orb:6.4.1.1": {
+  "en": "A technology impact analysis methodology is maintained and reviewed annually or on significant change.",
+  "ar": "توجد منهجية لتحليل الأثر التقني محفوظة وتُراجع سنوياً أو عند تغيير جوهري."
+ },
+ "orb:6.4.1.2": {
+  "en": "The technology resources needed to meet the recovery objectives of this system are identified.",
+  "ar": "الموارد التقنية اللازمة لتحقيق أهداف الاستعادة لهذا النظام محددة."
+ },
+ "orb:6.4.1.3": {
+  "en": "IT systems are prioritised by criticality for recovery planning.",
+  "ar": "أنظمة تقنية المعلومات مرتبة بحسب الحرج لأغراض تخطيط الاستعادة."
+ },
+ "orb:6.4.1.4": {
+  "en": "This system is mapped to its servers, operating systems, hardware and dependencies.",
+  "ar": "هذا النظام مربوط بخوادمه وأنظمة تشغيله وعتاده واعتمادياته."
+ },
+ "orb:6.4.1.5": {
+  "en": "Consolidated technology impact results are approved by senior management.",
+  "ar": "نتائج تحليل الأثر التقني المجمعة معتمدة من الإدارة العليا."
+ },
+ "orb:6.4.1.6": {
+  "en": "The technology impact analysis is repeated annually or on significant change.",
+  "ar": "يُعاد تحليل الأثر التقني سنوياً أو عند تغيير جوهري."
+ },
+ "orb:6.4.2.1": {
+  "en": "An IT disaster recovery plan covers the restoration of this system and its infrastructure.",
+  "ar": "تغطي خطة التعافي من الكوارث التقنية استعادة هذا النظام وبنيته التحتية."
+ },
+ "orb:6.4.2.2": {
+  "en": "The plan defines the response team, roles, activation, recovery steps, priorities and contacts.",
+  "ar": "تحدد الخطة فريق الاستجابة والأدوار والتفعيل وخطوات الاستعادة والأولويات وجهات الاتصال."
+ },
+ "orb:6.4.2.3": {
+  "en": "A disaster recovery site can restore the critical technology services.",
+  "ar": "يستطيع موقع للتعافي من الكوارث استعادة الخدمات التقنية الحرجة."
+ },
+ "orb:6.4.2.4": {
+  "en": "The disaster recovery plan is approved by senior management.",
+  "ar": "خطة التعافي من الكوارث معتمدة من الإدارة العليا."
+ },
+ "orb:6.4.2.5": {
+  "en": "The plan is reviewed annually or on significant change or new regulation.",
+  "ar": "تُراجع الخطة سنوياً أو عند تغيير جوهري أو تنظيم جديد."
+ },
+ "orb:6.5.1.1": {
+  "en": "The most critical technology services, including this one where applicable, are identified for cyber recovery.",
+  "ar": "الخدمات التقنية الأكثر حرجاً بما فيها هذه الخدمة حيث ينطبق محددة لأغراض التعافي السيبراني."
+ },
+ "orb:6.5.1.2": {
+  "en": "Logically and physically segregated recovery capabilities exist for those services.",
+  "ar": "توجد قدرات استعادة مفصولة منطقياً ومادياً لتلك الخدمات."
+ },
+ "orb:6.5.1.3": {
+  "en": "Recovery images, backups and configuration baselines are validated clean before restoration.",
+  "ar": "تُتحقق صور الاستعادة والنسخ الاحتياطية وخطوط الإعداد الأساسية من خلوها من التلوث قبل الاستعادة."
+ },
+ "orb:6.5.2.1": {
+  "en": "A cyber recovery plan restores services, applications and data after a cyber incident.",
+  "ar": "توجد خطة للتعافي السيبراني تستعيد الخدمات والتطبيقات والبيانات بعد حادث سيبراني."
+ },
+ "orb:6.5.2.2": {
+  "en": "The plan covers governance, scope, roles, assumptions, recovery sequence, validation and communication.",
+  "ar": "تغطي الخطة الحوكمة والنطاق والأدوار والافتراضات وتسلسل الاستعادة والتحقق والتواصل."
+ },
+ "orb:6.5.2.3": {
+  "en": "The cyber recovery plan is aligned with the disaster recovery and continuity plans.",
+  "ar": "خطة التعافي السيبراني متوافقة مع خطتي التعافي من الكوارث والاستمرارية."
+ },
+ "orb:6.5.2.4": {
+  "en": "The plan is approved by senior management.",
+  "ar": "الخطة معتمدة من الإدارة العليا."
+ },
+ "orb:6.5.2.5": {
+  "en": "The plan is reviewed annually or when technology, threats or the environment change.",
+  "ar": "تُراجع الخطة سنوياً أو عند تغير التقنية أو التهديدات أو البيئة."
+ },
+ "orb:6.5.3.1": {
+  "en": "Cyber recovery testing including ransomware recovery drills runs at least annually.",
+  "ar": "يجري اختبار التعافي السيبراني بما فيه تمارين التعافي من برمجيات الفدية سنوياً على الأقل."
+ },
+ "orb:6.5.3.2": {
+  "en": "Results are documented and reported to senior management and gaps remediated within set timelines.",
+  "ar": "النتائج موثقة ومرفوعة إلى الإدارة العليا وتُعالج الفجوات ضمن مهل محددة."
+ },
+ "orb:6.5.3.3": {
+  "en": "Lessons from testing feed continuous improvement of the plan.",
+  "ar": "تغذي دروس الاختبار التحسين المستمر للخطة."
+ },
+ "orb:8.1.1.1": {
+  "en": "A response structure with strategic, tactical and operational teams handles incidents and crises.",
+  "ar": "يعالج هيكل استجابة بفرق استراتيجية وتكتيكية وتشغيلية الحوادث والأزمات."
+ },
+ "orb:8.1.1.2": {
+  "en": "The three layers are the crisis management, incident management and incident response teams.",
+  "ar": "الطبقات الثلاث هي فرق إدارة الأزمات وإدارة الحوادث والاستجابة للحوادث."
+ },
+ "orb:8.1.1.3": {
+  "en": "The severity impact matrix decides which team activates for each impact category.",
+  "ar": "تحدد مصفوفة شدة الأثر الفريق الذي يُفعّل لكل فئة أثر."
+ },
+ "orb:8.1.1.4": {
+  "en": "An incident management team activates and structures itself by the nature, scope and impact of the incident.",
+  "ar": "يُفعّل فريق إدارة الحوادث ويُهيكل نفسه بحسب طبيعة الحادث ونطاقه وأثره."
+ },
+ "orb:8.1.1.5": {
+  "en": "A designated leader runs the response, oversees documentation and starts the post incident review.",
+  "ar": "يقود قائد معين الاستجابة ويشرف على التوثيق ويبدأ المراجعة اللاحقة للحادث."
+ },
+ "orb:8.1.1.6": {
+  "en": "The crisis management team is distinct from the incident management and response teams.",
+  "ar": "فريق إدارة الأزمات مستقل عن فريقي إدارة الحوادث والاستجابة."
+ },
+ "orb:8.1.1.7": {
+  "en": "The crisis team is led by the crisis response lead with empowered representatives from key functions.",
+  "ar": "يقود فريق الأزمات قائد الاستجابة للأزمات مع ممثلين مخولين من الوظائف الرئيسية."
+ },
+ "orb:8.1.1.8": {
+  "en": "The crisis team assesses impacts, keeps strategic oversight and mobilises internal and external resources.",
+  "ar": "يقيّم فريق الأزمات الآثار ويحتفظ بالإشراف الاستراتيجي ويحشد الموارد الداخلية والخارجية."
+ },
+ "orb:8.1.1.9": {
+  "en": "A response toolkit keeps an auditable log of decisions and actions.",
+  "ar": "تحتفظ عدة الاستجابة بسجل قابل للتدقيق للقرارات والإجراءات."
+ },
+ "orb:8.1.1.10": {
+  "en": "A crisis command centre is established.",
+  "ar": "يوجد مركز قيادة للأزمات."
+ },
+ "orb:8.1.2.1": {
+  "en": "Incident and crisis management plans are documented, reviewed and maintained.",
+  "ar": "خطط إدارة الحوادث والأزمات موثقة ومراجعة ومحدثة."
+ },
+ "orb:8.1.2.2": {
+  "en": "Incident management plans are proportionate to the nature, scale and complexity of operations.",
+  "ar": "خطط إدارة الحوادث متناسبة مع طبيعة العمليات وحجمها وتعقيدها."
+ },
+ "orb:8.1.2.3": {
+  "en": "The crisis plan defines declaration criteria, activation, roles, communication, escalation and stand down.",
+  "ar": "تحدد خطة الأزمات معايير الإعلان والتفعيل والأدوار والتواصل والتصعيد وإنهاء الحالة."
+ },
+ "orb:8.2.1.1": {
+  "en": "Communication protocols predefine statements for scenarios, channels and audiences.",
+  "ar": "تحدد بروتوكولات التواصل مسبقاً البيانات للسيناريوهات والقنوات والجمهور."
+ },
+ "orb:8.2.1.2": {
+  "en": "Communication mechanisms reach responders and employees promptly in a crisis.",
+  "ar": "تصل آليات التواصل إلى المستجيبين والموظفين فوراً في الأزمة."
+ },
+ "orb:8.2.1.3": {
+  "en": "A crisis communication team manages all communication during a crisis.",
+  "ar": "يدير فريق للتواصل في الأزمات كل أنشطة التواصل أثناء الأزمة."
+ },
+ "orb:8.2.1.4": {
+  "en": "An appointed spokesperson handles external stakeholders during a crisis.",
+  "ar": "يتولى متحدث رسمي معين التواصل مع أصحاب المصلحة الخارجيين أثناء الأزمة."
+ },
+ "orb:8.2.2.1": {
+  "en": "Initial incident reports reach CBK within the timelines set by severity.",
+  "ar": "تصل التقارير الأولية للحوادث إلى بنك الكويت المركزي ضمن المواعيد المحددة بحسب الشدة."
+ },
+ "orb:8.2.2.2": {
+  "en": "Progress updates reach CBK within the timelines set by severity.",
+  "ar": "تصل تحديثات التقدم إلى بنك الكويت المركزي ضمن المواعيد المحددة بحسب الشدة."
+ },
+ "orb:8.2.2.3": {
+  "en": "Closure reports reach CBK within the timelines set by severity.",
+  "ar": "تصل تقارير الإغلاق إلى بنك الكويت المركزي ضمن المواعيد المحددة بحسب الشدة."
+ },
+ "orb:8.2.2.4": {
+  "en": "Estimated financial loss is stated in the progress report and confirmed in the closure report.",
+  "ar": "تُذكر الخسارة المالية التقديرية في تقرير التقدم وتُؤكد في تقرير الإغلاق."
+ },
+ "orb:8.2.2.5": {
+  "en": "Reports use the CBK templates and communication channels.",
+  "ar": "تستخدم التقارير نماذج بنك الكويت المركزي وقنوات تواصله."
+ },
+ "orb:10.1.1.1": {
+  "en": "Tabletop exercises run at least annually to test resilience plans and decision making.",
+  "ar": "تجري تمارين المحاكاة المكتبية سنوياً على الأقل لاختبار خطط المرونة واتخاذ القرار."
+ },
+ "orb:10.1.1.2": {
+  "en": "Scenarios are realistic, relevant to the operating context and have clear objectives.",
+  "ar": "السيناريوهات واقعية وذات صلة بسياق التشغيل ولها أهداف واضحة."
+ },
+ "orb:10.1.1.3": {
+  "en": "Scenarios cover activation of the continuity and disaster recovery plans.",
+  "ar": "تغطي السيناريوهات تفعيل خطتي الاستمرارية والتعافي من الكوارث."
+ },
+ "orb:10.1.2.1": {
+  "en": "Continuity and disaster recovery tests run at least annually covering process and technology recovery.",
+  "ar": "تجري اختبارات الاستمرارية والتعافي من الكوارث سنوياً على الأقل وتغطي استعادة العمليات والتقنية."
+ },
+ "orb:10.1.2.2": {
+  "en": "Tests verify recovery objectives, alternate site functionality, data integrity and team readiness.",
+  "ar": "تتحقق الاختبارات من أهداف الاستعادة ووظائف الموقع البديل وسلامة البيانات وجاهزية الفرق."
+ },
+ "orb:10.1.3.1": {
+  "en": "Full or partial crisis simulations run at least annually.",
+  "ar": "تجري محاكاة كاملة أو جزئية للأزمات سنوياً على الأقل."
+ },
+ "orb:10.1.3.2": {
+  "en": "Simulation scenarios reflect high impact realistic disruptions.",
+  "ar": "تعكس سيناريوهات المحاكاة اضطرابات واقعية عالية الأثر."
+ },
+ "orb:10.1.3.3": {
+  "en": "Simulations involve the crisis management team and other response teams.",
+  "ar": "تُشرك المحاكاة فريق إدارة الأزمات وفرق الاستجابة الأخرى."
+ },
+ "orb:10.1.4.1": {
+  "en": "The entity takes part in CBK coordinated sector wide simulations.",
+  "ar": "تشارك الجهة في محاكاة قطاعية ينسقها بنك الكويت المركزي."
+ },
+ "orb:10.1.5.1": {
+  "en": "Detailed results of exercises and tests are documented for improvement.",
+  "ar": "النتائج المفصلة للتمارين والاختبارات موثقة للتحسين."
+ },
+ "orb:10.1.5.2": {
+  "en": "Testing results are reported to senior management.",
+  "ar": "تُرفع نتائج الاختبار إلى الإدارة العليا."
+ },
+ "orb:10.1.6.1": {
+  "en": "Staff, contractors and vendor staff know their parts of the resilience plans.",
+  "ar": "يعرف الموظفون والمتعاقدون وموظفو الموردين أجزاءهم من خطط المرونة."
+ },
+ "orb:10.1.6.2": {
+  "en": "Employees in resilience disciplines receive specialised training annually.",
+  "ar": "يتلقى الموظفون في تخصصات المرونة تدريباً متخصصاً سنوياً."
+ },
+ "orb:10.1.6.3": {
+  "en": "Top management receives specialised resilience awareness at least annually.",
+  "ar": "تتلقى الإدارة العليا توعية متخصصة بالمرونة سنوياً على الأقل."
+ },
+ "orb:10.1.6.4": {
+  "en": "Attendance and assessment records of training are retained as evidence.",
+  "ar": "تُحفظ سجلات الحضور والتقييم للتدريب دليلاً."
+ },
+ "orb:10.1.6.5": {
+  "en": "The effectiveness of the training and awareness programme is measured.",
+  "ar": "تُقاس فعالية برنامج التدريب والتوعية."
+ },
+ "tprm:3.1.1.1": {
+  "en": "The TPRM policy defines scope, what may and may not be outsourced, roles and the risk appetite for third parties.",
+  "ar": "تحدد سياسة إدارة مخاطر الأطراف الخارجية النطاق وما يجوز إسناده وما لا يجوز والأدوار وشهية المخاطر للأطراف الخارجية."
+ },
+ "tprm:3.1.1.2": {
+  "en": "The policy is approved, implemented, communicated, enforced and accessible to all employees.",
+  "ar": "السياسة معتمدة ومنفذة ومعممة ومطبقة ومتاحة لكل الموظفين."
+ },
+ "tprm:3.1.1.3": {
+  "en": "The policy is reviewed annually or when the third party ecosystem changes significantly.",
+  "ar": "تُراجع السياسة سنوياً أو عند تغير منظومة الأطراف الخارجية تغيراً جوهرياً."
+ },
+ "tprm:3.1.1.4": {
+  "en": "Supporting procedures, processes and guidelines carry out the policy.",
+  "ar": "توجد إجراءات وعمليات وإرشادات داعمة لتنفيذ السياسة."
+ },
+ "tprm:3.1.1.5": {
+  "en": "The policy is approved by senior management and authorised by the board.",
+  "ar": "السياسة معتمدة من الإدارة العليا ومجازة من المجلس."
+ },
+ "tprm:3.1.2.1": {
+  "en": "The TPRM strategy sets the target maturity and objectives aligned with business and regulation.",
+  "ar": "تحدد استراتيجية إدارة مخاطر الأطراف الخارجية النضج المستهدف وأهدافاً تتوافق مع الأعمال والتنظيم."
+ },
+ "tprm:3.1.2.2": {
+  "en": "The strategy is approved, implemented and formally reviewed annually.",
+  "ar": "الاستراتيجية معتمدة ومنفذة وتُراجع رسمياً سنوياً."
+ },
+ "tprm:3.2.1.1": {
+  "en": "Ownership of third party risk is explicitly assigned to risk, procurement, legal, business, finance and IT functions.",
+  "ar": "ملكية مخاطر الأطراف الخارجية مسندة صراحة إلى وظائف المخاطر والمشتريات والقانون والأعمال والمالية وتقنية المعلومات."
+ },
+ "tprm:3.2.2.1": {
+  "en": "Third party risk governance follows the three lines of defence model.",
+  "ar": "تتبع حوكمة مخاطر الأطراف الخارجية نموذج خطوط الدفاع الثلاثة."
+ },
+ "tprm:3.2.3.1": {
+  "en": "Roles and responsibilities are documented in the policies, procedures and charters and communicated to stakeholders.",
+  "ar": "الأدوار والمسؤوليات موثقة في السياسات والإجراءات والمواثيق ومعممة على أصحاب المصلحة."
+ },
+ "tprm:3.3.1.1": {
+  "en": "The board is the ultimate approving authority for the TPRM framework.",
+  "ar": "المجلس هو جهة الاعتماد النهائية لإطار إدارة مخاطر الأطراف الخارجية."
+ },
+ "tprm:3.3.1.2": {
+  "en": "The board allocates the financial, technological and human resources the framework needs.",
+  "ar": "يخصص المجلس الموارد المالية والتقنية والبشرية التي يحتاجها الإطار."
+ },
+ "tprm:3.3.1.3": {
+  "en": "The board has mandated a dedicated TPRM oversight committee with defined authority.",
+  "ar": "كلف المجلس لجنة إشراف مخصصة لمخاطر الأطراف الخارجية بسلطة محددة."
+ },
+ "tprm:3.3.1.4": {
+  "en": "The board receives at least quarterly reports on third party risk from the committee or executives.",
+  "ar": "يتلقى المجلس تقارير كل ثلاثة أشهر على الأقل عن مخاطر الأطراف الخارجية من اللجنة أو التنفيذيين."
+ },
+ "tprm:3.3.2.1": {
+  "en": "The committee reviews risk posture, emerging threats, regulatory developments and remediation.",
+  "ar": "تراجع اللجنة وضع المخاطر والتهديدات الناشئة والمستجدات التنظيمية والمعالجة."
+ },
+ "tprm:3.3.2.2": {
+  "en": "The committee is chaired by a senior executive with third party risk and compliance expertise.",
+  "ar": "يرأس اللجنة تنفيذي كبير ذو خبرة في مخاطر الأطراف الخارجية والالتزام."
+ },
+ "tprm:3.3.2.3": {
+  "en": "The committee has a formal charter approved by the board.",
+  "ar": "للجنة ميثاق رسمي معتمد من المجلس."
+ },
+ "tprm:3.3.2.4": {
+  "en": "The charter states mandate, membership, quarterly meeting frequency and quorum.",
+  "ar": "يبين الميثاق التكليف والعضوية ووتيرة الاجتماع كل ثلاثة أشهر والنصاب."
+ },
+ "tprm:3.3.3.1": {
+  "en": "Senior management executes the framework and integrates it with enterprise risk management.",
+  "ar": "تنفذ الإدارة العليا الإطار وتدمجه في إدارة المخاطر المؤسسية."
+ },
+ "tprm:3.3.3.2": {
+  "en": "Senior management allocates enough resources across the third party lifecycle.",
+  "ar": "تخصص الإدارة العليا موارد كافية عبر دورة حياة الأطراف الخارجية."
+ },
+ "tprm:3.3.3.3": {
+  "en": "Senior management fosters risk awareness and ethical conduct in third party engagements.",
+  "ar": "تعزز الإدارة العليا الوعي بالمخاطر والسلوك الأخلاقي في التعاقدات مع الأطراف الخارجية."
+ },
+ "tprm:3.3.3.4": {
+  "en": "Senior management reviews and implements actions arising from assessments and audits.",
+  "ar": "تراجع الإدارة العليا الإجراءات الناتجة عن التقييمات والتدقيقات وتنفذها."
+ },
+ "tprm:3.3.4.1": {
+  "en": "The head of the TPRM function defines and reviews the strategy.",
+  "ar": "يحدد رئيس وظيفة إدارة مخاطر الأطراف الخارجية الاستراتيجية ويراجعها."
+ },
+ "tprm:3.3.4.2": {
+  "en": "A TPRM function exists with defined roles and executive empowerment.",
+  "ar": "توجد وظيفة لإدارة مخاطر الأطراف الخارجية بأدوار محددة وتخويل تنفيذي."
+ },
+ "tprm:3.3.4.3": {
+  "en": "The function is staffed with vendor risk, compliance, legal and security knowledge.",
+  "ar": "الوظيفة مزودة بموظفين ذوي معرفة بمخاطر الموردين والالتزام والقانون والأمن."
+ },
+ "tprm:3.3.4.4": {
+  "en": "The function owns the policies, procedures and tools for identifying, assessing and monitoring third party risk.",
+  "ar": "تملك الوظيفة السياسات والإجراءات والأدوات لتحديد مخاطر الأطراف الخارجية وتقييمها ومراقبتها."
+ },
+ "tprm:3.3.4.5": {
+  "en": "The function coordinates with business, procurement, legal, compliance, finance, IT and security.",
+  "ar": "تنسق الوظيفة مع الأعمال والمشتريات والقانون والالتزام والمالية وتقنية المعلومات والأمن."
+ },
+ "tprm:3.3.4.6": {
+  "en": "Assessments, due diligence and monitoring are performed consistently under the head of TPRM.",
+  "ar": "تُجرى التقييمات والفحص النافي للجهالة والمراقبة باتساق تحت إشراف رئيس الوظيفة."
+ },
+ "tprm:3.3.4.7": {
+  "en": "Periodic reports on risk posture, emerging risks and remediation reach the oversight committee.",
+  "ar": "تصل تقارير دورية عن وضع المخاطر والمخاطر الناشئة والمعالجة إلى لجنة الإشراف."
+ },
+ "tprm:3.3.4.8": {
+  "en": "The reports reach senior management and the board through the committee.",
+  "ar": "تصل التقارير إلى الإدارة العليا والمجلس عبر اللجنة."
+ },
+ "tprm:3.4.1.1": {
+  "en": "The policy and strategy are reviewed and approved at least annually by senior management or the committee.",
+  "ar": "تُراجع السياسة والاستراتيجية وتُعتمد سنوياً على الأقل من الإدارة العليا أو اللجنة."
+ },
+ "tprm:3.4.2.1": {
+  "en": "Risk assessments including due diligence outcomes and residual ratings are reviewed periodically.",
+  "ar": "تُراجع تقييمات المخاطر بما فيها نتائج الفحص النافي للجهالة والتصنيفات المتبقية دورياً."
+ },
+ "tprm:3.4.2.2": {
+  "en": "Controls mitigating third party risk are evaluated regularly for effectiveness.",
+  "ar": "تُقيّم الضوابط المخففة لمخاطر الأطراف الخارجية بانتظام من حيث الفعالية."
+ },
+ "tprm:3.4.2.3": {
+  "en": "Approvals, reviews and updates to policy, strategy and assessments are documented.",
+  "ar": "الموافقات والمراجعات والتحديثات للسياسة والاستراتيجية والتقييمات موثقة."
+ },
+ "tprm:4.1.1.1": {
+  "en": "The extent to which this vendor supports essential business services is evaluated.",
+  "ar": "مدى دعم هذا المورد للخدمات الأساسية للأعمال مقيّم."
+ },
+ "tprm:4.1.2.1": {
+  "en": "The nature and volume of data this vendor handles is assessed by classification.",
+  "ar": "طبيعة البيانات التي يتعامل معها هذا المورد وحجمها مقيّمان بحسب التصنيف."
+ },
+ "tprm:4.1.3.1": {
+  "en": "Regulatory, licensing and operational dependencies on this vendor are considered in its criticality.",
+  "ar": "الاعتماديات التنظيمية والترخيصية والتشغيلية على هذا المورد مراعاة في تحديد حرجه."
+ },
+ "tprm:4.1.4.1": {
+  "en": "A central inventory of all third parties flags the critical ones.",
+  "ar": "يوجد جرد مركزي لكل الأطراف الخارجية يميز الحرجة منها."
+ },
+ "tprm:4.1.4.2": {
+  "en": "The inventory is kept by the TPRM function and updated at least quarterly or on significant change.",
+  "ar": "تحتفظ وظيفة إدارة مخاطر الأطراف الخارجية بالجرد وتحدثه كل ثلاثة أشهر على الأقل أو عند تغيير جوهري."
+ },
+ "tprm:4.2.1.1": {
+  "en": "This vendor is assessed across financial, operational, cyber, compliance, reputational and concentration risk.",
+  "ar": "يُقيّم هذا المورد عبر المخاطر المالية والتشغيلية والسيبرانية والالتزام والسمعة والتركز."
+ },
+ "tprm:4.2.2.1": {
+  "en": "Quantitative and qualitative scoring places this vendor in a risk tier.",
+  "ar": "يضع التقييم الكمي والنوعي هذا المورد في طبقة مخاطر."
+ },
+ "tprm:4.2.3.1": {
+  "en": "Due diligence was completed at onboarding and reassessment follows the tier and performance.",
+  "ar": "أُنجز الفحص النافي للجهالة عند التعاقد وتتبع إعادة التقييم الطبقة والأداء."
+ },
+ "tprm:4.3.1.1": {
+  "en": "Reliance on this vendor as a single point of failure is identified.",
+  "ar": "الاعتماد على هذا المورد كنقطة فشل فردية محدد."
+ },
+ "tprm:4.3.1.2": {
+  "en": "Concentration risk where this vendor serves multiple critical services is identified.",
+  "ar": "مخاطر التركز حيث يخدم هذا المورد عدة خدمات حرجة محددة."
+ },
+ "tprm:4.3.2.1": {
+  "en": "Interconnections between this vendor and internal processes, systems and other vendors are documented.",
+  "ar": "الترابطات بين هذا المورد والعمليات والأنظمة الداخلية والموردين الآخرين موثقة."
+ },
+ "tprm:4.3.2.2": {
+  "en": "The dependency map feeds continuity and disaster recovery strategies.",
+  "ar": "تغذي خريطة الاعتماديات استراتيجيات الاستمرارية والتعافي من الكوارث."
+ },
+ "tprm:5.1.1.1": {
+  "en": "The vendor holds and evidences all approvals, licences and permits its service needs.",
+  "ar": "يحمل المورد كل الموافقات والتراخيص والتصاريح التي تحتاجها خدمته ويقدم أدلتها."
+ },
+ "tprm:5.2.1.1": {
+  "en": "A consolidated repository holds all third party contracts including purchase orders and non purchase order engagements.",
+  "ar": "يضم مستودع موحد كل عقود الأطراف الخارجية بما فيها أوامر الشراء والتعاقدات دون أوامر شراء."
+ },
+ "tprm:5.2.1.2": {
+  "en": "This engagement is governed by a legally binding agreement executed by authorised signatories.",
+  "ar": "يحكم هذا التعاقد اتفاق ملزم قانوناً موقع من مفوضين بالتوقيع."
+ },
+ "tprm:5.2.2.1": {
+  "en": "The agreement is duly executed by authorised signatories on both sides.",
+  "ar": "الاتفاق موقع أصولاً من مفوضين بالتوقيع لدى الطرفين."
+ },
+ "tprm:5.2.2.2": {
+  "en": "Legal counsel reviewed the agreement for enforceability before execution and copies are retained.",
+  "ar": "راجع المستشار القانوني الاتفاق من حيث قابلية الإنفاذ قبل التوقيع وتُحفظ نسخ منه."
+ },
+ "tprm:5.3.1.1": {
+  "en": "A structured process regularly monitors the vendor's compliance with contractual obligations.",
+  "ar": "توجد عملية منظمة تراقب بانتظام التزام المورد بالتزاماته التعاقدية."
+ },
+ "tprm:5.3.1.2": {
+  "en": "Monitoring is documented and deviations are escalated and corrected.",
+  "ar": "المراقبة موثقة وتُصعد الانحرافات وتُصحح."
+ },
+ "tprm:5.4.1.1": {
+  "en": "The agreement carries environmental, health and safety obligations for on site work.",
+  "ar": "يحمل الاتفاق التزامات البيئة والصحة والسلامة للعمل في الموقع."
+ },
+ "tprm:5.5.1.1": {
+  "en": "The vendor's financial viability is assessed on a risk basis throughout the engagement.",
+  "ar": "الجدوى المالية للمورد مقيّمة على أساس المخاطر طوال التعاقد."
+ },
+ "tprm:5.6.1.1": {
+  "en": "An anti bribery and anti corruption policy proportionate to the engagement is documented and approved.",
+  "ar": "توجد سياسة لمكافحة الرشوة والفساد متناسبة مع التعاقد موثقة ومعتمدة."
+ },
+ "tprm:5.6.1.2": {
+  "en": "The policy is communicated to relevant staff and agents and built into the contract where appropriate.",
+  "ar": "السياسة معممة على الموظفين والوكلاء المعنيين ومدمجة في العقد حيث يلزم."
+ },
+ "tprm:5.6.1.3": {
+  "en": "The policy is reviewed at least annually or on significant regulatory or operational change.",
+  "ar": "تُراجع السياسة سنوياً على الأقل أو عند تغيير تنظيمي أو تشغيلي جوهري."
+ },
+ "tprm:5.6.2.1": {
+  "en": "The vendor identifies and tracks the legislative, regulatory and contractual security requirements that apply to it.",
+  "ar": "يحدد المورد المتطلبات الأمنية التشريعية والتنظيمية والتعاقدية المنطبقة عليه ويتابعها."
+ },
+ "tprm:5.6.3.1": {
+  "en": "The vendor keeps a compliance register, reviews it on legal change and assigns ownership.",
+  "ar": "يحتفظ المورد بسجل التزام ويراجعه عند تغير القوانين ويسند ملكيته."
+ },
+ "tprm:5.7.1.1": {
+  "en": "The vendor discloses regulatory investigations or audits for alleged non compliance.",
+  "ar": "يفصح المورد عن التحقيقات أو التدقيقات التنظيمية بشأن مخالفات مزعومة."
+ },
+ "tprm:6.1.1.1": {
+  "en": "This vendor is reassessed at intervals set by tier, criticality and performance and on trigger events.",
+  "ar": "يُعاد تقييم هذا المورد على فترات تحددها الطبقة والحرج والأداء وعند الأحداث المحفزة."
+ },
+ "tprm:6.1.2.1": {
+  "en": "New risk vectors from legal, threat and dependency changes are monitored continuously.",
+  "ar": "تُراقب نواقل المخاطر الجديدة من تغيرات القانون والتهديدات والاعتماديات باستمرار."
+ },
+ "tprm:6.1.3.1": {
+  "en": "Each identified risk has a treatment plan with owner, actions, timeline and status.",
+  "ar": "لكل خطر محدد خطة معالجة بمالك وإجراءات ومهلة زمنية وحالة."
+ },
+ "tprm:6.2.1.1": {
+  "en": "This vendor is classified by inherent risk and by residual risk after controls.",
+  "ar": "هذا المورد مصنف بحسب المخاطر الكامنة والمخاطر المتبقية بعد الضوابط."
+ },
+ "tprm:6.2.2.1": {
+  "en": "The classification sets the frequency and depth of due diligence, monitoring and audit.",
+  "ar": "يحدد التصنيف وتيرة الفحص النافي للجهالة والمراقبة والتدقيق وعمقها."
+ },
+ "tprm:6.2.3.1": {
+  "en": "Classification and oversight practices follow regulatory guidance and international standards.",
+  "ar": "تتبع ممارسات التصنيف والإشراف الإرشادات التنظيمية والمعايير الدولية."
+ },
+ "tprm:6.3.1.1": {
+  "en": "Service delivery is tracked against agreed service levels and performance indicators.",
+  "ar": "يُتابع تقديم الخدمة وفق مستويات الخدمة ومؤشرات الأداء المتفق عليها."
+ },
+ "tprm:6.3.2.1": {
+  "en": "Compliance with contract, regulation and policy is monitored and emerging risks such as geopolitical or financial stress are identified.",
+  "ar": "يُراقب الالتزام بالعقد والتنظيم والسياسة وتُحدد المخاطر الناشئة مثل الضغوط الجيوسياسية أو المالية."
+ },
+ "tprm:6.3.3.1": {
+  "en": "Risk intelligence tooling provides real time alerts and external signals about the vendor.",
+  "ar": "توفر أدوات استخبارات المخاطر تنبيهات فورية وإشارات خارجية عن المورد."
+ },
+ "tprm:7.1.1.1": {
+  "en": "The vendor maintains documented and approved business continuity and disaster recovery plans.",
+  "ar": "يحتفظ المورد بخطط موثقة ومعتمدة لاستمرارية الأعمال والتعافي من الكوارث."
+ },
+ "tprm:7.2.1.1": {
+  "en": "The vendor periodically reviews and updates its backup policies and plans.",
+  "ar": "يراجع المورد سياسات النسخ الاحتياطي وخططه ويحدثها دورياً."
+ },
+ "tprm:7.2.2.1": {
+  "en": "The vendor has an approved backup policy and procedure governing execution and oversight.",
+  "ar": "للمورد سياسة وإجراء معتمدان للنسخ الاحتياطي يحكمان التنفيذ والإشراف."
+ },
+ "tprm:7.2.3.1": {
+  "en": "The vendor's change management replicates changes consistently to contingency environments.",
+  "ar": "تنقل إدارة التغيير لدى المورد التغييرات باتساق إلى بيئات الطوارئ."
+ },
+ "tprm:7.3.1.1": {
+  "en": "The vendor maintains a disaster recovery centre for major disruptions.",
+  "ar": "يحتفظ المورد بمركز للتعافي من الكوارث للاضطرابات الكبرى."
+ },
+ "tprm:7.3.1.2": {
+  "en": "Key infrastructure runs in high availability mode.",
+  "ar": "تعمل البنية التحتية الرئيسية في وضع التوافر العالي."
+ },
+ "tprm:7.3.2.1": {
+  "en": "The vendor periodically tests its continuity plans and shares the results.",
+  "ar": "يختبر المورد خطط الاستمرارية دورياً ويشارك النتائج."
+ },
+ "tprm:7.3.2.2": {
+  "en": "Recovery time and recovery point objectives are defined for all critical services the vendor provides.",
+  "ar": "زمن الاستعادة ونقطة الاستعادة محددان لكل الخدمات الحرجة التي يقدمها المورد."
+ },
+ "tprm:7.3.2.3": {
+  "en": "Those objectives are reviewed periodically against impact assessments and service expectations.",
+  "ar": "تُراجع تلك الأهداف دورياً وفق تقييمات الأثر وتوقعات الخدمة."
+ },
+ "tprm:7.4.1.1": {
+  "en": "The vendor performs periodic restoration tests of backups and documents each test.",
+  "ar": "يجري المورد اختبارات استعادة دورية للنسخ الاحتياطية ويوثق كل اختبار."
+ },
+ "tprm:7.4.1.2": {
+  "en": "Discrepancies found in testing are reported and corrected promptly.",
+  "ar": "يُبلغ عن الفروقات المكتشفة أثناء الاختبار وتُصحح فوراً."
+ },
+ "tprm:7.5.1.1": {
+  "en": "Contractual guarantees such as service level agreements secure reliability and accountability.",
+  "ar": "تؤمّن الضمانات التعاقدية مثل اتفاقيات مستوى الخدمة الموثوقية والمساءلة."
+ },
+ "tprm:8.1.1.1": {
+  "en": "The applicable detection and monitoring controls of the cyber baseline are evaluated for this vendor.",
+  "ar": "ضوابط الكشف والمراقبة المنطبقة من الضوابط الأساسية السيبرانية مقيّمة لهذا المورد."
+ },
+ "tprm:8.1.1.2": {
+  "en": "The vendor runs real time security monitoring that alerts on unauthorised or anomalous activity.",
+  "ar": "يشغّل المورد مراقبة أمنية فورية تنبه على النشاط غير المصرح به أو الشاذ."
+ },
+ "tprm:8.1.1.3": {
+  "en": "The vendor detects abnormal behaviour that may indicate compromised accounts or insiders.",
+  "ar": "يكشف المورد السلوك غير الطبيعي الذي قد يدل على حسابات مخترقة أو مطلعين."
+ },
+ "tprm:8.1.1.4": {
+  "en": "The vendor consumes actionable threat intelligence in its detection.",
+  "ar": "يستهلك المورد استخبارات تهديدات قابلة للتنفيذ في الكشف."
+ },
+ "tprm:8.1.2.1": {
+  "en": "The vendor keeps centralised tamper resistant logs with defined retention and review schedules.",
+  "ar": "يحتفظ المورد بسجلات مركزية مقاومة للعبث بفترات احتفاظ وجداول مراجعة محددة."
+ },
+ "tprm:8.1.2.2": {
+  "en": "Heightened monitoring covers the vendor's mission critical systems such as finance and authentication.",
+  "ar": "تغطي المراقبة المعززة الأنظمة الحرجة لدى المورد مثل المالية والتوثيق."
+ },
+ "tprm:8.1.2.3": {
+  "en": "Alerts are triaged by severity, impact, asset criticality and data sensitivity.",
+  "ar": "تُفرز التنبيهات بحسب الشدة والأثر وحرج الأصل وحساسية البيانات."
+ },
+ "tprm:8.1.2.4": {
+  "en": "The scope of logged systems is defined and reviewed periodically.",
+  "ar": "نطاق الأنظمة المسجلة محدد ويُراجع دورياً."
+ },
+ "tprm:8.1.2.5": {
+  "en": "Unauthorised or unusual internal user actions are detected with context.",
+  "ar": "تُكشف الإجراءات غير المصرح بها أو غير المعتادة للمستخدمين الداخليين مع سياقها."
+ },
+ "tprm:8.1.2.6": {
+  "en": "Cloud platforms capture administrative actions, user activity and configuration changes.",
+  "ar": "تلتقط المنصات السحابية الإجراءات الإدارية ونشاط المستخدمين وتغييرات الإعدادات."
+ },
+ "tprm:8.1.2.7": {
+  "en": "SaaS platforms integrate with SIEM or CASB tooling with notifications for critical activity.",
+  "ar": "تتكامل منصات SaaS مع أدوات SIEM أو CASB مع إشعارات للنشاط الحرج."
+ },
+ "tprm:8.1.2.8": {
+  "en": "Secure anonymous channels let employees and third parties report suspected incidents.",
+  "ar": "تتيح قنوات آمنة مجهولة للموظفين والأطراف الخارجية الإبلاغ عن الحوادث المشتبه بها."
+ },
+ "tprm:8.2.1.1": {
+  "en": "An incident escalation matrix with severity levels, responsibilities and timelines is agreed with the vendor.",
+  "ar": "توجد مصفوفة لتصعيد الحوادث بمستويات الشدة والمسؤوليات والمهل الزمنية متفق عليها مع المورد."
+ },
+ "tprm:8.2.1.2": {
+  "en": "Internal notification protocols promptly inform leadership, legal and compliance.",
+  "ar": "تبلغ بروتوكولات الإخطار الداخلي القيادة والقانون والالتزام فوراً."
+ },
+ "tprm:8.2.1.3": {
+  "en": "Legal and regulatory reporting thresholds follow the operational resilience timelines.",
+  "ar": "تتبع عتبات الإبلاغ القانوني والتنظيمي مواعيد المرونة التشغيلية."
+ },
+ "tprm:8.2.1.4": {
+  "en": "Criteria, channels and templates exist for notifying affected customers of breaches.",
+  "ar": "توجد معايير وقنوات ونماذج لإبلاغ العملاء المتأثرين بالخروقات."
+ },
+ "tprm:8.2.1.5": {
+  "en": "Procedures govern media, public and social media messaging during vendor incidents.",
+  "ar": "تحكم الإجراءات التواصل الإعلامي والعام وعبر وسائل التواصل أثناء حوادث الموردين."
+ },
+ "tprm:8.2.1.6": {
+  "en": "The agreement provides for mutual notification, impact assessment and joint response.",
+  "ar": "ينص الاتفاق على الإخطار المتبادل وتقييم الأثر والاستجابة المشتركة."
+ },
+ "tprm:8.2.2.1": {
+  "en": "Secure redundant communication tools are available for use during incidents.",
+  "ar": "تتوفر أدوات تواصل آمنة ومتكررة للاستخدام أثناء الحوادث."
+ },
+ "tprm:8.2.2.2": {
+  "en": "Communication trees, escalation paths and approval chains are tested periodically.",
+  "ar": "تُختبر أشجار التواصل ومسارات التصعيد وسلاسل الموافقة دورياً."
+ },
+ "tprm:8.2.2.3": {
+  "en": "Detailed logs of incident communications with timestamps and participants are kept.",
+  "ar": "تُحفظ سجلات مفصلة لاتصالات الحوادث مع الأوقات والمشاركين."
+ },
+ "tprm:8.3.1.1": {
+  "en": "Formal root cause analysis is performed and documented for high and medium incidents.",
+  "ar": "يُجرى تحليل جذري رسمي ويُوثق للحوادث العالية والمتوسطة."
+ },
+ "tprm:8.3.1.2": {
+  "en": "Root cause reports with background, causes, corrective and preventive actions are shared with the entity.",
+  "ar": "تُشارك تقارير التحليل الجذري بالخلفية والأسباب والإجراءات التصحيحية والوقائية مع الجهة."
+ },
+ "tprm:8.3.1.3": {
+  "en": "Security, IT, legal and business stakeholders have defined roles in the analysis.",
+  "ar": "لأصحاب المصلحة من الأمن وتقنية المعلومات والقانون والأعمال أدوار محددة في التحليل."
+ },
+ "tprm:8.3.2.1": {
+  "en": "Forensic evidence is collected and preserved with a documented chain of custody.",
+  "ar": "تُجمع الأدلة الجنائية الرقمية وتُحفظ بسلسلة حيازة موثقة."
+ },
+ "tprm:8.3.2.2": {
+  "en": "Incident timelines from detection to recovery are reconstructed from logs and communications.",
+  "ar": "يُعاد بناء الجدول الزمني للحادث من الكشف إلى الاستعادة من السجلات والاتصالات."
+ },
+ "tprm:8.3.2.3": {
+  "en": "Control failures and process weaknesses behind the incident are documented.",
+  "ar": "إخفاقات الضوابط ونقاط ضعف العمليات خلف الحادث موثقة."
+ },
+ "tprm:8.3.3.1": {
+  "en": "Past incidents are reviewed for trends and recurring weaknesses.",
+  "ar": "تُراجع الحوادث السابقة لكشف الاتجاهات ونقاط الضعف المتكررة."
+ },
+ "tprm:8.3.3.2": {
+  "en": "A central repository of lessons learned drives future improvement.",
+  "ar": "يوجد مستودع مركزي للدروس المستفادة يقود التحسين المستقبلي."
+ },
+ "tprm:8.3.3.3": {
+  "en": "Changes from the analysis update playbooks, procedures, detection rules and configurations.",
+  "ar": "تُحدث التغييرات الناتجة عن التحليل الكتيبات والإجراءات وقواعد الكشف والإعدادات."
+ },
+ "tprm:8.3.3.4": {
+  "en": "Closure of analysis action items is tracked with indicators and reported periodically.",
+  "ar": "يُتابع إغلاق بنود عمل التحليل بمؤشرات ويُبلغ عنه دورياً."
+ },
+ "tprm:9.1.1.1": {
+  "en": "The vendor has an encryption policy covering sensitive data in transit and at rest.",
+  "ar": "للمورد سياسة تشفير تغطي البيانات الحساسة أثناء النقل والتخزين."
+ },
+ "tprm:9.1.1.2": {
+  "en": "A centralised key management system handles generation, rotation, storage, revocation and disposal of keys.",
+  "ar": "يتولى نظام مركزي لإدارة المفاتيح توليدها وتدويرها وتخزينها وإلغاءها والتخلص منها."
+ },
+ "tprm:9.1.1.3": {
+  "en": "Personal data over public or untrusted networks is encrypted with strong protocols.",
+  "ar": "البيانات الشخصية عبر الشبكات العامة أو غير الموثوقة مشفرة ببروتوكولات قوية."
+ },
+ "tprm:9.1.1.4": {
+  "en": "Personal data stored in databases, files, devices and media is encrypted with approved algorithms.",
+  "ar": "البيانات الشخصية المخزنة في قواعد البيانات والملفات والأجهزة والوسائط مشفرة بخوارزميات معتمدة."
+ },
+ "tprm:9.1.1.5": {
+  "en": "Encryption is enforced on all end user devices that hold personal data.",
+  "ar": "التشفير مفروض على كل أجهزة المستخدمين التي تحمل بيانات شخصية."
+ },
+ "tprm:9.1.1.6": {
+  "en": "Sensitive data is masked or anonymised before use in development, test or sandbox environments.",
+  "ar": "تُقنّع البيانات الحساسة أو تُجهّل قبل استخدامها في بيئات التطوير أو الاختبار أو التجربة."
+ },
+ "tprm:9.1.1.7": {
+  "en": "Tokenisation or pseudonymisation reduces the identifiability of personal data where appropriate.",
+  "ar": "يقلل الترميز أو التعمية قابلية تحديد هوية أصحاب البيانات الشخصية حيث يلزم."
+ },
+ "tprm:9.1.1.8": {
+  "en": "Approved masking tools redact or substitute sensitive fields consistently.",
+  "ar": "تحجب أدوات التقنيع المعتمدة الحقول الحساسة أو تستبدلها باتساق."
+ },
+ "tprm:9.1.1.9": {
+  "en": "Backups and snapshots containing personal data are encrypted at rest.",
+  "ar": "النسخ الاحتياطية واللقطات الحاوية لبيانات شخصية مشفرة أثناء التخزين."
+ },
+ "tprm:9.1.1.10": {
+  "en": "Standardised approved algorithms such as AES-256 are used, with a post quantum roadmap for interim examples such as RSA 2048.",
+  "ar": "تُستخدم خوارزميات معتمدة موحدة مثل AES-256 مع خارطة طريق لما بعد الكم للأمثلة المؤقتة مثل RSA 2048."
+ },
+ "tprm:9.1.1.11": {
+  "en": "Access to encrypted personal data is limited to authorised staff and decryption activity is monitored.",
+  "ar": "الوصول إلى البيانات الشخصية المشفرة مقصور على الموظفين المصرح لهم ونشاط فك التشفير مراقب."
+ },
+ "tprm:9.1.1.12": {
+  "en": "Encryption implementation is reviewed regularly against the policy to detect deviations.",
+  "ar": "يُراجع تنفيذ التشفير بانتظام وفق السياسة لكشف الانحرافات."
+ },
+ "tprm:9.2.1.1": {
+  "en": "A personal data retention policy sets maximum retention periods per category.",
+  "ar": "تحدد سياسة للاحتفاظ بالبيانات الشخصية الحد الأقصى لمدد الاحتفاظ لكل فئة."
+ },
+ "tprm:9.2.1.2": {
+  "en": "Retention periods are mapped to each processing activity and its original purpose.",
+  "ar": "مدد الاحتفاظ مربوطة بكل نشاط معالجة وغرضه الأصلي."
+ },
+ "tprm:9.2.1.3": {
+  "en": "Legal and regulatory retention requirements are identified and built into the schedule.",
+  "ar": "متطلبات الاحتفاظ القانونية والتنظيمية محددة ومدمجة في الجدول."
+ },
+ "tprm:9.2.1.4": {
+  "en": "Retained personal data is reviewed regularly and records past their limit are flagged for disposal.",
+  "ar": "تُراجع البيانات الشخصية المحتفظ بها بانتظام وتُميز السجلات المتجاوزة لحدها للتخلص منها."
+ },
+ "tprm:9.2.1.5": {
+  "en": "Technical and procedural safeguards permanently destroy personal data at end of life.",
+  "ar": "تتلف الضمانات التقنية والإجرائية البيانات الشخصية نهائياً عند نهاية عمرها."
+ },
+ "tprm:9.2.1.6": {
+  "en": "Disposal activities are logged with time, person, method and confirmation.",
+  "ar": "تُسجل أنشطة التخلص مع الوقت والشخص والطريقة والتأكيد."
+ },
+ "tprm:9.2.1.7": {
+  "en": "Systems automatically delete or anonymise personal data on retention triggers.",
+  "ar": "تحذف الأنظمة البيانات الشخصية أو تجهلها تلقائياً عند محفزات الاحتفاظ."
+ },
+ "tprm:9.2.1.8": {
+  "en": "Archived personal data is reviewed periodically for necessity and timely removal.",
+  "ar": "تُراجع البيانات الشخصية المؤرشفة دورياً من حيث الضرورة والإزالة في الوقت المناسب."
+ },
+ "tprm:9.2.1.9": {
+  "en": "The contract has enforceable clauses for secure disposal or return of data on termination.",
+  "ar": "في العقد بنود قابلة للإنفاذ للتخلص الآمن من البيانات أو إعادتها عند الإنهاء."
+ },
+ "tprm:9.2.1.10": {
+  "en": "Exceptions to retention schedules are justified, documented and approved.",
+  "ar": "الاستثناءات من جداول الاحتفاظ مبررة وموثقة ومعتمدة."
+ },
+ "tprm:9.2.1.11": {
+  "en": "Cloud providers used by the vendor support complete, auditable and timely deletion from all storage layers.",
+  "ar": "يدعم مزودو السحابة الذين يستخدمهم المورد حذفاً كاملاً وقابلاً للتدقيق وفي الوقت المناسب من كل طبقات التخزين."
+ },
+ "tprm:9.2.2.1": {
+  "en": "Retention and secure disposal are part of the vendor's privacy training with comprehension monitored.",
+  "ar": "الاحتفاظ والتخلص الآمن جزء من تدريب الخصوصية لدى المورد مع متابعة الفهم."
+ },
+ "tprm:9.3.1.1": {
+  "en": "The vendor keeps a central real time inventory of sensitive data assets with source, classification and location.",
+  "ar": "يحتفظ المورد بجرد مركزي فوري لأصول البيانات الحساسة مع المصدر والتصنيف والموقع."
+ },
+ "tprm:9.3.1.2": {
+  "en": "A classification policy categorises personal data by sensitivity and processing risk.",
+  "ar": "تصنف سياسة تصنيف البيانات الشخصية بحسب الحساسية ومخاطر المعالجة."
+ },
+ "tprm:9.3.1.3": {
+  "en": "Personal data is labelled or tagged in storage systems and applications with its classification.",
+  "ar": "البيانات الشخصية موسومة في أنظمة التخزين والتطبيقات بتصنيفها."
+ },
+ "tprm:9.3.1.4": {
+  "en": "Each personal data category has a responsible data owner.",
+  "ar": "لكل فئة من البيانات الشخصية مالك بيانات مسؤول."
+ },
+ "tprm:9.3.1.5": {
+  "en": "Personal data storage locations across environments are mapped and traceable.",
+  "ar": "مواقع تخزين البيانات الشخصية عبر البيئات مخططة وقابلة للتتبع."
+ },
+ "tprm:9.3.1.6": {
+  "en": "Role based access limits access to personal data by classification.",
+  "ar": "يقيد التحكم في الوصول القائم على الأدوار الوصول إلى البيانات الشخصية بحسب التصنيف."
+ },
+ "tprm:9.3.1.7": {
+  "en": "Inventories, ownership and classification tags are reviewed at least annually or on significant change.",
+  "ar": "تُراجع الجرود والملكية ووسوم التصنيف سنوياً على الأقل أو عند تغيير جوهري."
+ },
+ "tprm:9.3.2.1": {
+  "en": "Handling procedures per classification level cover storage, transfer, encryption and disposal.",
+  "ar": "تغطي إجراءات التداول لكل مستوى تصنيف التخزين والنقل والتشفير والتخلص."
+ },
+ "tprm:9.3.2.2": {
+  "en": "Cross border personal data transfers are mapped with their mechanisms and destinations.",
+  "ar": "عمليات نقل البيانات الشخصية عبر الحدود مخططة مع آلياتها ووجهاتها."
+ },
+ "tprm:9.3.2.3": {
+  "en": "Automated discovery and classification tools scan repositories and tag personal data.",
+  "ar": "تفحص أدوات الاكتشاف والتصنيف الآلية المستودعات وتوسم البيانات الشخصية."
+ },
+ "tprm:9.3.2.4": {
+  "en": "Each classified personal data item has a documented lawful basis for processing.",
+  "ar": "لكل بند بيانات شخصية مصنف أساس قانوني موثق للمعالجة."
+ },
+ "tprm:9.3.3.1": {
+  "en": "Relevant staff are trained on the classification policy and handling techniques.",
+  "ar": "الموظفون المعنيون مدربون على سياسة التصنيف وأساليب التداول."
+ },
+ "tprm:10.1.1.1": {
+  "en": "Subcontracting is disclosed and approved by the entity before use and the fourth parties are identified.",
+  "ar": "يُفصح عن التعاقد من الباطن ويُعتمد من الجهة قبل استخدامه وتُحدد الأطراف الرابعة."
+ },
+ "tprm:10.2.1.1": {
+  "en": "A signed subcontracting agreement exists and the subcontractors are risk assessed and monitored.",
+  "ar": "يوجد اتفاق تعاقد من الباطن موقع والمقاولون من الباطن مقيّمون من حيث المخاطر ومراقبون."
+ },
+ "tprm:11.1.1.1": {
+  "en": "An off boarding process covers deactivation and blacklisting scenarios while preserving service continuity.",
+  "ar": "توجد عملية لإنهاء التعاقد تغطي سيناريوهات التعطيل والحظر مع الحفاظ على استمرارية الخدمة."
+ },
+ "tprm:11.1.1.2": {
+  "en": "A formal off boarding checklist exists for this engagement.",
+  "ar": "توجد قائمة تحقق رسمية لإنهاء هذا التعاقد."
+ },
+ "tprm:11.1.1.3": {
+  "en": "The agreement carries exit, end of agreement and termination clauses.",
+  "ar": "يحمل الاتفاق بنود الخروج وانتهاء الاتفاق والإنهاء."
+ },
+ "tprm:11.1.1.4": {
+  "en": "Knowledge transfer sessions hand over process documents and know how at exit.",
+  "ar": "تسلّم جلسات نقل المعرفة وثائق العمليات والدراية عند الخروج."
+ },
+ "tprm:11.1.1.5": {
+  "en": "A disposal certificate is obtained after the vendor deletes the entity's information.",
+  "ar": "تُؤخذ شهادة تخلص بعد أن يحذف المورد معلومات الجهة."
+ },
+ "tprm:12.1.1.1": {
+  "en": "Role based access control governs every storage environment holding the entity's data.",
+  "ar": "يحكم التحكم في الوصول القائم على الأدوار كل بيئة تخزين تحمل بيانات الجهة."
+ },
+ "tprm:12.1.1.2": {
+  "en": "Storage for different data classifications is logically or physically segregated.",
+  "ar": "التخزين لتصنيفات البيانات المختلفة مفصول منطقياً أو مادياً."
+ },
+ "tprm:12.1.1.3": {
+  "en": "An inventory of all physical and cloud storage locations holding the entity's data is maintained.",
+  "ar": "يوجد جرد لكل مواقع التخزين المادية والسحابية التي تحمل بيانات الجهة."
+ },
+ "tprm:12.1.1.4": {
+  "en": "Portable storage use is restricted with encryption and tracking enforced.",
+  "ar": "استخدام وسائط التخزين المحمولة مقيد مع فرض التشفير والتتبع."
+ },
+ "tprm:12.1.2.1": {
+  "en": "Baseline configurations for storage systems cover permissions, patch levels and hardening.",
+  "ar": "تغطي إعدادات خط الأساس لأنظمة التخزين الصلاحيات ومستويات التصحيح والتحصين."
+ },
+ "tprm:12.1.2.2": {
+  "en": "Cloud storage is configured with encryption, access control, logging and data residency compliance.",
+  "ar": "التخزين السحابي مهيأ بالتشفير والتحكم في الوصول والتسجيل والالتزام بموقع البيانات."
+ },
+ "tprm:12.1.2.3": {
+  "en": "Network segmentation isolates critical storage from general corporate networks.",
+  "ar": "يعزل تقسيم الشبكة التخزين الحرج عن الشبكات المؤسسية العامة."
+ },
+ "tprm:12.2.1.1": {
+  "en": "Storage platforms automatically enforce retention periods and flag or delete expired data.",
+  "ar": "تفرض منصات التخزين مدد الاحتفاظ تلقائياً وتميز البيانات المنتهية أو تحذفها."
+ },
+ "tprm:12.2.1.2": {
+  "en": "Data is deleted with secure methods such as cryptographic erase or secure wipe.",
+  "ar": "تُحذف البيانات بأساليب آمنة مثل المحو التشفيري أو المسح الآمن."
+ },
+ "tprm:12.2.1.3": {
+  "en": "Backup repositories follow the same retention, access and encryption policies as primary data.",
+  "ar": "تتبع مستودعات النسخ الاحتياطي سياسات الاحتفاظ والوصول والتشفير نفسها المطبقة على البيانات الأصلية."
+ },
+ "tprm:12.2.2.1": {
+  "en": "Archival policies keep only essential inactive data and keep it accessible.",
+  "ar": "تحتفظ سياسات الأرشفة بالبيانات غير النشطة الضرورية فقط وتبقيها متاحة."
+ },
+ "tprm:12.2.2.2": {
+  "en": "Scheduled reviews purge non essential or obsolete records under data minimisation.",
+  "ar": "تحذف المراجعات المجدولة السجلات غير الضرورية أو المتقادمة وفق تقليل البيانات."
+ },
+ "tprm:12.2.2.3": {
+  "en": "Storage platforms are audited periodically for compliance with retention and deletion policies.",
+  "ar": "تُدقق منصات التخزين دورياً للتأكد من الالتزام بسياسات الاحتفاظ والحذف."
+ },
+ "tprm:12.2.2.4": {
+  "en": "Data migration procedures preserve security, classification and integrity across platforms.",
+  "ar": "تحافظ إجراءات ترحيل البيانات على الأمن والتصنيف والسلامة عبر المنصات."
+ },
+ "tprm:12.2.2.5": {
+  "en": "Stored data sets are evaluated periodically to remove unnecessary personal or duplicate data.",
+  "ar": "تُقيّم مجموعات البيانات المخزنة دورياً لإزالة البيانات الشخصية غير الضرورية أو المكررة."
+ },
+ "tprm:12.2.2.6": {
+  "en": "Storage redundancy such as replication matches criticality and availability needs.",
+  "ar": "يوافق تكرار التخزين مثل النسخ المتماثل احتياجات الحرج والتوافر."
+ },
+ "tprm:12.3.1.1": {
+  "en": "Backup and restoration procedures for all critical data are established and tested.",
+  "ar": "إجراءات النسخ الاحتياطي والاستعادة لكل البيانات الحرجة قائمة ومختبرة."
+ },
+ "tprm:12.3.1.2": {
+  "en": "Automated integrity checks such as hashes detect corruption or unauthorised change of stored data.",
+  "ar": "تكشف فحوص السلامة الآلية مثل التجزئة التلف أو التغيير غير المصرح به في البيانات المخزنة."
+ },
+ "tprm:12.3.1.3": {
+  "en": "Storage systems have fault tolerance such as failover and replication.",
+  "ar": "لأنظمة التخزين تحمل للأعطال مثل التحويل الاحتياطي والنسخ المتماثل."
+ },
+ "tprm:12.3.1.4": {
+  "en": "Time bound objectives for restoring data access are defined and monitored.",
+  "ar": "أهداف زمنية لاستعادة الوصول إلى البيانات محددة ومراقبة."
+ },
+ "tprm:12.3.1.5": {
+  "en": "Critical logs, audit trails and evidence use write once or immutable storage.",
+  "ar": "تستخدم السجلات الحرجة وآثار التدقيق والأدلة تخزيناً للكتابة مرة واحدة أو غير قابل للتعديل."
+ },
+ "tprm:12.3.1.6": {
+  "en": "Storage infrastructure is integrated with the enterprise disaster recovery plan.",
+  "ar": "البنية التحتية للتخزين مدمجة في خطة التعافي من الكوارث المؤسسية."
+ },
+ "tprm:13.1.1.1": {
+  "en": "Cross border payments route only through licensed payment systems recognised by CBK.",
+  "ar": "تمر المدفوعات عبر الحدود حصراً عبر أنظمة دفع مرخصة يعترف بها بنك الكويت المركزي."
+ },
+ "tprm:13.1.1.2": {
+  "en": "Complete trade documentation such as invoices, bills of lading and customs entries is retained.",
+  "ar": "تُحفظ وثائق التجارة الكاملة مثل الفواتير وبوالص الشحن والقيود الجمركية."
+ },
+ "tprm:13.1.1.3": {
+  "en": "Counterparties and transactions are screened against FATF, UN, US, EU and other sanctions lists.",
+  "ar": "تُفحص الأطراف المقابلة والمعاملات وفق قوائم العقوبات من FATF والأمم المتحدة والولايات المتحدة والاتحاد الأوروبي وغيرها."
+ },
+ "tprm:13.1.1.4": {
+  "en": "Valid legal entity identifiers are collected and validated for counterparties above defined thresholds.",
+  "ar": "تُجمع معرفات الكيانات القانونية الصالحة وتُتحقق للأطراف المقابلة فوق العتبات المحددة."
+ },
+ "tprm:13.1.1.5": {
+  "en": "Cross border transactions carry the required CBK approvals and foreign exchange authorisations.",
+  "ar": "تحمل المعاملات عبر الحدود موافقات بنك الكويت المركزي وتصاريح الصرف الأجنبي المطلوبة."
+ },
+ "tprm:13.2.1.1": {
+  "en": "Comprehensive KYC including beneficial ownership precedes cross border transactions.",
+  "ar": "يسبق التعرف الشامل على العميل بما فيه المستفيد الحقيقي المعاملات عبر الحدود."
+ },
+ "tprm:13.2.1.2": {
+  "en": "Risk based due diligence weighs jurisdiction, transaction size and customer profile with findings documented.",
+  "ar": "يزن الفحص النافي للجهالة القائم على المخاطر الولاية القضائية وحجم المعاملة وملف العميل مع توثيق النتائج."
+ },
+ "tprm:13.2.1.3": {
+  "en": "Enhanced due diligence with source of funds and senior approval applies to politically exposed persons, high risk countries and large transactions.",
+  "ar": "يُطبق فحص معزز مع مصدر الأموال وموافقة الإدارة العليا على الأشخاص المعرضين سياسياً والدول عالية المخاطر والمعاملات الكبيرة."
+ },
+ "tprm:13.2.1.4": {
+  "en": "Full originator and beneficiary details travel with every cross border transaction per FATF Recommendation 16.",
+  "ar": "تنتقل تفاصيل الآمر والمستفيد الكاملة مع كل معاملة عبر الحدود وفق توصية FATF رقم 16."
+ },
+ "tprm:13.2.1.5": {
+  "en": "AML and CFT controls of correspondent banks are assessed and documented per FATF and BIS guidance.",
+  "ar": "ضوابط مكافحة غسل الأموال وتمويل الإرهاب لدى البنوك المراسلة مقيّمة وموثقة وفق إرشادات FATF و BIS."
+ },
+ "tprm:13.3.1.1": {
+  "en": "Cross border data is limited to what is strictly necessary and proportionate.",
+  "ar": "البيانات عبر الحدود مقصورة على الضروري والمتناسب فقط."
+ },
+ "tprm:13.3.1.2": {
+  "en": "Cross border payment data travels over encrypted and authenticated interfaces such as TLS 1.2 or later.",
+  "ar": "تنتقل بيانات المدفوعات عبر الحدود عبر واجهات مشفرة وموثقة مثل TLS 1.2 أو أحدث."
+ },
+ "tprm:13.3.1.3": {
+  "en": "Legal transfer mechanisms or CBK permissions cover the data transfers.",
+  "ar": "تغطي آليات النقل القانونية أو تصاريح بنك الكويت المركزي عمليات نقل البيانات."
+ },
+ "tprm:13.3.1.4": {
+  "en": "Privacy impact assessments are done for new or high risk cross border transfers with mitigations recorded.",
+  "ar": "تُجرى تقييمات أثر الخصوصية لعمليات النقل عبر الحدود الجديدة أو عالية المخاطر مع تسجيل التخفيفات."
+ },
+ "tprm:13.4.1.1": {
+  "en": "Real time AML and CFT systems detect unusual cross border patterns and raise alerts.",
+  "ar": "تكشف أنظمة مكافحة غسل الأموال وتمويل الإرهاب الفورية الأنماط غير المعتادة عبر الحدود وتطلق التنبيهات."
+ },
+ "tprm:13.4.1.2": {
+  "en": "Tamper evident timestamped logs cover initiation, approval, messaging and settlement.",
+  "ar": "تغطي سجلات موقوتة كاشفة للعبث البدء والموافقة والمراسلة والتسوية."
+ },
+ "tprm:13.4.2.1": {
+  "en": "Cross border reports reach CBK and affiliated authorities within the deadlines.",
+  "ar": "تصل تقارير المعاملات عبر الحدود إلى بنك الكويت المركزي والجهات المرتبطة ضمن المواعيد."
+ },
+ "tprm:13.4.2.2": {
+  "en": "Cross border compliance controls are audited and the findings and remediation plans are submitted.",
+  "ar": "تُدقق ضوابط الالتزام عبر الحدود وتُقدم النتائج وخطط المعالجة."
+ },
+ "tprm:14.1.1.1": {
+  "en": "All applicable cloud controls of the cyber baseline are evaluated for this provider.",
+  "ar": "كل ضوابط السحابة المنطبقة من الضوابط الأساسية السيبرانية مقيّمة لهذا المزود."
+ },
+ "tprm:14.1.1.2": {
+  "en": "Provider details, data locations and the cloud deployment type are on record.",
+  "ar": "تفاصيل المزود ومواقع البيانات ونوع النشر السحابي مسجلة."
+ },
+ "tprm:14.1.1.3": {
+  "en": "The service model in use, SaaS, PaaS or IaaS, is documented.",
+  "ar": "نموذج الخدمة المستخدم من SaaS أو PaaS أو IaaS موثق."
+ },
+ "tprm:14.1.1.4": {
+  "en": "Legal and regulatory requirements for the cloud use are identified, especially for data outside Kuwait.",
+  "ar": "المتطلبات القانونية والتنظيمية لاستخدام السحابة محددة وخصوصاً للبيانات خارج الكويت."
+ },
+ "tprm:14.1.1.5": {
+  "en": "The provider is CSA STAR certified or holds an equivalent security certification.",
+  "ar": "المزود حاصل على شهادة CSA STAR أو شهادة أمنية مكافئة."
+ },
+ "tprm:14.1.1.6": {
+  "en": "Control ownership is defined in a documented shared responsibility model.",
+  "ar": "ملكية الضوابط محددة في نموذج مسؤولية مشتركة موثق."
+ },
+ "tprm:14.1.1.7": {
+  "en": "Strategies mitigate vendor lock in and cover data portability.",
+  "ar": "توجد استراتيجيات لتخفيف الاحتباس لدى المزود وتغطي قابلية نقل البيانات."
+ },
+ "tprm:14.1.1.8": {
+  "en": "The provider supplies a SOC 2 Type II, ISAE 3402 or equivalent audit report.",
+  "ar": "يقدم المزود تقرير SOC 2 Type II أو ISAE 3402 أو تقرير تدقيق مكافئ."
+ },
+ "tprm:14.1.1.9": {
+  "en": "Procedures ensure secure termination and data retrieval when the agreement ends.",
+  "ar": "تضمن الإجراءات الإنهاء الآمن واسترجاع البيانات عند انتهاء الاتفاق."
+ },
+ "tprm:14.1.1.10": {
+  "en": "The provider gives the entity the capability to monitor activity within the cloud environment.",
+  "ar": "يمنح المزود الجهة القدرة على مراقبة النشاط داخل البيئة السحابية."
+ },
+ "tprm:15.1.1.1": {
+  "en": "The scope of due diligence on the affiliate is defined with service level agreements and periodic reviews.",
+  "ar": "نطاق الفحص النافي للجهالة على الشركة التابعة محدد مع اتفاقيات مستوى الخدمة ومراجعات دورية."
+ },
+ "tprm:15.1.1.2": {
+  "en": "Prior CBK approval was obtained for this material or high risk affiliate arrangement.",
+  "ar": "أُخذت موافقة مسبقة من بنك الكويت المركزي على هذا الترتيب الجوهري أو عالي المخاطر مع الشركة التابعة."
+ },
+ "tprm:15.2.1.1": {
+  "en": "A customer consent procedure covers data sharing with the affiliate.",
+  "ar": "يوجد إجراء لموافقة العملاء يغطي مشاركة البيانات مع الشركة التابعة."
+ },
+ "tprm:15.3.1.1": {
+  "en": "Foreign affiliates follow the same controls and governance with geopolitical risk considered.",
+  "ar": "تتبع الشركات التابعة الأجنبية الضوابط والحوكمة نفسها مع مراعاة المخاطر الجيوسياسية."
+ },
+ "tprm:15.4.1.1": {
+  "en": "Resource planning secures the viability of the affiliate service.",
+  "ar": "يؤمّن تخطيط الموارد استمرارية خدمة الشركة التابعة."
+ }
+}

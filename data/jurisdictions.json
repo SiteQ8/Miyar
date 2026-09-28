@@ -1,0 +1,63 @@
+{
+ "about": "The build order is fixed: Kuwait, then Saudi Arabia, then the rest of the GCC, then the United States, then Iraq, then Egypt, then GDPR, then one unified checklist across all of them. A jurisdiction is active once its control data, rules and checks are in the repo and pass the tests. Framework versions are pinned from the regulator's own publication when that phase is built.",
+ "jurisdictions": [
+  {"id": "kw", "order": 1, "status": "active", "en": "Kuwait", "ar": "الكويت",
+   "frameworks": [
+    {"id": "corf", "en": "CBK Cyber and Operational Resilience Framework v1.0 (3 Dec 2025)", "ar": "إطار المرونة السيبرانية والتشغيلية الصادر عن بنك الكويت المركزي الإصدار 1.0 بتاريخ 3 ديسمبر 2025", "url": "https://www.cbk.gov.kw/en/images/corf-170113_v10_tcm10-170113.pdf", "role": "register"}
+   ]},
+  {"id": "sa", "order": 2, "status": "planned", "en": "Saudi Arabia", "ar": "السعودية",
+   "frameworks": [
+    {"id": "sama-csf", "en": "SAMA Cyber Security Framework", "ar": "إطار الأمن السيبراني الصادر عن البنك المركزي السعودي", "url": "https://rulebook.sama.gov.sa/", "role": "register"},
+    {"id": "nca-ecc", "en": "NCA Essential Cybersecurity Controls (ECC)", "ar": "الضوابط الأساسية للأمن السيبراني من الهيئة الوطنية للأمن السيبراني", "url": "https://nca.gov.sa/", "role": "register"},
+    {"id": "nca-ccc", "en": "NCA Cloud Cybersecurity Controls (CCC)", "ar": "ضوابط الأمن السيبراني للحوسبة السحابية من الهيئة الوطنية للأمن السيبراني", "url": "https://nca.gov.sa/", "role": "cloud"},
+    {"id": "nca-dcc", "en": "NCA Data Cybersecurity Controls (DCC)", "ar": "ضوابط الأمن السيبراني للبيانات من الهيئة الوطنية للأمن السيبراني", "url": "https://nca.gov.sa/", "role": "data"},
+    {"id": "sa-pdpl", "en": "Personal Data Protection Law and its implementing regulations", "ar": "نظام حماية البيانات الشخصية ولوائحه التنفيذية", "url": "https://sdaia.gov.sa/", "role": "privacy"}
+   ]},
+  {"id": "gcc", "order": 3, "status": "planned", "en": "Rest of the GCC", "ar": "بقية دول الخليج",
+   "members": [
+    {"id": "ae", "en": "United Arab Emirates", "ar": "الإمارات", "frameworks": [
+     {"id": "cbuae", "en": "CBUAE cyber and technology risk requirements", "ar": "متطلبات المخاطر السيبرانية والتقنية الصادرة عن مصرف الإمارات المركزي", "url": "https://www.centralbank.ae/", "role": "register"},
+     {"id": "uae-iar", "en": "UAE Information Assurance Regulation", "ar": "لائحة ضمان المعلومات في الإمارات", "url": "https://tdra.gov.ae/", "role": "register"},
+     {"id": "ae-pdpl", "en": "Federal Decree Law No. 45 of 2021 on personal data protection", "ar": "المرسوم بقانون اتحادي رقم 45 لسنة 2021 بشأن حماية البيانات الشخصية", "url": "https://u.ae/", "role": "privacy"}
+    ]},
+    {"id": "qa", "en": "Qatar", "ar": "قطر", "frameworks": [
+     {"id": "qcb", "en": "Qatar Central Bank technology and cyber requirements", "ar": "متطلبات التقنية والأمن السيبراني الصادرة عن مصرف قطر المركزي", "url": "https://www.qcb.gov.qa/", "role": "register"},
+     {"id": "nia", "en": "National Information Assurance Standard", "ar": "معيار ضمان المعلومات الوطني", "url": "https://www.ncsa.gov.qa/", "role": "register"},
+     {"id": "qa-pdppl", "en": "Law No. 13 of 2016 on personal data privacy protection", "ar": "القانون رقم 13 لسنة 2016 بشأن حماية خصوصية البيانات الشخصية", "url": "https://www.almeezan.qa/", "role": "privacy"}
+    ]},
+    {"id": "bh", "en": "Bahrain", "ar": "البحرين", "frameworks": [
+     {"id": "cbb-om", "en": "CBB Rulebook cyber security module", "ar": "وحدة الأمن السيبراني في كتاب قواعد مصرف البحرين المركزي", "url": "https://cbben.thomsonreuters.com/", "role": "register"},
+     {"id": "bh-pdpl", "en": "Law No. 30 of 2018 on personal data protection", "ar": "القانون رقم 30 لسنة 2018 بشأن حماية البيانات الشخصية", "url": "https://www.pdp.gov.bh/", "role": "privacy"}
+    ]},
+    {"id": "om", "en": "Oman", "ar": "عُمان", "frameworks": [
+     {"id": "cbo", "en": "Central Bank of Oman cyber security requirements", "ar": "متطلبات الأمن السيبراني الصادرة عن البنك المركزي العُماني", "url": "https://cbo.gov.om/", "role": "register"},
+     {"id": "om-pdpl", "en": "Royal Decree No. 6 of 2022 on personal data protection", "ar": "المرسوم السلطاني رقم 6 لسنة 2022 بشأن حماية البيانات الشخصية", "url": "https://www.mtcit.gov.om/", "role": "privacy"}
+    ]}
+   ]},
+  {"id": "us", "order": 4, "status": "planned", "en": "United States", "ar": "الولايات المتحدة",
+   "frameworks": [
+    {"id": "nist-csf", "en": "NIST Cybersecurity Framework 2.0", "ar": "إطار الأمن السيبراني من NIST الإصدار 2.0", "url": "https://www.nist.gov/cyberframework", "role": "register"},
+    {"id": "nist-80053", "en": "NIST SP 800-53 Rev. 5", "ar": "منشور NIST SP 800-53 المراجعة 5", "url": "https://csrc.nist.gov/", "role": "register"},
+    {"id": "ffiec", "en": "FFIEC IT Examination Handbook", "ar": "دليل فحص تقنية المعلومات من FFIEC", "url": "https://ithandbook.ffiec.gov/", "role": "register"},
+    {"id": "nydfs-500", "en": "NYDFS 23 NYCRR Part 500", "ar": "لائحة NYDFS 23 NYCRR الجزء 500", "url": "https://www.dfs.ny.gov/", "role": "register"},
+    {"id": "glba", "en": "GLBA Safeguards Rule", "ar": "قاعدة الضمانات في قانون GLBA", "url": "https://www.ftc.gov/", "role": "register"},
+    {"id": "pci-dss", "en": "PCI DSS v4.0.1", "ar": "معيار PCI DSS الإصدار 4.0.1", "url": "https://www.pcisecuritystandards.org/", "role": "payments"},
+    {"id": "nist-ai-rmf", "en": "NIST AI Risk Management Framework", "ar": "إطار إدارة مخاطر الذكاء الاصطناعي من NIST", "url": "https://www.nist.gov/itl/ai-risk-management-framework", "role": "ai"}
+   ]},
+  {"id": "iq", "order": 5, "status": "planned", "en": "Iraq", "ar": "العراق",
+   "frameworks": [
+    {"id": "cbi-cyber", "en": "Central Bank of Iraq cyber resilience controls for the financial and banking sector", "ar": "ضوابط المرونة السيبرانية للقطاع المالي والمصرفي الصادرة عن البنك المركزي العراقي", "url": "https://cbi.iq/", "role": "register"}
+   ]},
+  {"id": "eg", "order": 6, "status": "planned", "en": "Egypt", "ar": "مصر",
+   "frameworks": [
+    {"id": "cbe-csf", "en": "Central Bank of Egypt cybersecurity framework", "ar": "إطار الأمن السيبراني الصادر عن البنك المركزي المصري", "url": "https://www.cbe.org.eg/", "role": "register"},
+    {"id": "eg-pdpl", "en": "Law No. 151 of 2020 on personal data protection", "ar": "القانون رقم 151 لسنة 2020 بشأن حماية البيانات الشخصية", "url": "https://www.pdpc.gov.eg/", "role": "privacy"}
+   ]},
+  {"id": "gdpr", "order": 7, "status": "planned", "en": "GDPR", "ar": "اللائحة العامة لحماية البيانات",
+   "frameworks": [
+    {"id": "gdpr", "en": "Regulation (EU) 2016/679", "ar": "اللائحة الأوروبية 2016/679", "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj", "role": "privacy"}
+   ]},
+  {"id": "all", "order": 8, "status": "planned", "en": "All jurisdictions", "ar": "كل الجهات",
+   "frameworks": []}
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "sources": [
+  {"id": "corf", "en": "CBK Cyber and Operational Resilience Framework, Version 1.0, issued 3 December 2025", "ar": "إطار المرونة السيبرانية والتشغيلية الصادر عن بنك الكويت المركزي الإصدار 1.0 بتاريخ 3 ديسمبر 2025", "url": "https://www.cbk.gov.kw/en/images/corf-170113_v10_tcm10-170113.pdf",
+   "use_en": "Every control identifier, structural title and page number. The control text itself stays in the CBK document and each row links to its page.", "use_ar": "كل معرفات الضوابط والعناوين الهيكلية وأرقام الصفحات أما نص الضابط نفسه فيبقى في وثيقة البنك ويرتبط كل صف بصفحته."},
+  {"id": "sadu", "en": "Sadu, the CORF working register by the same author", "ar": "سدو وهو سجل العمل لإطار CORF من المؤلف نفسه", "url": "https://github.com/SiteQ8/Sadu",
+   "use_en": "The verified structure of the three baselines and the Arabic titles and area summaries, reused under the MIT licence.", "use_ar": "الهيكل المتحقق منه للضوابط الأساسية الثلاثة والعناوين العربية وملخصات المجالات بإعادة استخدام بموجب رخصة MIT."},
+  {"id": "miftah", "en": "Miftah, the cryptographic inventory and post quantum readiness tool by the same author", "ar": "مفتاح وهو أداة الجرد التشفيري والجاهزية لما بعد الكم من المؤلف نفسه", "url": "https://github.com/SiteQ8/miftah",
+   "use_en": "Produces the CBOM evidence asked for by the cryptographic inventory check.", "use_ar": "تنتج دليل CBOM الذي يطلبه ضابط الجرد التشفيري."}
+ ],
+ "counts_note_en": "The document body holds 199 control areas and 875 controls, while the CBK summary tables state 200 and 876, a difference disclosed rather than corrected.",
+ "counts_note_ar": "يحتوي متن الوثيقة على 199 مجال ضوابط و875 ضابطاً بينما تذكر جداول الملخص لدى البنك 200 و876 وهو فرق يُفصح عنه ولا يُصحح."
+}

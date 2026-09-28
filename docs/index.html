@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Security architecture checklists</title>
+<meta name="description" content="Bilingual security architecture checklists for applications, cloud services and vendors against banking regulation, with a cover page that scores regulatory coverage.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/fonts.css">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<a class="skip" href="#main" data-t="nav_controls">Controls</a>
+<header class="masthead">
+  <div class="masthead-row">
+    <div>
+      <h1 id="site-title">Security architecture checklists</h1>
+      <p class="tagline" id="site-tagline"></p>
+    </div>
+    <button class="lang" id="lang-switch" type="button" aria-label="Switch language"></button>
+  </div>
+  <nav class="phases" id="phases" aria-label="Jurisdictions"></nav>
+</header>
+<div class="frame">
+  <aside class="rail" aria-label="Checklist">
+    <div class="rail-block">
+      <h2 data-t="checklist"></h2>
+      <div class="list-picker" id="list-picker" role="radiogroup"></div>
+    </div>
+    <div class="rail-block seal-block">
+      <div class="seal" id="seal" role="img"><svg viewBox="0 0 120 120" aria-hidden="true"><circle class="seal-track" cx="60" cy="60" r="52"/><circle class="seal-fill" id="seal-fill" cx="60" cy="60" r="52"/></svg><div class="seal-number" id="seal-number">0%</div></div>
+      <p class="seal-caption" id="seal-caption"></p>
+      <p class="saved" id="saved"></p>
+    </div>
+    <nav class="rail-nav" aria-label="Sections">
+      <a href="#guide" data-t="nav_guide"></a>
+      <a href="#cover" data-t="nav_cover"></a>
+      <a href="#profiles" data-t="nav_profiles"></a>
+      <a href="#controls" data-t="nav_controls"></a>
+      <a href="#score" data-t="nav_score"></a>
+      <a href="#export" data-t="nav_export"></a>
+      <a href="#sources" data-t="nav_sources"></a>
+    </nav>
+  </aside>
+  <main id="main">
+    <section id="guide" class="sheet">
+      <h2 data-t="nav_guide"></h2>
+      <p data-t="guide_intro"></p>
+      <ol class="steps" id="guide-steps"></ol>
+      <div class="two-col">
+        <div>
+          <h3 data-t="guide_levels_title"></h3>
+          <dl id="guide-levels"></dl>
+        </div>
+        <div>
+          <h3 data-t="guide_statuses_title"></h3>
+          <dl id="guide-statuses"></dl>
+        </div>
+      </div>
+      <h3 data-t="guide_score_title"></h3>
+      <p data-t="guide_score"></p>
+    </section>
+    <section id="cover" class="sheet cover">
+      <h2 data-t="cover_title"></h2>
+      <div class="cover-grid" id="cover-form"></div>
+      <div class="cover-bottom">
+        <div class="cover-score">
+          <h3 data-t="cover_coverage"></h3>
+          <div class="cover-score-body" id="cover-score"></div>
+        </div>
+        <div class="cover-gates">
+          <h3 data-t="cover_gates"></h3>
+          <ul id="cover-gates"></ul>
+        </div>
+      </div>
+      <h3 data-t="cover_signoff"></h3>
+      <table class="signoff" id="signoff"></table>
+    </section>
+    <section id="profiles" class="sheet">
+      <h2 data-t="profiles_title"></h2>
+      <p data-t="profiles_intro"></p>
+      <div id="profile-groups"></div>
+    </section>
+    <section id="controls" class="sheet">
+      <h2 data-t="controls_title"></h2>
+      <div class="toolbar">
+        <input type="search" id="search" data-p="search">
+        <label><input type="checkbox" id="show-inherited"> <span data-t="show_inherited"></span></label>
+        <label><input type="checkbox" id="only-gaps"> <span data-t="only_gaps"></span></label>
+        <label><input type="checkbox" id="include-entity"> <span data-t="include_entity"></span></label>
+      </div>
+      <div class="baseline-tabs" id="baseline-tabs" role="tablist"></div>
+      <div class="ledger" id="ledger"></div>
+      <h3 data-t="extensions_title"></h3>
+      <p class="muted" data-t="extensions_note"></p>
+      <div class="ledger" id="ext-ledger"></div>
+    </section>
+    <section id="score" class="sheet">
+      <h2 data-t="score_title"></h2>
+      <div id="score-body"></div>
+    </section>
+    <section id="export" class="sheet">
+      <h2 data-t="export_title"></h2>
+      <p data-t="export_intro"></p>
+      <div class="actions">
+        <button type="button" id="btn-save" data-t="save_json"></button>
+        <label class="button" for="file-load" data-t="load_json"></label>
+        <input type="file" id="file-load" accept="application/json" hidden>
+        <button type="button" id="btn-csv" data-t="export_csv"></button>
+        <button type="button" id="btn-md" data-t="export_md"></button>
+        <button type="button" id="btn-print" data-t="print_cover"></button>
+        <button type="button" class="danger" id="btn-clear" data-t="clear"></button>
+      </div>
+      <p class="status" id="export-status" aria-live="polite"></p>
+    </section>
+    <section id="sources" class="sheet">
+      <h2 data-t="sources_title"></h2>
+      <ul id="sources-list"></ul>
+      <p class="muted" id="counts-note"></p>
+    </section>
+    <footer class="foot">
+      <p data-t="footer_author"></p>
+      <p data-t="footer_disclaimer"></p>
+      <p id="version"></p>
+    </footer>
+  </main>
+</div>
+<script src="data/bundle.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

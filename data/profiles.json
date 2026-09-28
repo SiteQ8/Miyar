@@ -1,0 +1,40 @@
+{
+ "about": "Profile overlays. A control tagged with profiles applies when any selected profile matches. Controls with no profiles are the base set of their checklist.",
+ "groups": [
+  {"id": "app", "lists": ["onprem", "cloud"], "en": "What the application does", "ar": "ما يقوم به التطبيق"},
+  {"id": "tech", "lists": ["onprem", "cloud", "vendor"], "en": "Technology in use", "ar": "التقنية المستخدمة"},
+  {"id": "deploy", "lists": ["cloud"], "en": "Cloud deployment", "ar": "نموذج النشر السحابي"},
+  {"id": "vendor", "lists": ["vendor"], "en": "The engagement", "ar": "طبيعة التعاقد"}
+ ],
+ "profiles": [
+  {"id": "pay", "group": "app", "en": "Payments", "ar": "المدفوعات", "desc_en": "Processes payment transactions, cards or fund transfers", "desc_ar": "يعالج معاملات الدفع أو البطاقات أو تحويل الأموال"},
+  {"id": "digital", "group": "app", "en": "Customer digital channel", "ar": "قناة رقمية للعملاء", "desc_en": "Internet facing web or mobile channel used by customers", "desc_ar": "قناة ويب أو تطبيق جوال متاحة عبر الإنترنت يستخدمها العملاء"},
+  {"id": "onboarding", "group": "app", "en": "Digital onboarding", "ar": "التسجيل الرقمي للعملاء", "desc_en": "Enrols customers remotely and verifies their identity", "desc_ar": "يسجل العملاء عن بُعد ويتحقق من هويتهم"},
+  {"id": "openbanking", "group": "app", "en": "Open banking", "ar": "الخدمات المصرفية المفتوحة", "desc_en": "Exposes or consumes open banking APIs with third party providers", "desc_ar": "يتيح واجهات الخدمات المصرفية المفتوحة أو يستهلكها مع مزودي خدمة خارجيين"},
+  {"id": "wallet", "group": "app", "en": "Digital wallet", "ar": "المحفظة الرقمية", "desc_en": "Provides or integrates a digital wallet", "desc_ar": "يوفر محفظة رقمية أو يتكامل معها"},
+  {"id": "ssm", "group": "app", "en": "Self-service machines", "ar": "أجهزة الخدمة الذاتية", "desc_en": "Serves ATMs, ITMs, kiosks or POS terminals", "desc_ar": "يخدم أجهزة الصراف الآلي أو الصراف التفاعلي أو الأكشاك أو نقاط البيع"},
+  {"id": "contactless", "group": "app", "en": "Contactless payments", "ar": "الدفع اللاتلامسي", "desc_en": "Uses NFC, QR or other contactless payment technology", "desc_ar": "يستخدم تقنية NFC أو رمز QR أو أي تقنية دفع لاتلامسي أخرى"},
+  {"id": "pii", "group": "app", "en": "Personal data", "ar": "البيانات الشخصية", "desc_en": "Stores or processes personal data of customers or staff", "desc_ar": "يخزن بيانات شخصية للعملاء أو الموظفين أو يعالجها"},
+  {"id": "api", "group": "app", "en": "APIs", "ar": "واجهات برمجية", "desc_en": "Exposes or consumes application programming interfaces", "desc_ar": "يتيح واجهات برمجية أو يستهلكها"},
+  {"id": "critical", "group": "app", "en": "Business critical", "ar": "حرج للأعمال", "desc_en": "Supports a critical business service with defined recovery objectives", "desc_ar": "يدعم خدمة أعمال حرجة لها أهداف استعادة محددة"},
+  {"id": "remote", "group": "app", "en": "Remote access", "ar": "الوصول عن بُعد", "desc_en": "Reached remotely by staff, contractors or vendors", "desc_ar": "يصل إليه الموظفون أو المتعاقدون أو الموردون عن بُعد"},
+  {"id": "cots", "group": "app", "en": "Acquired software", "ar": "برمجيات مقتناة", "desc_en": "Commercial off the shelf or outsourced development", "desc_ar": "برمجيات جاهزة تجارياً أو تطوير مسند لجهة خارجية"},
+  {"id": "email", "group": "app", "en": "Sends email", "ar": "يرسل بريداً إلكترونياً", "desc_en": "Sends email or messages to customers or staff", "desc_ar": "يرسل بريداً إلكترونياً أو رسائل إلى العملاء أو الموظفين"},
+  {"id": "ai", "group": "tech", "en": "AI and machine learning", "ar": "الذكاء الاصطناعي وتعلم الآلة", "desc_en": "Uses AI or ML models, including language models and agents", "desc_ar": "يستخدم نماذج ذكاء اصطناعي أو تعلم آلة بما فيها النماذج اللغوية والوكلاء"},
+  {"id": "dlt", "group": "tech", "en": "Blockchain or DLT", "ar": "سلسلة الكتل أو السجل الموزع", "desc_en": "Uses blockchain, distributed ledgers or smart contracts", "desc_ar": "يستخدم سلسلة الكتل أو السجلات الموزعة أو العقود الذكية"},
+  {"id": "fiveg", "group": "tech", "en": "5G connectivity", "ar": "اتصال 5G", "desc_en": "Relies on 5G networks or edge computing", "desc_ar": "يعتمد على شبكات 5G أو الحوسبة الطرفية"},
+  {"id": "iot", "group": "tech", "en": "IoT or OT devices", "ar": "أجهزة إنترنت الأشياء أو التقنية التشغيلية", "desc_en": "Connects IoT or operational technology devices", "desc_ar": "يربط أجهزة إنترنت الأشياء أو أجهزة التقنية التشغيلية"},
+  {"id": "newtech", "group": "tech", "en": "Other new technology", "ar": "تقنية جديدة أخرى", "desc_en": "Adopts any other technology new to the entity", "desc_ar": "يعتمد أي تقنية أخرى جديدة على الجهة"},
+  {"id": "crossborder", "group": "tech", "en": "Cross border", "ar": "عبر الحدود", "desc_en": "Moves data or transactions across borders", "desc_ar": "ينقل بيانات أو معاملات عبر الحدود"},
+  {"id": "saas", "group": "deploy", "en": "SaaS", "ar": "SaaS", "desc_en": "Software as a service", "desc_ar": "البرمجيات كخدمة"},
+  {"id": "paas", "group": "deploy", "en": "PaaS", "ar": "PaaS", "desc_en": "Platform as a service", "desc_ar": "المنصة كخدمة"},
+  {"id": "iaas", "group": "deploy", "en": "IaaS", "ar": "IaaS", "desc_en": "Infrastructure as a service", "desc_ar": "البنية التحتية كخدمة"},
+  {"id": "offshore", "group": "deploy", "en": "Data outside Kuwait", "ar": "بيانات خارج الكويت", "desc_en": "Data is stored or processed outside the country", "desc_ar": "تُخزن البيانات أو تُعالج خارج البلاد"},
+  {"id": "vcritical", "group": "vendor", "en": "Critical service", "ar": "خدمة حرجة", "desc_en": "The vendor supports a critical business service", "desc_ar": "يدعم المورد خدمة أعمال حرجة"},
+  {"id": "vcloud", "group": "vendor", "en": "Cloud service provider", "ar": "مزود خدمة سحابية", "desc_en": "The vendor delivers a cloud service", "desc_ar": "يقدم المورد خدمة سحابية"},
+  {"id": "vsub", "group": "vendor", "en": "Uses subcontractors", "ar": "يستعين بمقاولين من الباطن", "desc_en": "The vendor relies on subcontractors or fourth parties", "desc_ar": "يعتمد المورد على مقاولين من الباطن أو أطراف رابعة"},
+  {"id": "vaffiliate", "group": "vendor", "en": "Group affiliate", "ar": "شركة تابعة للمجموعة", "desc_en": "The counterparty is an affiliate inside the group", "desc_ar": "الطرف المقابل شركة تابعة داخل المجموعة"},
+  {"id": "vonsite", "group": "vendor", "en": "On site presence", "ar": "حضور في الموقع", "desc_en": "Vendor staff work on the entity premises", "desc_ar": "يعمل موظفو المورد في مقر الجهة"},
+  {"id": "vpay", "group": "vendor", "en": "Payment processor", "ar": "معالج مدفوعات", "desc_en": "The vendor is a payment gateway, aggregator or card processor", "desc_ar": "المورد بوابة دفع أو مجمّع مدفوعات أو معالج بطاقات"}
+ ]
+}

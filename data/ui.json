@@ -1,0 +1,512 @@
+{
+ "title_default": {
+  "en": "Security architecture checklists",
+  "ar": "قوائم التحقق للمعمارية الأمنية"
+ },
+ "lang_switch": {
+  "en": "العربية",
+  "ar": "English"
+ },
+ "nav_guide": {
+  "en": "How to use",
+  "ar": "طريقة الاستخدام"
+ },
+ "nav_cover": {
+  "en": "Cover page",
+  "ar": "صفحة الغلاف"
+ },
+ "nav_profiles": {
+  "en": "Profiles",
+  "ar": "الأنماط"
+ },
+ "nav_controls": {
+  "en": "Controls",
+  "ar": "الضوابط"
+ },
+ "nav_score": {
+  "en": "Score",
+  "ar": "النتيجة"
+ },
+ "nav_export": {
+  "en": "Save and export",
+  "ar": "الحفظ والتصدير"
+ },
+ "nav_sources": {
+  "en": "Sources",
+  "ar": "المصادر"
+ },
+ "jurisdiction": {
+  "en": "Jurisdiction",
+  "ar": "الجهة التنظيمية"
+ },
+ "planned": {
+  "en": "planned",
+  "ar": "قادم"
+ },
+ "phase": {
+  "en": "Phase",
+  "ar": "المرحلة"
+ },
+ "checklist": {
+  "en": "Checklist",
+  "ar": "قائمة التحقق"
+ },
+ "list_onprem": {
+  "en": "On-premises application",
+  "ar": "تطبيق داخل المنشأة"
+ },
+ "list_cloud": {
+  "en": "Cloud application",
+  "ar": "تطبيق سحابي"
+ },
+ "list_vendor": {
+  "en": "Vendor or third party",
+  "ar": "مورد أو طرف خارجي"
+ },
+ "guide_intro": {
+  "en": "One checklist is one application or one vendor engagement assessed against the regulator's controls. Work through the steps in order.",
+  "ar": "قائمة التحقق الواحدة هي تطبيق واحد أو تعاقد واحد مع مورد يُقيّم وفق ضوابط الجهة التنظيمية فاتبع الخطوات بالترتيب."
+ },
+ "guide_steps": [
+  {
+   "en": "Pick the jurisdiction and the checklist type: an application hosted on your premises, an application hosted in the cloud, or a vendor engagement.",
+   "ar": "اختر الجهة التنظيمية ونوع قائمة التحقق سواء كان تطبيقاً مستضافاً داخل منشأتك أو تطبيقاً مستضافاً في السحابة أو تعاقداً مع مورد."
+  },
+  {
+   "en": "Fill the cover page: the name, a short business description, the owners, the criticality and the data it handles.",
+   "ar": "املأ صفحة الغلاف بالاسم ووصف موجز للأعمال والمالكين ودرجة الحرج والبيانات التي يتعامل معها."
+  },
+  {
+   "en": "Switch on every profile that describes it, such as payments, a customer channel, AI or personal data. Profiles add the controls that apply and hide the ones that do not.",
+   "ar": "فعّل كل نمط ينطبق عليه مثل المدفوعات أو قناة العملاء أو الذكاء الاصطناعي أو البيانات الشخصية فالأنماط تضيف الضوابط المنطبقة وتخفي ما لا ينطبق."
+  },
+  {
+   "en": "Assess each applicable control: set its status and record the design evidence and the effectiveness evidence, the two tests the regulator applies.",
+   "ar": "قيّم كل ضابط منطبق بتحديد حالته وتسجيل دليل التصميم ودليل الفعالية وهما الاختباران اللذان تطبقهما الجهة التنظيمية."
+  },
+  {
+   "en": "Read the coverage score and the approval gates on the cover page, then close the gaps before go-live.",
+   "ar": "اقرأ نتيجة التغطية وبوابات الموافقة في صفحة الغلاف ثم أغلق الفجوات قبل الإطلاق."
+  },
+  {
+   "en": "Save the assessment as a file to resume later, export it for the assessor, or print the cover page.",
+   "ar": "احفظ التقييم ملفاً لاستئنافه لاحقاً أو صدّره للمقيّم أو اطبع صفحة الغلاف."
+  }
+ ],
+ "guide_levels_title": {
+  "en": "What the levels mean",
+  "ar": "معنى المستويات"
+ },
+ "level_app": {
+  "en": "Application",
+  "ar": "التطبيق"
+ },
+ "level_hosting": {
+  "en": "Hosting",
+  "ar": "الاستضافة"
+ },
+ "level_entity": {
+  "en": "Entity",
+  "ar": "الجهة"
+ },
+ "level_app_desc": {
+  "en": "Evidenced by this application or engagement itself. These controls make up the score.",
+  "ar": "يُثبت بهذا التطبيق أو التعاقد نفسه وهذه الضوابط هي التي تكوّن النتيجة."
+ },
+ "level_hosting_desc": {
+  "en": "Evidenced by the environment that hosts it: data centre, network, endpoints. Counted in the score.",
+  "ar": "يُثبت بالبيئة التي تستضيفه من مركز البيانات والشبكة والأجهزة الطرفية ويُحتسب في النتيجة."
+ },
+ "level_entity_desc": {
+  "en": "Owned by the entity wide programme such as the board, policies, audit and workforce. Shown as inherited and left out of the score unless you include it.",
+  "ar": "تملكه برامج الجهة على مستواها كله مثل المجلس والسياسات والتدقيق والقوى العاملة ويُعرض موروثاً ويُستثنى من النتيجة ما لم تُدرجه."
+ },
+ "guide_score_title": {
+  "en": "How the score works",
+  "ar": "كيف تُحتسب النتيجة"
+ },
+ "guide_score": {
+  "en": "The regulator assesses every control as compliant or non-compliant with no partial credit, so the score is the share of applicable controls marked compliant after removing the ones justified as not applicable. Unassessed controls count against you until you assess them.",
+  "ar": "تقيّم الجهة التنظيمية كل ضابط بأنه ملتزم أو غير ملتزم دون درجات جزئية لذا فالنتيجة هي نسبة الضوابط المنطبقة المصنفة ملتزمة بعد استبعاد ما بُرر بأنه غير منطبق أما الضوابط غير المقيّمة فتُحتسب ضدك حتى تقيّمها."
+ },
+ "guide_statuses_title": {
+  "en": "Statuses",
+  "ar": "الحالات"
+ },
+ "status_unassessed": {
+  "en": "Not assessed",
+  "ar": "لم يُقيّم"
+ },
+ "status_compliant": {
+  "en": "Compliant",
+  "ar": "ملتزم"
+ },
+ "status_noncompliant": {
+  "en": "Non-compliant",
+  "ar": "غير ملتزم"
+ },
+ "status_na": {
+  "en": "Not applicable",
+  "ar": "غير منطبق"
+ },
+ "status_exception": {
+  "en": "Exception requested",
+  "ar": "استثناء مطلوب"
+ },
+ "status_inherited": {
+  "en": "Inherited",
+  "ar": "موروث"
+ },
+ "status_na_desc": {
+  "en": "Needs a written justification and regulator approval.",
+  "ar": "يحتاج إلى تبرير مكتوب وموافقة الجهة التنظيمية."
+ },
+ "status_exception_desc": {
+  "en": "A formal exception request with compensating controls is pending or approved.",
+  "ar": "طلب استثناء رسمي مع ضوابط تعويضية قيد الانتظار أو معتمد."
+ },
+ "status_inherited_desc": {
+  "en": "Covered by the entity wide programme rather than this application.",
+  "ar": "تغطيه برامج الجهة على مستواها كله لا هذا التطبيق."
+ },
+ "cover_title": {
+  "en": "Cover page",
+  "ar": "صفحة الغلاف"
+ },
+ "cover_name": {
+  "en": "Application or vendor name",
+  "ar": "اسم التطبيق أو المورد"
+ },
+ "cover_desc": {
+  "en": "Business description",
+  "ar": "وصف الأعمال"
+ },
+ "cover_desc_hint": {
+  "en": "What it does, for whom, and which business service depends on it.",
+  "ar": "ما يقوم به ولمن وأي خدمة أعمال تعتمد عليه."
+ },
+ "cover_owner": {
+  "en": "Business owner",
+  "ar": "مالك الأعمال"
+ },
+ "cover_techowner": {
+  "en": "Technology owner",
+  "ar": "مالك التقنية"
+ },
+ "cover_assessor": {
+  "en": "Assessor",
+  "ar": "المقيّم"
+ },
+ "cover_date": {
+  "en": "Assessment date",
+  "ar": "تاريخ التقييم"
+ },
+ "cover_golive": {
+  "en": "Planned go-live",
+  "ar": "موعد الإطلاق المخطط"
+ },
+ "cover_criticality": {
+  "en": "Criticality",
+  "ar": "درجة الحرج"
+ },
+ "crit_high": {
+  "en": "High",
+  "ar": "عالية"
+ },
+ "crit_medium": {
+  "en": "Medium",
+  "ar": "متوسطة"
+ },
+ "crit_low": {
+  "en": "Low",
+  "ar": "منخفضة"
+ },
+ "cover_data": {
+  "en": "Highest data classification",
+  "ar": "أعلى تصنيف للبيانات"
+ },
+ "data_public": {
+  "en": "Public",
+  "ar": "عام"
+ },
+ "data_internal": {
+  "en": "Internal",
+  "ar": "داخلي"
+ },
+ "data_confidential": {
+  "en": "Confidential",
+  "ar": "سري"
+ },
+ "data_restricted": {
+  "en": "Restricted",
+  "ar": "مقيد"
+ },
+ "cover_users": {
+  "en": "Users",
+  "ar": "المستخدمون"
+ },
+ "users_customers": {
+  "en": "Customers",
+  "ar": "العملاء"
+ },
+ "users_staff": {
+  "en": "Staff",
+  "ar": "الموظفون"
+ },
+ "users_both": {
+  "en": "Customers and staff",
+  "ar": "العملاء والموظفون"
+ },
+ "cover_flags": {
+  "en": "Regulator triggers",
+  "ar": "محفزات الجهة التنظيمية"
+ },
+ "flag_major_change": {
+  "en": "This is a major change to core business services or customers",
+  "ar": "هذا تغيير جوهري في الخدمات الأساسية أو للعملاء"
+ },
+ "flag_significant": {
+  "en": "This is a significant IT third party agreement",
+  "ar": "هذا اتفاق جوهري مع طرف خارجي في تقنية المعلومات"
+ },
+ "flag_new_otp": {
+  "en": "It introduces a new OTP delivery technology",
+  "ar": "يقدم تقنية جديدة لإيصال كلمة المرور لمرة واحدة"
+ },
+ "flag_foreign_branch": {
+  "en": "The entity is a branch of a foreign bank",
+  "ar": "الجهة فرع لبنك أجنبي"
+ },
+ "cover_coverage": {
+  "en": "Coverage",
+  "ar": "التغطية"
+ },
+ "coverage_of": {
+  "en": "of applicable controls compliant",
+  "ar": "من الضوابط المنطبقة ملتزمة"
+ },
+ "cover_gates": {
+  "en": "Approval gates",
+  "ar": "بوابات الموافقة"
+ },
+ "gates_none": {
+  "en": "No regulator approval gate is triggered by the current answers.",
+  "ar": "لا تنطبق أي بوابة موافقة تنظيمية على الإجابات الحالية."
+ },
+ "cover_signoff": {
+  "en": "Sign-off",
+  "ar": "الاعتماد"
+ },
+ "signoff_business": {
+  "en": "Business owner",
+  "ar": "مالك الأعمال"
+ },
+ "signoff_security": {
+  "en": "Information security",
+  "ar": "أمن المعلومات"
+ },
+ "signoff_risk": {
+  "en": "Risk management",
+  "ar": "إدارة المخاطر"
+ },
+ "profiles_title": {
+  "en": "Profiles",
+  "ar": "الأنماط"
+ },
+ "profiles_intro": {
+  "en": "Switch on everything that describes it. Base controls apply regardless.",
+  "ar": "فعّل كل ما ينطبق عليه أما الضوابط الأساسية فتنطبق في كل الأحوال."
+ },
+ "controls_title": {
+  "en": "Controls",
+  "ar": "الضوابط"
+ },
+ "search": {
+  "en": "Search by id or text",
+  "ar": "ابحث بالمعرف أو النص"
+ },
+ "show_inherited": {
+  "en": "Show inherited",
+  "ar": "إظهار الموروث"
+ },
+ "only_gaps": {
+  "en": "Only gaps",
+  "ar": "الفجوات فقط"
+ },
+ "include_entity": {
+  "en": "Include entity level controls in the score",
+  "ar": "إدراج ضوابط مستوى الجهة في النتيجة"
+ },
+ "page": {
+  "en": "page",
+  "ar": "صفحة"
+ },
+ "check": {
+  "en": "Check",
+  "ar": "التحقق"
+ },
+ "evidence_design": {
+  "en": "Design evidence",
+  "ar": "دليل التصميم"
+ },
+ "evidence_effect": {
+  "en": "Effectiveness evidence",
+  "ar": "دليل الفعالية"
+ },
+ "note": {
+  "en": "Note",
+  "ar": "ملاحظة"
+ },
+ "justification": {
+  "en": "Justification",
+  "ar": "التبرير"
+ },
+ "area_summary": {
+  "en": "What the area requires",
+  "ar": "ما يتطلبه المجال"
+ },
+ "official_text": {
+  "en": "Official text",
+  "ar": "النص الرسمي"
+ },
+ "base": {
+  "en": "base",
+  "ar": "أساسي"
+ },
+ "extensions_title": {
+  "en": "Architecture extensions",
+  "ar": "إضافات المعمارية"
+ },
+ "extensions_note": {
+  "en": "This project's own checks. They are not regulator controls and they are scored separately.",
+  "ar": "ضوابط هذا المشروع نفسه وهي ليست ضوابط الجهة التنظيمية وتُحتسب على حدة."
+ },
+ "score_title": {
+  "en": "Score",
+  "ar": "النتيجة"
+ },
+ "score_overall": {
+  "en": "Overall",
+  "ar": "الإجمالي"
+ },
+ "score_by_baseline": {
+  "en": "By baseline",
+  "ar": "حسب الضوابط الأساسية"
+ },
+ "score_by_domain": {
+  "en": "By domain",
+  "ar": "حسب المجال"
+ },
+ "score_applicable": {
+  "en": "Applicable",
+  "ar": "منطبق"
+ },
+ "score_gaps": {
+  "en": "Gaps",
+  "ar": "الفجوات"
+ },
+ "score_extensions": {
+  "en": "Extensions",
+  "ar": "الإضافات"
+ },
+ "export_title": {
+  "en": "Save and export",
+  "ar": "الحفظ والتصدير"
+ },
+ "export_intro": {
+  "en": "Your work stays in this browser until you clear it. Save a file to keep it or to move it to another device.",
+  "ar": "يبقى عملك في هذا المتصفح حتى تمسحه فاحفظ ملفاً للاحتفاظ به أو لنقله إلى جهاز آخر."
+ },
+ "save_json": {
+  "en": "Save assessment file",
+  "ar": "حفظ ملف التقييم"
+ },
+ "load_json": {
+  "en": "Open assessment file",
+  "ar": "فتح ملف تقييم"
+ },
+ "export_csv": {
+  "en": "Export CSV",
+  "ar": "تصدير CSV"
+ },
+ "export_md": {
+  "en": "Export Markdown",
+  "ar": "تصدير Markdown"
+ },
+ "print_cover": {
+  "en": "Print",
+  "ar": "طباعة"
+ },
+ "clear": {
+  "en": "Clear this assessment",
+  "ar": "مسح هذا التقييم"
+ },
+ "clear_confirm": {
+  "en": "Clear every answer in this checklist? Save a file first if you need it.",
+  "ar": "هل تريد مسح كل الإجابات في قائمة التحقق هذه؟ احفظ ملفاً أولاً إن كنت تحتاجه."
+ },
+ "loaded": {
+  "en": "Assessment opened.",
+  "ar": "فُتح التقييم."
+ },
+ "load_error": {
+  "en": "That file is not an assessment saved by this tool.",
+  "ar": "هذا الملف ليس تقييماً محفوظاً من هذه الأداة."
+ },
+ "saved_local": {
+  "en": "Saved in this browser",
+  "ar": "محفوظ في هذا المتصفح"
+ },
+ "sources_title": {
+  "en": "Sources",
+  "ar": "المصادر"
+ },
+ "footer_author": {
+  "en": "An open source project by Ali AlEnezi",
+  "ar": "مشروع مفتوح المصدر من علي العنزي"
+ },
+ "footer_disclaimer": {
+  "en": "Not affiliated with or endorsed by any regulator. The official text is the regulator's publication.",
+  "ar": "غير مرتبط بأي جهة تنظيمية ولا معتمد منها والنص الرسمي هو ما تنشره الجهة التنظيمية."
+ },
+ "md_cover_score_note": {
+  "en": "Fill in the counts after assessing every applicable row.",
+  "ar": "املأ الأعداد بعد تقييم كل صف منطبق."
+ },
+ "md_profiles_legend": {
+  "en": "Profile legend",
+  "ar": "دليل الأنماط"
+ },
+ "md_how": {
+  "en": "Tick a row only when both the design and the effectiveness evidence exist.",
+  "ar": "لا تضع علامة على الصف إلا عند وجود دليل التصميم ودليل الفعالية معاً."
+ },
+ "see_official": {
+  "en": "Assess against the official control text on the linked page.",
+  "ar": "قيّم وفق نص الضابط الرسمي في الصفحة المرتبطة."
+ },
+ "controls_count": {
+  "en": "controls",
+  "ar": "ضابطاً"
+ },
+ "with_checks": {
+  "en": "with control level checks written",
+  "ar": "منها بنص تحقق على مستوى الضابط"
+ },
+ "no_rows": {
+  "en": "No control matches the current filters.",
+  "ar": "لا يوجد ضابط يطابق عوامل التصفية الحالية."
+ },
+ "relates": {
+  "en": "Relates to",
+  "ar": "يتصل بالضوابط"
+ },
+ "exported": {
+  "en": "File downloaded.",
+  "ar": "نُزّل الملف."
+ },
+ "cleared": {
+  "en": "Assessment cleared.",
+  "ar": "مُسح التقييم."
+ }
+}
