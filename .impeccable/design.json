@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-30T09:26:34Z",
+  "title": "Design System: Miyar",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "primary",
+        "displayName": "Ink",
+        "canonical": "oklch(25.7% 0.026 256)",
+        "tonalRamp": [
+          "oklch(15.0% 0.017 256)",
+          "oklch(26.4% 0.022 256)",
+          "oklch(37.9% 0.025 256)",
+          "oklch(49.3% 0.026 256)",
+          "oklch(60.7% 0.026 256)",
+          "oklch(72.1% 0.025 256)",
+          "oklch(83.6% 0.022 256)",
+          "oklch(95.0% 0.017 256)"
+        ]
+      },
+      "focus": {
+        "role": "primary",
+        "displayName": "Focus bracket",
+        "canonical": "oklch(25.7% 0.026 256)",
+        "tonalRamp": [
+          "oklch(15.0% 0.017 256)",
+          "oklch(26.4% 0.022 256)",
+          "oklch(37.9% 0.025 256)",
+          "oklch(49.3% 0.026 256)",
+          "oklch(60.7% 0.026 256)",
+          "oklch(72.1% 0.025 256)",
+          "oklch(83.6% 0.022 256)",
+          "oklch(95.0% 0.017 256)"
+        ]
+      },
+      "red": {
+        "role": "secondary",
+        "displayName": "Revision red",
+        "canonical": "oklch(50.1% 0.178 29)",
+        "tonalRamp": [
+          "oklch(15.0% 0.116 29)",
+          "oklch(26.4% 0.152 29)",
+          "oklch(37.9% 0.170 29)",
+          "oklch(49.3% 0.177 29)",
+          "oklch(60.7% 0.177 29)",
+          "oklch(72.1% 0.170 29)",
+          "oklch(83.6% 0.152 29)",
+          "oklch(95.0% 0.116 29)"
+        ]
+      },
+      "frame": {
+        "role": "neutral",
+        "displayName": "Frame",
+        "canonical": "oklch(92.9% 0.007 248)",
+        "tonalRamp": [
+          "oklch(15.0% 0.004 248)",
+          "oklch(26.4% 0.006 248)",
+          "oklch(37.9% 0.007 248)",
+          "oklch(49.3% 0.007 248)",
+          "oklch(60.7% 0.007 248)",
+          "oklch(72.1% 0.007 248)",
+          "oklch(83.6% 0.006 248)",
+          "oklch(95.0% 0.004 248)"
+        ]
+      },
+      "sheet": {
+        "role": "neutral",
+        "displayName": "Sheet",
+        "canonical": "oklch(100% 0 0)",
+        "tonalRamp": [
+          "oklch(15.0% 0 0)",
+          "oklch(26.4% 0 0)",
+          "oklch(37.9% 0 0)",
+          "oklch(49.3% 0 0)",
+          "oklch(60.7% 0 0)",
+          "oklch(72.1% 0 0)",
+          "oklch(83.6% 0 0)",
+          "oklch(95.0% 0 0)"
+        ]
+      },
+      "well": {
+        "role": "neutral",
+        "displayName": "Well",
+        "canonical": "oklch(97.2% 0.003 248)",
+        "tonalRamp": [
+          "oklch(15.0% 0.002 248)",
+          "oklch(26.4% 0.003 248)",
+          "oklch(37.9% 0.003 248)",
+          "oklch(49.3% 0.003 248)",
+          "oklch(60.7% 0.003 248)",
+          "oklch(72.1% 0.003 248)",
+          "oklch(83.6% 0.003 248)",
+          "oklch(95.0% 0.002 248)"
+        ]
+      },
+      "active": {
+        "role": "neutral",
+        "displayName": "Active",
+        "canonical": "oklch(95.1% 0.005 248)",
+        "tonalRamp": [
+          "oklch(15.0% 0.003 248)",
+          "oklch(26.4% 0.004 248)",
+          "oklch(37.9% 0.005 248)",
+          "oklch(49.3% 0.005 248)",
+          "oklch(60.7% 0.005 248)",
+          "oklch(72.1% 0.005 248)",
+          "oklch(83.6% 0.004 248)",
+          "oklch(95.0% 0.003 248)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "canonical": "oklch(85.4% 0.011 244)",
+        "tonalRamp": [
+          "oklch(15.0% 0.007 244)",
+          "oklch(26.4% 0.010 244)",
+          "oklch(37.9% 0.011 244)",
+          "oklch(49.3% 0.011 244)",
+          "oklch(60.7% 0.011 244)",
+          "oklch(72.1% 0.011 244)",
+          "oklch(83.6% 0.010 244)",
+          "oklch(95.0% 0.007 244)"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Rule",
+        "canonical": "oklch(91.0% 0.009 248)",
+        "tonalRamp": [
+          "oklch(15.0% 0.006 248)",
+          "oklch(26.4% 0.007 248)",
+          "oklch(37.9% 0.008 248)",
+          "oklch(49.3% 0.009 248)",
+          "oklch(60.7% 0.009 248)",
+          "oklch(72.1% 0.008 248)",
+          "oklch(83.6% 0.007 248)",
+          "oklch(95.0% 0.006 248)"
+        ]
+      },
+      "control": {
+        "role": "neutral",
+        "displayName": "Control",
+        "canonical": "oklch(84.2% 0.012 248)",
+        "tonalRamp": [
+          "oklch(15.0% 0.008 248)",
+          "oklch(26.4% 0.011 248)",
+          "oklch(37.9% 0.012 248)",
+          "oklch(49.3% 0.012 248)",
+          "oklch(60.7% 0.012 248)",
+          "oklch(72.1% 0.012 248)",
+          "oklch(83.6% 0.011 248)",
+          "oklch(95.0% 0.008 248)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "canonical": "oklch(50.4% 0.021 246)",
+        "tonalRamp": [
+          "oklch(15.0% 0.014 246)",
+          "oklch(26.4% 0.018 246)",
+          "oklch(37.9% 0.020 246)",
+          "oklch(49.3% 0.021 246)",
+          "oklch(60.7% 0.021 246)",
+          "oklch(72.1% 0.020 246)",
+          "oklch(83.6% 0.018 246)",
+          "oklch(95.0% 0.014 246)"
+        ]
+      },
+      "ink-press": {
+        "role": "primary",
+        "displayName": "Ink press",
+        "canonical": "oklch(18.9% 0.016 257)",
+        "tonalRamp": [
+          "oklch(15.0% 0.017 256)",
+          "oklch(26.4% 0.022 256)",
+          "oklch(37.9% 0.025 256)",
+          "oklch(49.3% 0.026 256)",
+          "oklch(60.7% 0.026 256)",
+          "oklch(72.1% 0.025 256)",
+          "oklch(83.6% 0.022 256)",
+          "oklch(95.0% 0.017 256)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "figure": {
+        "displayName": "Figure",
+        "purpose": "The coverage percentage in the sidebar cell and the title block's coverage cell."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "The view title, one per sheet, with a 12px muted subtitle on the same baseline."
+      },
+      "section": {
+        "displayName": "Section",
+        "purpose": "Headings inside a view and the domain headings of the ledger."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Checks, cell values, controls and prose; 70ch prose, 80ch area summaries, 60ch definitions."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Cell labels, sidebar labels, meta lines, x of y lines and bar numbers, always sentence case."
+      },
+      "meta": {
+        "displayName": "Meta",
+        "purpose": "Hints, the saved stamp, the page number under a reference, the ends of the cover bar."
+      },
+      "wordmark": {
+        "displayName": "Wordmark",
+        "purpose": "The product name in the sidebar with the other script beside it at body size; section size in the phone top bar."
+      }
+    },
+    "fonts": [
+      {
+        "name": "Readex Pro",
+        "source": "docs/fonts/readex-pro-arabic.woff2, readex-pro-latin.woff2, readex-pro-latin-ext.woff2",
+        "weights": "160 to 700 (variable)",
+        "purpose": "The one face for both scripts, self hosted, OFL."
+      },
+      {
+        "name": "Miyar Figures",
+        "source": "docs/fonts/plex-figures-400.woff2, plex-figures-500.woff2, plex-figures-600.woff2",
+        "weights": "400, 500, 600",
+        "purpose": "A digits-only subset of IBM Plex Sans (U+0030 to U+0039 and U+0025), first in the stack so every digit is tabular."
+      }
+    ],
+    "shadows": [],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.23, 1, 0.32, 1)",
+        "purpose": "The one curve: button press, bar growth, chevron turn."
+      },
+      {
+        "name": "t-fast",
+        "value": "160ms",
+        "purpose": "Button press and colour change, the summary chevron."
+      },
+      {
+        "name": "t-mid",
+        "value": "240ms",
+        "purpose": "The coverage bar's width."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "transition-duration: 0ms; animation-duration: 0ms; scroll-behavior: auto",
+        "purpose": "Under prefers-reduced-motion every transition collapses and smooth scrolling is off."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "phone",
+        "value": "900px",
+        "purpose": "At 900px and under the frame becomes a block, the sidebar becomes a menu sheet, the title block goes to two columns."
+      },
+      {
+        "name": "print",
+        "value": "print",
+        "purpose": "Only the cover page and the score print, on white, at 11pt, with 14mm margins."
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Button",
+      "kind": "button",
+      "refersTo": "button",
+      "description": "The default control: white, 1px control border, square corners, 32px tall; hover only with a fine pointer, press at scale 0.98.",
+      "html": "<button class=\"ds-btn\">Export CSV</button>",
+      "css": ".ds-btn { font: 400 14px/20px 'Readex Pro', 'Segoe UI', Tahoma, system-ui, sans-serif; height: 32px; padding: 0 12px; border: 1px solid var(--control, #c5ccd3); background: var(--sheet, #ffffff); color: var(--ink, #1b2430); border-radius: 0; cursor: pointer; white-space: nowrap; display: inline-flex; align-items: center; gap: 8px; transition: transform 160ms cubic-bezier(0.23, 1, 0.32, 1), background-color 160ms ease, border-color 160ms ease; } @media (hover: hover) and (pointer: fine) { .ds-btn:hover { background: var(--well, #f4f6f8); border-color: var(--muted, #5b6670); } } .ds-btn:active { transform: scale(0.98); } .ds-btn:focus-visible { outline: 2px solid var(--focus, #1b2430); outline-offset: 2px; } .ds-btn[disabled] { color: var(--muted, #5b6670); cursor: default; } @media (prefers-reduced-motion: reduce) { .ds-btn { transition-duration: 0ms; } }"
+    },
+    {
+      "name": "Primary button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The one filled button, save assessment file: ink on white, hover one step darker.",
+      "html": "<button class=\"ds-btn-primary\">Save assessment file</button>",
+      "css": ".ds-btn-primary { font: 400 14px/20px 'Readex Pro', 'Segoe UI', Tahoma, system-ui, sans-serif; height: 32px; padding: 0 12px; border: 1px solid var(--ink, #1b2430); background: var(--ink, #1b2430); color: var(--sheet, #ffffff); border-radius: 0; cursor: pointer; white-space: nowrap; display: inline-flex; align-items: center; gap: 8px; transition: transform 160ms cubic-bezier(0.23, 1, 0.32, 1), background-color 160ms ease; } @media (hover: hover) and (pointer: fine) { .ds-btn-primary:hover { background: var(--ink-press, #0f141b); } } .ds-btn-primary:active { transform: scale(0.98); } .ds-btn-primary:focus-visible { outline: 2px solid var(--focus, #1b2430); outline-offset: 2px; } @media (prefers-reduced-motion: reduce) { .ds-btn-primary { transition-duration: 0ms; } }"
+    },
+    {
+      "name": "Status select",
+      "kind": "input",
+      "refersTo": "field-input",
+      "description": "The field grammar: 32px, 1px control border, square corners, native appearance removed with a 12px ink chevron at the end edge.",
+      "html": "<select class=\"ds-select\" aria-label=\"Status 4.2.2.1\"><option>Not assessed</option><option selected>Compliant</option><option>Non-compliant</option><option>Not applicable</option><option>Exception requested</option><option>Inherited</option></select>",
+      "css": ".ds-select { font: 400 14px/20px 'Readex Pro', 'Segoe UI', Tahoma, system-ui, sans-serif; height: 32px; padding: 0 28px 0 8px; border: 1px solid var(--control, #c5ccd3); border-radius: 0; background-color: var(--sheet, #ffffff); color: var(--ink, #1b2430); appearance: none; -webkit-appearance: none; background-image: url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M2 4.5l4 4 4-4' fill='none' stroke='%231b2430' stroke-width='1.5' stroke-linecap='square'/%3E%3C/svg%3E\"); background-repeat: no-repeat; background-position: right 8px center; min-width: 188px; } [dir=rtl] .ds-select { padding: 0 8px 0 28px; background-position: left 8px center; } .ds-select:focus-visible { outline: 2px solid var(--focus, #1b2430); outline-offset: 2px; }"
+    },
+    {
+      "name": "Status marks",
+      "kind": "custom",
+      "refersTo": "status-mark",
+      "description": "Six 10px squares read by shape before colour: outline, filled ink, filled red, hatched, half, dotted.",
+      "html": "<div class=\"ds-marks\"><span><i class=\"ds-mark\"></i>Not assessed</span><span><i class=\"ds-mark ds-mark-compliant\"></i>Compliant</span><span><i class=\"ds-mark ds-mark-noncompliant\"></i>Non-compliant</span><span><i class=\"ds-mark ds-mark-exception\"></i>Exception requested</span><span><i class=\"ds-mark ds-mark-na\"></i>Not applicable</span><span><i class=\"ds-mark ds-mark-inherited\"></i>Inherited</span></div>",
+      "css": ".ds-marks { font: 400 14px/20px 'Readex Pro', 'Segoe UI', Tahoma, system-ui, sans-serif; color: var(--ink, #1b2430); display: grid; gap: 8px; } .ds-marks span { display: flex; align-items: center; gap: 8px; } .ds-mark { display: inline-block; position: relative; overflow: hidden; width: 10px; height: 10px; flex: none; border: 1px solid var(--ink, #1b2430); background: var(--sheet, #ffffff); border-radius: 0; } .ds-mark-compliant { background: var(--ink, #1b2430); } .ds-mark-noncompliant { background: var(--red, #b3261e); border-color: var(--red, #b3261e); } .ds-mark-exception { background-color: var(--sheet, #ffffff); background-image: url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath d='M0 4L4 0M-1 1l2-2M3 5l2-2' stroke='%231b2430' stroke-width='1'/%3E%3C/svg%3E\"); } .ds-mark-na::after { content: ''; position: absolute; top: 0; bottom: 0; inset-inline-start: 0; width: 50%; background: var(--ink, #1b2430); } .ds-mark-inherited { border-style: dotted; }"
+    },
+    {
+      "name": "Title block",
+      "kind": "card",
+      "refersTo": "title-block-cell",
+      "description": "The signature: white cells on a six-column grid with 1px gaps on the line colour, labels at 12px muted, borderless inputs, a focus bracket on the cell.",
+      "html": "<div class=\"ds-block\"><div class=\"ds-cell ds-c-3\"><label class=\"ds-lbl\" for=\"ds-name\">Application or vendor name</label><input id=\"ds-name\" type=\"text\" value=\"Payments gateway\"></div><div class=\"ds-cell ds-c-3\"><label class=\"ds-lbl\" for=\"ds-desc\">Business description</label><textarea id=\"ds-desc\" rows=\"2\">Card acquiring for merchants, clears through the national switch.</textarea><span class=\"ds-hint\">What it does, for whom, and which business service depends on it.</span></div><div class=\"ds-cell ds-c-2\"><label class=\"ds-lbl\" for=\"ds-owner\">Business owner</label><input id=\"ds-owner\" type=\"text\" value=\"Head of cards\"></div><div class=\"ds-cell ds-c-2\"><label class=\"ds-lbl\" for=\"ds-tech\">Technology owner</label><input id=\"ds-tech\" type=\"text\" value=\"Payments platform lead\"></div><div class=\"ds-cell ds-c-2\"><label class=\"ds-lbl\" for=\"ds-assessor\">Assessor</label><input id=\"ds-assessor\" type=\"text\" value=\"Security architecture\"></div></div>",
+      "css": ".ds-block { font: 400 14px/20px 'Readex Pro', 'Segoe UI', Tahoma, system-ui, sans-serif; color: var(--ink, #1b2430); display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 1px; background: var(--line, #c9d0d6); border: 1px solid var(--line, #c9d0d6); border-radius: 0; overflow: hidden; } .ds-cell { background: var(--sheet, #ffffff); padding: 8px 12px 12px; min-height: 64px; display: flex; flex-direction: column; gap: 4px; position: relative; } .ds-cell:focus-within { outline: 2px solid var(--focus, #1b2430); outline-offset: -2px; } .ds-lbl { font-size: 12px; line-height: 16px; color: var(--muted, #5b6670); } .ds-cell input, .ds-cell textarea { font: inherit; color: inherit; border: 0; background: transparent; padding: 0; width: 100%; min-height: 24px; line-height: 24px; outline: none; border-radius: 0; } .ds-cell textarea { resize: vertical; min-height: 72px; line-height: 20px; } .ds-hint { font-size: 11px; line-height: 14px; color: var(--muted, #5b6670); } .ds-c-3 { grid-column: span 3; } .ds-c-2 { grid-column: span 2; } @media (max-width: 900px) { .ds-block { grid-template-columns: repeat(2, minmax(0, 1fr)); } .ds-c-3, .ds-c-2 { grid-column: span 2; } }"
+    },
+    {
+      "name": "Sidebar navigation",
+      "kind": "nav",
+      "refersTo": "view-link",
+      "description": "Picker rows and view links on the frame: 34px rows bled 8px into the gutter, the current one white at weight 500, hover one tint darker.",
+      "html": "<aside class=\"ds-side\"><span class=\"ds-side-label\">Checklist</span><div class=\"ds-picker\"><label><input type=\"radio\" name=\"ds-list\" checked> On-premises application</label><label><input type=\"radio\" name=\"ds-list\"> Cloud application</label><label><input type=\"radio\" name=\"ds-list\"> Vendor or third party</label></div><nav class=\"ds-views\"><a href=\"#guide\">How to use</a><a href=\"#cover\" aria-current=\"page\">Cover page</a><a href=\"#profiles\">Profiles</a><a href=\"#controls\">Controls</a><a href=\"#score\">Score</a></nav></aside>",
+      "css": ".ds-side { font: 400 14px/20px 'Readex Pro', 'Segoe UI', Tahoma, system-ui, sans-serif; color: var(--ink, #1b2430); background: var(--frame, #e4e8ec); width: 240px; padding: 20px 16px 16px; display: flex; flex-direction: column; gap: 20px; } .ds-side-label { display: block; font-size: 12px; line-height: 16px; color: var(--muted, #5b6670); margin-bottom: 4px; } .ds-picker, .ds-views { display: flex; flex-direction: column; } .ds-picker label, .ds-views a { display: flex; align-items: center; gap: 8px; min-height: 34px; padding: 0 8px; margin: 0 -8px; border-radius: 0; cursor: pointer; text-decoration: none; color: var(--ink, #1b2430); } .ds-picker input { accent-color: var(--ink, #1b2430); width: 14px; height: 14px; margin: 0; } .ds-picker label:has(input:checked) { background: var(--sheet, #ffffff); font-weight: 500; } .ds-views a { color: var(--muted, #5b6670); } .ds-views a[aria-current=page] { background: var(--sheet, #ffffff); color: var(--ink, #1b2430); font-weight: 500; } @media (hover: hover) and (pointer: fine) { .ds-picker label:hover, .ds-views a:hover { background: var(--active, #eceff2); color: var(--ink, #1b2430); } } .ds-views a:focus-visible, .ds-picker input:focus-visible { outline: 2px solid var(--focus, #1b2430); outline-offset: 2px; }"
+    },
+    {
+      "name": "Tabs",
+      "kind": "nav",
+      "refersTo": "tab",
+      "description": "The baseline filter: text tabs on a 1px rule, wrapping when tight, the selected one ink with a 2px ink underline at weight 500.",
+      "html": "<div class=\"ds-tabs\" role=\"tablist\"><button type=\"button\" role=\"tab\" aria-selected=\"true\">All</button><button type=\"button\" role=\"tab\" aria-selected=\"false\">Cyber Resilience Baselines</button><button type=\"button\" role=\"tab\" aria-selected=\"false\">Operational Resilience Baselines</button><button type=\"button\" role=\"tab\" aria-selected=\"false\">Third-Party Risk Management Baselines</button></div>",
+      "css": ".ds-tabs { font: 400 14px/20px 'Readex Pro', 'Segoe UI', Tahoma, system-ui, sans-serif; display: flex; flex-wrap: wrap; gap: 0 20px; border-bottom: 1px solid var(--rule, #dde2e7);  } .ds-tabs button { font: inherit; border: 0; background: none; padding: 0 0 8px; margin-bottom: -1px; border-bottom: 2px solid transparent; color: var(--muted, #5b6670); cursor: pointer; white-space: nowrap; line-height: 20px; } .ds-tabs button[aria-selected=true] { color: var(--ink, #1b2430); border-bottom-color: var(--ink, #1b2430); font-weight: 500; } @media (hover: hover) and (pointer: fine) { .ds-tabs button:hover { color: var(--ink, #1b2430); } } .ds-tabs button:focus-visible { outline: 2px solid var(--focus, #1b2430); outline-offset: 2px; }"
+    },
+    {
+      "name": "Ledger row",
+      "kind": "custom",
+      "refersTo": "ledger-row",
+      "description": "The schedule row: mark, body-size reference with its page, the check with its meta line and evidence details, and the status select; a gap row turns its reference red.",
+      "html": "<div class=\"ds-ledger\"><div class=\"ds-row\"><i class=\"ds-mark ds-mark-compliant\" aria-hidden=\"true\"></i><div class=\"ds-ref\"><a href=\"#\">4.2.2.1</a><small>page 232</small></div><div><p class=\"ds-check\">Risk identification for this system covers internal and external threats and vulnerabilities and the confidentiality, integrity and availability principles.</p><div class=\"ds-meta\"><span>Application, base</span><details><summary>Design evidence / Effectiveness evidence</summary><div class=\"ds-evidence\"><label>Design evidence<textarea></textarea></label><label>Effectiveness evidence<textarea></textarea></label></div></details></div></div><select class=\"ds-select\" aria-label=\"Status 4.2.2.1\"><option>Not assessed</option><option selected>Compliant</option><option>Non-compliant</option></select></div><div class=\"ds-row ds-gap\"><i class=\"ds-mark ds-mark-noncompliant\" aria-hidden=\"true\"></i><div class=\"ds-ref\"><a href=\"#\">4.2.2.4</a><small>page 232</small></div><div><p class=\"ds-check\">Each risk is rated by severity, business impact and likelihood with the residual risk value recorded.</p><div class=\"ds-meta\"><span>Application, base</span><details><summary>Design evidence / Effectiveness evidence</summary></details></div></div><select class=\"ds-select\" aria-label=\"Status 4.2.2.4\"><option>Not assessed</option><option>Compliant</option><option selected>Non-compliant</option></select></div></div>",
+      "css": ".ds-ledger { font: 400 14px/20px 'Readex Pro', 'Segoe UI', Tahoma, system-ui, sans-serif; color: var(--ink, #1b2430); font-variant-numeric: tabular-nums; } .ds-row { display: grid; grid-template-columns: 10px 64px minmax(0, 1fr) 188px; gap: 4px 12px; align-items: start; padding: 8px 0; border-top: 1px solid var(--rule, #dde2e7); min-height: 44px; } .ds-mark { display: inline-block; width: 10px; height: 10px; margin-top: 5px; border: 1px solid var(--ink, #1b2430); background: var(--sheet, #ffffff); border-radius: 0; } .ds-mark-compliant { background: var(--ink, #1b2430); } .ds-mark-noncompliant { background: var(--red, #b3261e); border-color: var(--red, #b3261e); } .ds-ref { font-size: 14px; line-height: 20px; } .ds-ref a { color: var(--ink, #1b2430); text-decoration: none; } .ds-ref a:hover { text-decoration: underline; text-underline-offset: 3px; } .ds-gap .ds-ref a { color: var(--red, #b3261e); } .ds-ref small { display: block; font-size: 11px; line-height: 14px; color: var(--muted, #5b6670); } .ds-check { margin: 0; } .ds-meta { font-size: 12px; line-height: 16px; color: var(--muted, #5b6670); margin-top: 2px; display: flex; flex-wrap: wrap; gap: 2px 12px; align-items: baseline; } .ds-meta details { margin: 0; } .ds-meta details[open] { flex: 1 1 100%; } .ds-meta summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 4px; } .ds-meta summary::-webkit-details-marker { display: none; } .ds-meta summary::before { content: ''; width: 6px; height: 6px; border: 1px solid var(--muted, #5b6670); border-width: 0 1px 1px 0; transform: rotate(-45deg); margin-inline-end: 2px; transition: transform 160ms cubic-bezier(0.23, 1, 0.32, 1); } [dir=rtl] .ds-meta summary::before { transform: rotate(135deg); } .ds-meta details[open] summary::before { transform: rotate(45deg); } @media (hover: hover) and (pointer: fine) { .ds-meta summary:hover { color: var(--ink, #1b2430); } } .ds-evidence { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 8px 12px; margin-top: 8px; } .ds-evidence label { display: flex; flex-direction: column; gap: 4px; } .ds-evidence textarea { font: inherit; min-height: 56px; border: 1px solid var(--control, #c5ccd3); border-radius: 0; padding: 4px 8px; resize: vertical; font-size: 14px; line-height: 20px; color: var(--ink, #1b2430); background: var(--sheet, #ffffff); } .ds-select { font: inherit; height: 32px; padding: 0 28px 0 8px; border: 1px solid var(--control, #c5ccd3); border-radius: 0; background-color: var(--sheet, #ffffff); color: var(--ink, #1b2430); appearance: none; -webkit-appearance: none; width: 100%; background-image: url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M2 4.5l4 4 4-4' fill='none' stroke='%231b2430' stroke-width='1.5' stroke-linecap='square'/%3E%3C/svg%3E\"); background-repeat: no-repeat; background-position: right 8px center; } .ds-select:focus-visible, .ds-ref a:focus-visible, .ds-meta summary:focus-visible { outline: 2px solid var(--focus, #1b2430); outline-offset: 2px; } @media (max-width: 900px) { .ds-row { grid-template-columns: 10px 56px minmax(0, 1fr); } .ds-row .ds-select { grid-column: 2 / -1; } }"
+    },
+    {
+      "name": "Coverage cell",
+      "kind": "custom",
+      "refersTo": "coverage-track",
+      "description": "One variable drawn one way: the 32px figure, an ink bar on a frame-tinted track, and x of y with the ends; the fill grows over 240ms.",
+      "html": "<div class=\"ds-coverage\"><span class=\"ds-lbl\">Coverage</span><div class=\"ds-fig\">21%</div><div class=\"ds-of\">43 of 208 of applicable controls compliant</div><div class=\"ds-track\"><div class=\"ds-fill\" style=\"width:21%\"></div></div><div class=\"ds-ends\"><span>0</span><span>208</span></div><table class=\"ds-by\"><tbody><tr><td>Cyber Resilience Baselines</td><td class=\"ds-n\">43 of 200, 22%</td></tr><tr><td>Operational Resilience Baselines</td><td class=\"ds-n\">0 of 8, 0%</td></tr><tr><td>Architecture extensions</td><td class=\"ds-n\">0 of 17</td></tr></tbody></table></div>",
+      "css": ".ds-coverage { font: 400 14px/20px 'Readex Pro', 'Segoe UI', Tahoma, system-ui, sans-serif; color: var(--ink, #1b2430); font-variant-numeric: tabular-nums; background: var(--sheet, #ffffff); border: 1px solid var(--line, #c9d0d6); border-radius: 0; padding: 8px 12px 12px; display: flex; flex-direction: column; gap: 8px; max-width: 360px; } .ds-lbl { font-size: 12px; line-height: 16px; color: var(--muted, #5b6670); } .ds-fig { font-size: 32px; line-height: 36px; font-weight: 500; letter-spacing: -0.02em; } .ds-of { font-size: 12px; line-height: 16px; color: var(--muted, #5b6670); } .ds-track { position: relative; height: 8px; background: var(--frame, #e4e8ec); border-radius: 0; overflow: hidden; } .ds-fill { position: absolute; inset: 0 auto 0 0; background: var(--ink, #1b2430); transition: width 240ms cubic-bezier(0.23, 1, 0.32, 1); } [dir=rtl] .ds-fill { inset: 0 0 0 auto; } .ds-ends { display: flex; justify-content: space-between; font-size: 11px; line-height: 14px; color: var(--muted, #5b6670); } .ds-by { width: 100%; border-collapse: collapse; font-size: 12px; line-height: 16px; } .ds-by td { padding: 3px 0; border-top: 1px solid var(--rule, #dde2e7); vertical-align: top; } .ds-by td.ds-n { text-align: end; white-space: nowrap; padding-inline-start: 12px; } @media (prefers-reduced-motion: reduce) { .ds-fill { transition-duration: 0ms; } }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Drawing Sheet",
+    "overview": "Miyar is drawn as the security architect's own drawing set. The screen is a white sheet inset in a drafting grey frame. The cover page is the sheet's title block, a grid of labelled cells on 1px lines; the control ledger is the sheet's schedule; the coverage figure is stamped in the title block's last cell and repeated in the sidebar and the phone strip. The people who use it are security architects in financial institutions of the Arabian Gulf, in long desk sessions, in Arabic or English, so the sheet is dense, quiet and the same in both scripts.\n\nEverything is ink on a sheet at one device pixel. Hierarchy comes from type size, weight and tone (ink against muted), never from colour or chrome. The palette is an ink, five greys between the frame and the sheet, and one revision red that marks what still needs an answer. Surfaces are flat: no shadow, no gradient, depth is a tint and a line. Status is read from the shape of a small square mark before its colour. Figures are tabular, end aligned and written as \"x of y\" so a count is never a bare number.\n\nThe world refuses the compliance dashboard arrangement: no grey ground with white cards, no coloured sidebar pill, no donut, no blue accent on chrome. Motion is restricted to the press of a button, the growth of a coverage bar and the turn of a chevron; views switch without transition and the ledger never reflows when a status changes.",
+    "keyCharacteristics": [
+      "A white sheet with a 1px line border inset in a drafting grey frame; the sidebar sits directly on the frame.",
+      "One typeface for both scripts (Readex Pro) with a digits-only figures face (Miyar Figures) for every number.",
+      "A six-step type ramp (32, 24, 16, 14, 12, 11) and an eight-step spacing scale (4 to 40).",
+      "Ink for text, lines and fills; revision red only for what is unresolved.",
+      "Status marks that read by shape: outline, filled ink, filled red, hatched, half, dotted.",
+      "The title block: cells on a 1px line grid, a focus bracket on the cell, the coverage figure in the last cell.",
+      "Flat surfaces, square corners, 1px lines, 32px controls, 44px ledger rows.",
+      "Right to left as a native layout with logical properties; inputs follow their own text direction."
+    ],
+    "rules": [
+      {
+        "name": "The Revision Red Rule",
+        "body": "Red marks a gap and nothing else: the non-compliant mark and the reference of a gap row. Red never tints a surface, a bar, a row, a button, a gate triangle or chrome.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Hue Rule",
+        "body": "The stylesheet carries one chromatic hue, revision red. Everything else is the ink or a grey between the frame and the sheet. There is no blue, no green, no amber, and no second accent.",
+        "section": "colors"
+      },
+      {
+        "name": "The Shape Before Colour Rule",
+        "body": "Every status is told apart by the shape of its mark (outline, fill, hatch, half, dotted) before its colour. Colour confirms; it is never the message.",
+        "section": "colors"
+      },
+      {
+        "name": "The Figures Rule",
+        "body": "Every number is set in the figures face, tabular, on one hard end margin, written as \"x of y\" with the denominator visible; a percentage follows its count and the percent sign stays attached to the figure.",
+        "section": "typography"
+      },
+      {
+        "name": "The Sentence Case Rule",
+        "body": "A label is 12px muted sentence case above its value. There is no uppercase, no letter-spaced eyebrow, no kicker anywhere on the sheet.",
+        "section": "typography"
+      },
+      {
+        "name": "The One Face Rule",
+        "body": "Readex Pro sets both scripts. Arabic gets the same size, weight and colour as English, and the layout mirrors rather than translates.",
+        "section": "typography"
+      },
+      {
+        "name": "The Full Sheet Rule",
+        "body": "The sheet always runs the full height of the viewport with its footer pinned to the bottom edge, so a short view still shows a complete sheet, never a card floating in the frame.",
+        "section": "layout"
+      },
+      {
+        "name": "The Grid Never Moves Rule",
+        "body": "A status change restyles its row in place (the mark, the reference colour, the select value) and re-renders only the score. The ledger does not reflow. Opening a row's evidence is the one thing that grows a row.",
+        "section": "layout"
+      },
+      {
+        "name": "The Flat Sheet Rule",
+        "body": "No shadow at rest or on any state, no gradient. A surface that must read as above another is white on the frame with a 1px line, or one tint darker on hover.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Device Pixel Rule",
+        "body": "Every line is 1px. A heavier stroke appears only to say \"here\": the 2px focus bracket and the 2px underline of the selected tab.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "Do set every number in the figures face, tabular and end aligned, written as \"x of y\"; keep the percent sign attached to its figure.",
+      "Do draw a new surface as white cells on a 1px line grid (1px gaps on the line colour) rather than as cards on a tinted ground.",
+      "Do give every control the 32px height, the 1px control border and square corners; gate hover behind hover and a fine pointer; press at scale(0.98) over 160ms ease-out; honour prefers-reduced-motion.",
+      "Do add a new status as a new mark shape first (outline, fill, hatch, half, dotted) and a colour second.",
+      "Do mirror with dir=rtl and logical properties; give text inputs and textareas dir=auto so each follows its own content; flip chevrons and anchor bar fills to the inline end.",
+      "Do bracket focus with the 2px ink outline, 2px outside a control and 2px inside a title block cell.",
+      "Do keep labels at 12px muted sentence case above their value, and prose within 70ch."
+    ],
+    "donts": [
+      "Don't build the compliance dashboard: no grey ground with white cards, no coloured sidebar pill, no donut, no blue accent on chrome.",
+      "Don't add a shadow or a gradient at rest or on any state; the hatch (a 4px SVG) is the only pattern.",
+      "Don't use uppercase labels, letter-spaced eyebrows or kickers.",
+      "Don't tint a row, a bar, a button or a surface red; red is for the non-compliant mark and a gap row's reference only.",
+      "Don't bring in an icon font or glyph icons; the only icons are 1px SVG strokes in ink (the menu lines, the select chevron, the summary chevron, the calendar mark) and the numbered revision triangle.",
+      "Don't rely on colour alone for a status; the mark's shape carries it.",
+      "Don't let a status change reflow the ledger; restyle the row in place and re-render the score only.",
+      "Don't let a cell truncate its entry; a value that outgrows its cell wraps and the cell grows."
+    ]
+  }
+}

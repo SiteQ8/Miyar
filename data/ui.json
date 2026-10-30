@@ -508,5 +508,121 @@
  "cleared": {
   "en": "Assessment cleared.",
   "ar": "مُسح التقييم."
+ },
+ "menu": {
+  "en": "Menu",
+  "ar": "القائمة"
+ },
+ "close": {
+  "en": "Close",
+  "ar": "إغلاق"
+ },
+ "of_total": {
+  "en": "of",
+  "ar": "من"
+ },
+ "all": {
+  "en": "All",
+  "ar": "الكل"
+ },
+ "signoff_name": {
+  "en": "Name",
+  "ar": "الاسم"
+ },
+ "signoff_date": {
+  "en": "Date",
+  "ar": "التاريخ"
+ },
+ "signoff_sign": {
+  "en": "Signature",
+  "ar": "التوقيع"
+ },
+ "field": {
+  "en": "Field",
+  "ar": "الحقل"
+ },
+ "value": {
+  "en": "Value",
+  "ar": "القيمة"
+ },
+ "ref": {
+  "en": "Ref",
+  "ar": "المرجع"
+ },
+ "level": {
+  "en": "Level",
+  "ar": "المستوى"
+ },
+ "profiles_col": {
+  "en": "Profiles",
+  "ar": "الأنماط"
+ },
+ "status": {
+  "en": "Status",
+  "ar": "الحالة"
+ },
+ "evidence": {
+  "en": "Evidence",
+  "ar": "الدليل"
+ },
+ "role": {
+  "en": "Role",
+  "ar": "الدور"
+ },
+ "baseline": {
+  "en": "Baseline",
+  "ar": "الضوابط الأساسية"
+ },
+ "compliant_short": {
+  "en": "compliant",
+  "ar": "ملتزمة"
+ },
+ "sidebar_label": {
+  "en": "Checklist and views",
+  "ar": "قائمة التحقق والأقسام"
+ },
+ "views_label": {
+  "en": "Views",
+  "ar": "الأقسام"
+ },
+ "wordmark_tagline": {
+  "en": "Security architecture checklists",
+  "ar": "قوائم التحقق للمعمارية الأمنية"
+ },
+ "version_line": {
+  "en": "Version {V} with {N} controls, {C} of them carrying a control level check.",
+  "ar": "الإصدار {V} ويضم {N} ضابطاً منها {C} بنص تحقق على مستوى الضابط."
+ },
+ "file_title": {
+  "en": "What the file holds",
+  "ar": "ما يحمله الملف"
+ },
+ "file_name": {
+  "en": "File name",
+  "ar": "اسم الملف"
+ },
+ "file_assessed": {
+  "en": "Controls assessed",
+  "ar": "الضوابط المقيّمة"
+ },
+ "file_profiles": {
+  "en": "Profiles on",
+  "ar": "الأنماط المفعلة"
+ },
+ "file_updated": {
+  "en": "Last change",
+  "ar": "آخر تغيير"
+ },
+ "file_none": {
+  "en": "Nothing assessed yet",
+  "ar": "لا شيء مقيّم بعد"
+ },
+ "file_lists": {
+  "en": "Checklist",
+  "ar": "قائمة التحقق"
+ },
+ "check_col": {
+  "en": "Check",
+  "ar": "التحقق"
  }
 }
