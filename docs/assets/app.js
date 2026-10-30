@@ -25,13 +25,19 @@
     for (const k of kids) if (k != null) n.append(k);
     return n;
   };
-  const svg = (path, cls) => {
-    const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-    s.setAttribute('viewBox', '0 0 12 11'); s.setAttribute('aria-hidden', 'true'); if (cls) s.setAttribute('class', cls);
-    const p = document.createElementNS('http://www.w3.org/2000/svg', 'path'); p.setAttribute('d', path); s.append(p);
+  // A drafting revision triangle: outlined ink at one device pixel with the gate's number inside
+  const tri = (n) => {
+    const NS = 'http://www.w3.org/2000/svg';
+    const s = document.createElementNS(NS, 'svg');
+    s.setAttribute('viewBox', '0 0 18 17'); s.setAttribute('aria-hidden', 'true'); s.setAttribute('class', 'tri');
+    const p = document.createElementNS(NS, 'path'); p.setAttribute('d', 'M9 1L17.5 16.5H0.5Z'); s.append(p);
+    const t = document.createElementNS(NS, 'text'); t.setAttribute('x', '9'); t.setAttribute('y', '14'); t.textContent = String(n); s.append(t);
     return s;
   };
-  const TRI = 'M6 0.5L11.5 10.5H0.5Z';
+  const FIELD_SIZING = !!(window.CSS && CSS.supports && CSS.supports('field-sizing', 'content'));
+  // Fallback for browsers without field-sizing: the cell grows to its text
+  const grow = (ta) => { if (FIELD_SIZING || !ta.offsetParent) return; ta.style.height = 'auto'; ta.style.height = ta.scrollHeight + 'px'; };
+  const growAll = () => { for (const ta of document.querySelectorAll('.cell textarea')) grow(ta); };
   const store = {
     get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
     set(k, v) { try { localStorage.setItem(k, v); return true; } catch (e) { return false; } },
@@ -41,6 +47,12 @@
   const state = { lang: store.get('checklists:lang') || ((navigator.language || '').startsWith('ar') ? 'ar' : 'en'), jur: 'kw', list: 'onprem', baseline: 'all', search: '', showInherited: false, onlyGaps: false, view: 'cover' };
   if (!['ar', 'en'].includes(state.lang)) state.lang = 'en';
   const T = (k) => (UI[k] ? UI[k][state.lang] : k);
+  const other = () => (state.lang === 'ar' ? 'en' : 'ar');
+  const T2 = (k) => (UI[k] ? UI[k][other()] : k);
+  // A cell label: the current language on screen, both languages on the printed sheet
+  const lbl = (k, forId) => el('div', { class: 'lbl-row' },
+    forId ? el('label', { class: 'lbl', for: forId, text: T(k) }) : el('span', { class: 'lbl', text: T(k) }),
+    el('span', { class: 'lbl alt', lang: other(), dir: 'auto', text: T2(k) }));
   const N = (o) => (state.lang === 'ar' ? (o.title_ar || o.ar || o.title_en || o.en) : (o.title_en || o.en));
   const J = () => D.data[state.jur];
   const jurMeta = () => D.jurisdictions.jurisdictions.find((j) => j.id === state.jur);
@@ -111,6 +123,7 @@
     document.body.classList.remove('menu-open');
     $('#menu-toggle').setAttribute('aria-expanded', 'false');
     if (push) window.scrollTo({ top: 0, behavior: 'auto' });
+    if (id === 'cover') growAll();
   }
 
   // Static text
@@ -156,21 +169,30 @@
       let input;
       if (type === 'textarea') input = el('textarea', { id: 'c-' + id, rows: '3', dir: 'auto' });
       else if (type === 'select') input = el('select', { id: 'c-' + id }, el('option', { value: '', text: '' }), ...opts.map((o) => el('option', { value: o, text: T(o) })));
-      else input = el('input', { id: 'c-' + id, type, ...(type === 'text' ? { dir: 'auto' } : {}) });
+      else if (type === 'text') {
+        // A drawn cell never truncates its entry: single line entries wrap and the cell grows
+        input = el('textarea', { id: 'c-' + id, class: 'one', rows: '1', dir: 'auto', onkeydown: (e) => { if (e.key === 'Enter') e.preventDefault(); } });
+      } else input = el('input', { id: 'c-' + id, type });
       input.value = A.cover[id] || '';
-      input.addEventListener('input', () => { A.cover[id] = input.value; save(); });
-      const cell = el('div', { class: 'cell ' + span }, el('label', { class: 'lbl', for: 'c-' + id, text: T(label) }), input);
+      const syncDate = () => { if (type === 'date') input.classList.toggle('empty', !input.value); };
+      syncDate();
+      input.addEventListener('input', () => {
+        if (type === 'text' && /\n/.test(input.value)) input.value = input.value.replace(/\n+/g, ' ');
+        A.cover[id] = input.value; save(); syncDate(); grow(input);
+      });
+      const cell = el('div', { class: 'cell ' + span }, lbl(label, 'c-' + id), input);
       if (id === 'desc') cell.append(el('span', { class: 'hint', text: T('cover_desc_hint') }));
       return cell;
     });
-    const flags = el('div', { class: 'cell c-6' }, el('span', { class: 'lbl', text: T('cover_flags') }),
+    const flags = el('div', { class: 'cell c-6' }, lbl('cover_flags'),
       el('div', { class: 'checks' }, ...FLAGS.map((fl) => el('label', {}, el('input', { type: 'checkbox', ...(A.flags[fl] ? { checked: '' } : {}), onchange: (e) => { A.flags[fl] = e.target.checked; save(true); renderScore(); } }), el('span', { text: T('flag_' + fl) })))));
-    const coverage = el('div', { class: 'cell c-2 coverage-cell' }, el('span', { class: 'lbl', text: T('cover_coverage') }), el('div', { id: 'cover-score' }));
-    const gates = el('div', { class: 'cell c-4' }, el('span', { class: 'lbl', text: T('cover_gates') }), el('ul', { class: 'gates', id: 'cover-gates' }));
+    const coverage = el('div', { class: 'cell c-2 coverage-cell' }, lbl('cover_coverage'), el('div', { id: 'cover-score' }));
+    const gates = el('div', { class: 'cell c-4' }, lbl('cover_gates'), el('ul', { class: 'gates', id: 'cover-gates' }));
     f.replaceChildren(...cells, flags, coverage, gates);
-    $('#signoff').replaceChildren(...['signoff_business', 'signoff_security', 'signoff_risk'].map((k) => el('div', { class: 'cell' }, el('span', { class: 'lbl', text: T('cover_signoff') }), el('div', { text: T(k) }),
-      ...['signoff_name', 'signoff_date', 'signoff_sign'].map((x) => el('div', { class: 'line' }, el('span', { text: T(x) }))))));
+    $('#signoff').replaceChildren(...['signoff_business', 'signoff_security', 'signoff_risk'].map((k) => el('div', { class: 'cell' }, lbl('cover_signoff'), el('div', { text: T(k) }),
+      ...['signoff_name', 'signoff_date', 'signoff_sign'].map((x) => el('div', { class: 'line' }, el('span', { text: T(x) }), el('span', { class: 'lbl alt', lang: other(), dir: 'auto', text: T2(x) }))))));
     renderScore();
+    growAll();
   }
 
   function renderProfiles() {
@@ -200,6 +222,8 @@
     return box;
   }
   function rowClass(r) { return 'row' + (isGap(r) ? ' gap' : ''); }
+  // The schedule's column head: mark, reference, check, status
+  const head = () => el('div', { class: 'row head', 'aria-hidden': 'true' }, el('span'), el('span', { text: T('ref') }), el('span', { text: T('check_col') }), el('span', { class: 'st', text: T('status') }));
   function profileNames(ids) {
     const map = Object.fromEntries(D.profiles.profiles.map((p) => [p.id, p]));
     return ids.map((x) => (map[x] ? N(map[x]) : x)).join(state.lang === 'ar' ? ' و' : ', ');
@@ -235,9 +259,9 @@
       if (r.area !== lastA) { const a = areas[r.area]; out.push(el('div', { class: 'area' }, el('div', { class: 'area-title', text: `${a.ref} ${N(a)}` }), el('p', { class: 'summary', text: state.lang === 'ar' ? a.summary_ar : a.summary_en }))); lastA = r.area; }
       out.push(controlRow(r, j));
     }
-    $('#ledger').replaceChildren(...(out.length ? out : [el('p', { class: 'empty', text: T('no_rows') })]));
+    $('#ledger').replaceChildren(head(), ...(out.length ? out : [el('p', { class: 'empty', text: T('no_rows') })]));
     const ext = extApplicable();
-    const eo = [];
+    const eo = [head()];
     let lastG = '';
     for (const c of ext) {
       if (c.group !== lastG) { eo.push(el('div', { class: 'subdomain', text: N(j.extensions.groups.find((g) => g.id === c.group)) })); lastG = c.group; }
@@ -248,7 +272,7 @@
       const det = el('details', {}, el('summary', { text: T('note') }));
       det.addEventListener('toggle', () => { if (det.open && det.childElementCount === 1) det.append(evidenceBlock(rec, [['note', 'note']])); });
       row.append(mark, el('div', { class: 'ref', text: c.id }),
-        el('div', {}, el('p', { class: 'check', text: state.lang === 'ar' ? c.ar : c.en }), el('div', { class: 'meta' }, el('span', { text: `${T('relates')} ${c.relates.join(state.lang === 'ar' ? ' و' : ', ')}${c.profiles.length ? ' · ' + profileNames(c.profiles) : ''}` }), det)),
+        el('div', { class: 'txt' }, el('p', { class: 'check', text: state.lang === 'ar' ? c.ar : c.en }), el('div', { class: 'meta' }, el('span', { text: `${T('relates')} ${c.relates.join(state.lang === 'ar' ? ' و' : ', ')}${c.profiles.length ? ' · ' + profileNames(c.profiles) : ''}` }), det)),
         statusSelect(st, `${T('status')} ${c.id}`, (v) => { rec.status = v; mark.className = 'mark m-' + v; row.className = 'row' + (v === 'noncompliant' || v === 'unassessed' ? ' gap' : ''); save(true); renderScore(); }));
       eo.push(row);
     }
@@ -268,7 +292,7 @@
     row.append(
       mark,
       el('div', { class: 'ref' }, el('a', { href: `${j.pdf}#page=${r.page}`, target: '_blank', rel: 'noopener', text: r.ref }), el('small', { text: `${T('page')} ${r.page}` })),
-      el('div', {}, check, el('div', { class: 'meta' }, el('span', { text: meta }), det)),
+      el('div', { class: 'txt' }, check, el('div', { class: 'meta' }, el('span', { text: meta }), det)),
       statusSelect(st, `${T('status')} ${r.ref}`, (v) => { rec.status = v; mark.className = 'mark m-' + v; row.className = rowClass(r); save(true); renderScore(); })
     );
     return row;
@@ -302,19 +326,16 @@
     );
     const gates = j.gates.filter(gateActive);
     const gl = $('#cover-gates');
-    if (gl) gl.replaceChildren(...(gates.length ? gates.map((g) => el('li', {}, svg(TRI, 'tri'), el('div', {}, el('span', { class: 'ref', text: g.ref }), state.lang === 'ar' ? g.ar : g.en))) : [el('li', { class: 'none', text: T('gates_none') })]));
+    if (gl) gl.replaceChildren(...(gates.length ? gates.map((g, i) => el('li', {}, tri(i + 1), el('div', {}, el('span', { class: 'ref', text: g.ref }), state.lang === 'ar' ? g.ar : g.en))) : [el('li', { class: 'none', text: T('gates_none') })]));
     const domBlocks = j.baselines.map((b) => {
       const ds = j.domains.filter((d) => d.baseline === b.id).map((d) => [d, tally(rows.filter((r) => r.domain === d.id))]).filter(([, x]) => x.denom > 0);
       return ds.length ? el('div', { class: 'bars' }, el('p', { class: 'bar-group', text: N(b) }), ...ds.map(([d, x]) => bar(`${d.ref}. ${N(d)}`, x))) : null;
     }).filter(Boolean);
+    const count = (k, n) => el('div', { class: 'cell' }, lbl(k), el('b', { text: String(n) }));
     $('#score-body').replaceChildren(
-      el('div', { class: 'counts' },
-        el('div', {}, el('b', { text: String(t.denom) }), el('span', { text: T('score_applicable') })),
-        el('div', {}, el('b', { text: String(t.compliant) }), el('span', { text: T('status_compliant') })),
-        el('div', {}, el('b', { text: String(t.noncompliant + t.unassessed) }), el('span', { text: T('score_gaps') })),
-        el('div', {}, el('b', { text: String(t.na) }), el('span', { text: T('status_na') })),
-        el('div', {}, el('b', { text: String(t.exception) }), el('span', { text: T('status_exception') })),
-        el('div', {}, el('b', { text: String(t.inherited) }), el('span', { text: T('status_inherited') }))),
+      el('div', { class: 'block counts' },
+        count('score_applicable', t.denom), count('status_compliant', t.compliant), count('score_gaps', t.noncompliant + t.unassessed),
+        count('status_na', t.na), count('status_exception', t.exception), count('status_inherited', t.inherited)),
       el('div', { class: 'score-grid' },
         el('div', {}, el('h2', { class: 'h2', text: T('score_by_baseline') }), el('div', { class: 'bars' }, ...byB.map(([n, x]) => bar(n, x))),
           el('h2', { class: 'h2', text: T('score_extensions') }), el('div', { class: 'bars' }, bar(T('extensions_title'), { pct: e.pct, denom: e.total, compliant: e.compliant }))),
@@ -435,6 +456,8 @@
   $('#btn-csv').addEventListener('click', exportCsv);
   $('#btn-md').addEventListener('click', exportMd);
   $('#btn-print').addEventListener('click', () => window.print());
+  let growTimer = null;
+  window.addEventListener('resize', () => { clearTimeout(growTimer); growTimer = setTimeout(growAll, 120); });
   $('#btn-clear').addEventListener('click', () => { if (window.confirm(T('clear_confirm'))) { store.del(key()); A = blank(); renderAll(); $('#export-status').textContent = T('cleared'); } });
 
   A = load();

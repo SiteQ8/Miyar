@@ -620,5 +620,9 @@
  "file_lists": {
   "en": "Checklist",
   "ar": "قائمة التحقق"
+ },
+ "check_col": {
+  "en": "Check",
+  "ar": "التحقق"
  }
 }
