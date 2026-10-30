@@ -2,3 +2,9 @@ node_modules/
 source/
 *.log
 .DS_Store
+.agents/
+.claude/
+.taste-skill/
+.impeccable/*
+!.impeccable/design.json
+skills-lock.json

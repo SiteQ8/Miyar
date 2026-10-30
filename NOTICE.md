@@ -17,3 +17,4 @@ The assignment of controls to checklists, levels and profiles, the approval gate
 ## Third party assets
 
 - Readex Pro typeface, licensed under the SIL Open Font License 1.1. See docs/fonts/OFL.txt.
+- IBM Plex Sans digits (the figures of the interface, subset to the ten digits and the percent sign), copyright IBM Corp., licensed under the SIL Open Font License 1.1. See docs/fonts/OFL-IBM-Plex-Sans.txt.

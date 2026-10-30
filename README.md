@@ -34,6 +34,7 @@ The cover page carries the application name, the business description, owners, c
 ## Use it
 
 - **Site**: `docs/` is a static page with no build step. Pick the jurisdiction and checklist, fill the cover page, switch on the profiles, assess each control with its design and effectiveness evidence, read the score and the gates, then save a file, export CSV or Markdown, or print the cover page. Work stays in the browser until cleared.
+- **Design**: the site is drawn as an engineering drawing sheet: a white sheet in a drafting frame, the cover page as a bilingual title block whose last cell is the coverage figure, controls as the sheet's schedule, status marks that read without colour, revision red on gaps only. The tokens and rules are in `DESIGN.md`.
 - **Markdown**: `checklists/<jurisdiction>/<list>.<lang>.md` are printable checklists with the same cover page, generated from the data.
 - **Data**: `data/` is the source of truth. `structure.json` is the verified control structure, `text.json` the Arabic titles and area summaries, `rules.json` the assignment of every control to lists, levels and profiles, `checks.json` the control level check wording, `extensions.json` the architecture additions, `gates.json` the approval gates.
 
