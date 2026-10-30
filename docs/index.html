@@ -6,119 +6,132 @@
 <title>Miyar | معيار: security architecture checklists</title>
 <link rel="canonical" href="https://miyar.3li.info/">
 <meta name="description" content="Miyar. Bilingual security architecture checklists for applications, cloud services and vendors against banking regulation, with a cover page that scores regulatory coverage.">
+<meta name="theme-color" content="#e4e8ec">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="assets/fonts.css">
 <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
 <a class="skip" href="#main" data-t="nav_controls">Controls</a>
-<header class="masthead">
-  <div class="masthead-row">
-    <div>
-      <h1 id="site-title">Security architecture checklists</h1>
-      <p class="tagline" id="site-tagline"></p>
-    </div>
-    <button class="lang" id="lang-switch" type="button" aria-label="Switch language"></button>
-  </div>
-  <nav class="phases" id="phases" aria-label="Jurisdictions"></nav>
+<header class="topbar">
+  <button class="btn" id="menu-toggle" type="button" aria-controls="sidebar" aria-expanded="false" data-a="menu">
+    <svg class="icon" viewBox="0 0 16 16" aria-hidden="true"><path d="M2 4h12M2 8h12M2 12h12" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/></svg>
+  </button>
+  <div class="wordmark"><span class="wm-first" id="wm-first-top"></span></div>
+  <button class="btn" id="lang-switch-top" type="button" data-a="lang"></button>
 </header>
+<div class="strip">
+  <span class="fig" id="strip-fig">0%</span>
+  <div class="track"><div class="fill" id="strip-fill"></div></div>
+  <span id="strip-of"></span>
+</div>
 <div class="frame">
-  <aside class="rail" aria-label="Checklist">
-    <div class="rail-block">
-      <h2 data-t="checklist"></h2>
-      <div class="list-picker" id="list-picker" role="radiogroup"></div>
+  <aside class="sidebar" id="sidebar" data-a="sidebar_label">
+    <div class="side-close"><button class="btn" id="menu-close" type="button" data-t="close"></button></div>
+    <div class="side-brand">
+      <div class="wordmark"><span class="wm-first" id="wm-first"></span><span class="wm-second" id="wm-second"></span></div>
+      <p class="wordmark-tag" id="wm-tag"></p>
     </div>
-    <div class="rail-block seal-block">
-      <div class="seal" id="seal" role="img"><svg viewBox="0 0 120 120" aria-hidden="true"><circle class="seal-track" cx="60" cy="60" r="52"/><circle class="seal-fill" id="seal-fill" cx="60" cy="60" r="52"/></svg><div class="seal-number" id="seal-number">0%</div></div>
-      <p class="seal-caption" id="seal-caption"></p>
-      <p class="saved" id="saved"></p>
+    <div>
+      <label class="side-label" for="jur-select" data-t="jurisdiction"></label>
+      <select class="side-select" id="jur-select"></select>
     </div>
-    <nav class="rail-nav" aria-label="Sections">
-      <a href="#guide" data-t="nav_guide"></a>
-      <a href="#cover" data-t="nav_cover"></a>
-      <a href="#profiles" data-t="nav_profiles"></a>
-      <a href="#controls" data-t="nav_controls"></a>
-      <a href="#score" data-t="nav_score"></a>
-      <a href="#export" data-t="nav_export"></a>
-      <a href="#sources" data-t="nav_sources"></a>
+    <div>
+      <span class="side-label" id="picker-label" data-t="checklist"></span>
+      <div class="picker" id="list-picker" role="radiogroup" aria-labelledby="picker-label"></div>
+    </div>
+    <nav class="views" id="views" data-a="views_label">
+      <a href="#guide" data-view="guide" data-t="nav_guide"></a>
+      <a href="#cover" data-view="cover" data-t="nav_cover"></a>
+      <a href="#profiles" data-view="profiles" data-t="nav_profiles"></a>
+      <a href="#controls" data-view="controls" data-t="nav_controls"></a>
+      <a href="#score" data-view="score" data-t="nav_score"></a>
+      <a href="#export" data-view="export" data-t="nav_export"></a>
+      <a href="#sources" data-view="sources" data-t="nav_sources"></a>
     </nav>
+    <div class="side-fill"></div>
+    <div class="coverage" id="side-coverage">
+      <span class="side-label" data-t="cover_coverage"></span>
+      <div class="fig" id="side-fig">0%</div>
+      <div class="track"><div class="fill" id="side-fill"></div></div>
+      <div class="of" id="side-of"></div>
+    </div>
+    <div class="side-foot">
+      <button class="btn" id="lang-switch" type="button"></button>
+      <p class="saved" id="saved" aria-live="polite"></p>
+    </div>
   </aside>
-  <main id="main">
-    <section id="guide" class="sheet">
-      <h2 data-t="nav_guide"></h2>
-      <p data-t="guide_intro"></p>
-      <ol class="steps" id="guide-steps"></ol>
-      <div class="two-col">
+  <main class="sheet" id="main">
+    <div class="title-row">
+      <h1 id="view-title"></h1>
+      <p class="sub" id="view-sub"></p>
+    </div>
+
+    <section id="guide" class="view" hidden>
+      <div class="guide-grid">
         <div>
-          <h3 data-t="guide_levels_title"></h3>
-          <dl id="guide-levels"></dl>
+          <p class="intro" data-t="guide_intro"></p>
+          <ol class="steps" id="guide-steps"></ol>
+          <h2 data-t="guide_score_title"></h2>
+          <p class="prose" data-t="guide_score"></p>
         </div>
-        <div>
-          <h3 data-t="guide_statuses_title"></h3>
+        <div class="guide-aside">
+          <h2 data-t="guide_levels_title"></h2>
+          <dl id="guide-levels"></dl>
+          <h2 data-t="guide_statuses_title"></h2>
           <dl id="guide-statuses"></dl>
         </div>
       </div>
-      <h3 data-t="guide_score_title"></h3>
-      <p data-t="guide_score"></p>
     </section>
-    <section id="cover" class="sheet cover">
-      <h2 data-t="cover_title"></h2>
-      <div class="cover-grid" id="cover-form"></div>
-      <div class="cover-bottom">
-        <div class="cover-score">
-          <h3 data-t="cover_coverage"></h3>
-          <div class="cover-score-body" id="cover-score"></div>
-        </div>
-        <div class="cover-gates">
-          <h3 data-t="cover_gates"></h3>
-          <ul id="cover-gates"></ul>
-        </div>
-      </div>
-      <h3 data-t="cover_signoff"></h3>
-      <table class="signoff" id="signoff"></table>
+
+    <section id="cover" class="view" hidden>
+      <div class="block" id="cover-form"></div>
+      <div class="sign" id="signoff"></div>
     </section>
-    <section id="profiles" class="sheet">
-      <h2 data-t="profiles_title"></h2>
-      <p data-t="profiles_intro"></p>
+
+    <section id="profiles" class="view" hidden>
+      <p class="intro" data-t="profiles_intro"></p>
       <div id="profile-groups"></div>
     </section>
-    <section id="controls" class="sheet">
-      <h2 data-t="controls_title"></h2>
+
+    <section id="controls" class="view" hidden>
       <div class="toolbar">
-        <input type="search" id="search" data-p="search">
+        <input type="search" id="search" data-p="search" data-a="search">
         <label><input type="checkbox" id="show-inherited"> <span data-t="show_inherited"></span></label>
         <label><input type="checkbox" id="only-gaps"> <span data-t="only_gaps"></span></label>
         <label><input type="checkbox" id="include-entity"> <span data-t="include_entity"></span></label>
       </div>
-      <div class="baseline-tabs" id="baseline-tabs" role="tablist"></div>
+      <div class="tabs" id="baseline-tabs" role="tablist"></div>
       <div class="ledger" id="ledger"></div>
-      <h3 data-t="extensions_title"></h3>
-      <p class="muted" data-t="extensions_note"></p>
+      <h2 class="h2" data-t="extensions_title"></h2>
+      <p class="intro muted" data-t="extensions_note"></p>
       <div class="ledger" id="ext-ledger"></div>
     </section>
-    <section id="score" class="sheet">
-      <h2 data-t="score_title"></h2>
+
+    <section id="score" class="view" hidden>
       <div id="score-body"></div>
     </section>
-    <section id="export" class="sheet">
-      <h2 data-t="export_title"></h2>
-      <p data-t="export_intro"></p>
+
+    <section id="export" class="view" hidden>
+      <p class="intro" data-t="export_intro"></p>
       <div class="actions">
-        <button type="button" id="btn-save" data-t="save_json"></button>
-        <label class="button" for="file-load" data-t="load_json"></label>
+        <button type="button" class="btn primary" id="btn-save" data-t="save_json"></button>
+        <label class="btn" for="file-load" data-t="load_json"></label>
         <input type="file" id="file-load" accept="application/json" hidden>
-        <button type="button" id="btn-csv" data-t="export_csv"></button>
-        <button type="button" id="btn-md" data-t="export_md"></button>
-        <button type="button" id="btn-print" data-t="print_cover"></button>
-        <button type="button" class="danger" id="btn-clear" data-t="clear"></button>
+        <button type="button" class="btn" id="btn-csv" data-t="export_csv"></button>
+        <button type="button" class="btn" id="btn-md" data-t="export_md"></button>
+        <button type="button" class="btn" id="btn-print" data-t="print_cover"></button>
+        <button type="button" class="btn danger" id="btn-clear" data-t="clear"></button>
       </div>
       <p class="status" id="export-status" aria-live="polite"></p>
+      <div class="file-block" id="file-block"></div>
     </section>
-    <section id="sources" class="sheet">
-      <h2 data-t="sources_title"></h2>
-      <ul id="sources-list"></ul>
-      <p class="muted" id="counts-note"></p>
+
+    <section id="sources" class="view" hidden>
+      <ul class="sources-list" id="sources-list"></ul>
+      <p class="muted small" id="counts-note" style="margin-top:16px"></p>
     </section>
+
     <footer class="foot">
       <p data-t="footer_author"></p>
       <p data-t="footer_disclaimer"></p>
