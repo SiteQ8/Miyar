@@ -29,9 +29,9 @@
   const tri = (n) => {
     const NS = 'http://www.w3.org/2000/svg';
     const s = document.createElementNS(NS, 'svg');
-    s.setAttribute('viewBox', '0 0 18 17'); s.setAttribute('aria-hidden', 'true'); s.setAttribute('class', 'tri');
-    const p = document.createElementNS(NS, 'path'); p.setAttribute('d', 'M9 1L17.5 16.5H0.5Z'); s.append(p);
-    const t = document.createElementNS(NS, 'text'); t.setAttribute('x', '9'); t.setAttribute('y', '14'); t.textContent = String(n); s.append(t);
+    s.setAttribute('viewBox', '0 0 20 19'); s.setAttribute('aria-hidden', 'true'); s.setAttribute('class', 'tri');
+    const p = document.createElementNS(NS, 'path'); p.setAttribute('d', 'M10 1L19.5 18.5H0.5Z'); s.append(p);
+    const t = document.createElementNS(NS, 'text'); t.setAttribute('x', '10'); t.setAttribute('y', '16'); t.textContent = String(n); s.append(t);
     return s;
   };
   const FIELD_SIZING = !!(window.CSS && CSS.supports && CSS.supports('field-sizing', 'content'));
@@ -180,7 +180,7 @@
         if (type === 'text' && /\n/.test(input.value)) input.value = input.value.replace(/\n+/g, ' ');
         A.cover[id] = input.value; save(); syncDate(); grow(input);
       });
-      const cell = el('div', { class: 'cell ' + span }, lbl(label, 'c-' + id), input);
+      const cell = el('div', { class: 'cell f-' + id + ' ' + span }, lbl(label, 'c-' + id), input);
       if (id === 'desc') cell.append(el('span', { class: 'hint', text: T('cover_desc_hint') }));
       return cell;
     });
