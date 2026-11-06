@@ -233,10 +233,10 @@ dd { margin: 0; color: var(--muted); max-width: 60ch; }
 .by-baseline td { padding: 3px 0; border-top: 1px solid var(--rule); vertical-align: top; }
 .by-baseline td.n { text-align: end; white-space: nowrap; padding-inline-start: var(--s-3); }
 .gates { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s-2); }
-.gates li { display: grid; grid-template-columns: 18px minmax(0, 1fr); gap: var(--s-2); align-items: start; line-height: 20px; }
-.gates li .tri { width: 18px; height: 17px; margin-top: 1px; overflow: visible; }
+.gates li { display: grid; grid-template-columns: 20px minmax(0, 1fr); gap: var(--s-2); align-items: start; line-height: 20px; }
+.gates li .tri { width: 20px; height: 19px; margin-top: 0; overflow: visible; }
 .gates li .tri path { fill: none; stroke: currentColor; stroke-width: 1; }
-.gates li .tri text { font-size: 8px; font-weight: 500; fill: currentColor; text-anchor: middle; }
+.gates li .tri text { font-size: 9px; font-weight: 500; fill: currentColor; text-anchor: middle; }
 .gates li .ref { display: block; font-size: var(--fs-small); line-height: 16px; color: var(--muted); }
 .gates li.none { grid-template-columns: 1fr; color: var(--muted); }
 .sign { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); border-top: 0; }
@@ -297,7 +297,7 @@ dd { margin: 0; color: var(--muted); max-width: 60ch; }
 /* Score */
 .counts { margin-bottom: var(--s-6); }
 .counts .cell { min-height: 56px; }
-.counts b { display: block; font-size: var(--fs-section); line-height: 24px; font-weight: 500; }
+.counts b { display: block; margin-top: auto; font-size: var(--fs-section); line-height: 24px; font-weight: 500; }
 .score-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); gap: var(--s-6) var(--s-10); align-items: start; }
 .score-grid > div > h2:first-child { margin-top: 0; }
 .bars { display: grid; gap: var(--s-2); }
@@ -366,6 +366,12 @@ dd { margin: 0; color: var(--muted); max-width: 60ch; }
   .title-row .sub { margin-top: 1mm; }
   .cell, .sign, .counts, .bar { break-inside: avoid; }
   .block { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+  /* The printed sheet is narrower than the screen: four rows of wide cells so every two script label holds one line */
+  .r-2 { grid-row: auto; }
+  .block .cell.half { grid-column: span 2; }
+  .block .cell.f-data, .block .cell.f-users { grid-column: span 3; }
+  .counts .cell { grid-column: span 2; }
+  input[type=date].empty { display: none; }
   .foot { margin-top: 10mm; }
   .cell { background: #fff; }
   .lbl.alt { display: block; }
