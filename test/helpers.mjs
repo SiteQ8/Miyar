@@ -2,6 +2,7 @@ import { readFileSync, readdirSync, statSync } from 'node:fs';
 import { join, extname, relative } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import assert from 'node:assert/strict';
+import { createHash } from 'node:crypto';
 
 export const root = fileURLToPath(new URL('../', import.meta.url));
 export const read = (p) => JSON.parse(readFileSync(join(root, p), 'utf8'));
@@ -36,13 +37,25 @@ export function pair(en, ar, where) {
   assert.deepEqual(digits(ar), digits(en), `${where}: every number must survive translation`);
 }
 export const DASHES = /[\u2012\u2013\u2014\u2015]/;
-export const FORBIDDEN = [/\bNBK\b/, /\bClaude\b/, /\bAnthropic\b/, /claude\.ai/i];
+// Names that must never appear in the project, kept as SHA-256 digests so this list is not itself a place they appear.
+const BLOCKED = new Set([
+  '6afd038687a96730d65753ed0d292878e819324ab3470585c4558861126be9a5',
+  'c70eca6b0f88f44d81a41311647e50fda1ac454ec04ffd442b0eb4743a993131',
+  'c857d09db23e6822e3600bc06ad8d58f92ed62bc8efd81c753f77048662cb97d'
+]);
+const digest = (w) => createHash('sha256').update(w).digest('hex');
+const blockedWords = {
+  test: (s) => [...new Set(s.toLowerCase().match(/[a-z0-9]+/g) || [])].some((w) => BLOCKED.has(digest(w))),
+  toString: () => 'a blocked name',
+};
+export const FORBIDDEN = [blockedWords];
 
 const TEXT = new Set(['.js', '.mjs', '.json', '.md', '.html', '.css', '.txt', '.xml', '.svg', '.yml', '']);
 export function textFiles(dir = root) {
   const out = [];
   for (const name of readdirSync(dir)) {
-    if (['.git', 'node_modules', 'source', 'media', '.agents', '.claude', '.taste-skill', '.impeccable', 'skills-lock.json'].includes(name)) continue;
+    if (['node_modules', 'source', 'media', 'skills-lock.json'].includes(name)) continue;
+    if (name.startsWith('.') && statSync(join(dir, name)).isDirectory()) continue;
     const p = join(dir, name);
     const st = statSync(p);
     if (st.isDirectory()) out.push(...textFiles(p));

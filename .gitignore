@@ -2,9 +2,10 @@ node_modules/
 source/
 *.log
 .DS_Store
-.agents/
-.claude/
-.taste-skill/
+# Local tool folders stay out of the repository
+.*/
+!.github/
+!.impeccable/
 .impeccable/*
 !.impeccable/design.json
 skills-lock.json
