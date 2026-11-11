@@ -54,7 +54,7 @@ const TEXT = new Set(['.js', '.mjs', '.json', '.md', '.html', '.css', '.txt', '.
 export function textFiles(dir = root) {
   const out = [];
   for (const name of readdirSync(dir)) {
-    if (['node_modules', 'source', 'media', 'skills-lock.json'].includes(name)) continue;
+    if (['node_modules', 'source', 'media'].includes(name) || (name.endsWith('-lock.json') && name !== 'package-lock.json')) continue;
     if (name.startsWith('.') && statSync(join(dir, name)).isDirectory()) continue;
     const p = join(dir, name);
     const st = statSync(p);

@@ -5,7 +5,5 @@ source/
 # Local tool folders stay out of the repository
 .*/
 !.github/
-!.impeccable/
-.impeccable/*
-!.impeccable/design.json
-skills-lock.json
+*-lock.json
+!package-lock.json
